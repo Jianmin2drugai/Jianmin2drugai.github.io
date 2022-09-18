@@ -49,7 +49,7 @@ figure>img {
 }
 
 figcaption {
-  font-size: 14px;
+  font-size: 15px;
 }
 
 /**
@@ -75,12 +75,12 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-  color: #2a7ae2;
+  color: #0343df;
   text-decoration: none;
 }
 
 a:visited {
-  color: #bf77f6;
+  color: #9a0eea;
 }
 
 a:hover {
@@ -92,7 +92,7 @@ a:hover {
  * Blockquotes
  */
 blockquote {
-  color: #828282;
+  color: #12e193;
   border-left: 4px solid #e8e8e8;
   padding-left: 12px;
   font-size: 18px;
@@ -458,13 +458,13 @@ ul.publications .authors {
 }
 
 ul.publications .journal-info {
-  color: #828282;
+  color: #2ee8bb;
   font-size: 0.9rem;
 }
 
 ul.publications .year {
   float: right;
-  color: #828282;
+  color: #2ee8bb;
   font-size: 0.9rem;
 }
 
