@@ -454,6 +454,7 @@ ul.publications .title {
 
 ul.publications .authors {
   display: block;
+  color: #0165fc;
   font-size: 0.9rem;
 }
 
