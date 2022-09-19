@@ -427,6 +427,16 @@ pre>code {
   box-sizing: border-box;
 }
 
+.drugai-picture {
+  float: center;
+  margin-right: auto;
+  margin-bottom: auto;
+  max-width: 70%;
+  border: 3px solid #ddd;
+  border-radius: none;
+  box-sizing: none;
+}
+
 @media screen and (max-width: 600px) {
   .profile-picture {
     max-width: 60%;
