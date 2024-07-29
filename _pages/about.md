@@ -25,7 +25,9 @@ News
 
 2022.10.07 Participated in the “1st Yonsei AI Workshop”
 
-2021.04.21 “DrugAI”入选 <a href="[https://www.yonsei.ac.kr/en_sc](https://github.com/jianmin2drugai.github.io/images/drugai_2020_top10.png/">2020年度学术公众号Top10</a>
+2021.04.21 “DrugAI”入选 [2020年度学术公众号Top10](ttps://github.com/jianmin2drugai.github.io/images/drugai_2020_top10.png)
+
+<a href="[https://www.yonsei.ac.kr/en_sc](https://github.com/jianmin2drugai.github.io/images/drugai_2020_top10.png/">2020年度学术公众号Top10</a>
 
 
 Publications
