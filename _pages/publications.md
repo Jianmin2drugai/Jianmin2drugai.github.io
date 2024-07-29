@@ -21,8 +21,13 @@ author_profile: true
     Peng Zhou, **Jianmin Wang**, Chunyan Li, Zixu Wang, Yiping Liu, Siqi Sun, Jianxin Lin, Longyue Wang\*, Xiangxiang Zeng\*  
     [ResearchSquare](https://doi.org/10.21203/rs.3.rs-3845824/v1) | [code](https://github.com/HHW-zhou/TSMMG)
     
-*   Introducing enzymatic cleavage features and transfer learning realizes accurate peptide half-life prediction across species and organs (**IF = 6.8, JCR Q1**) Xiaorong Tan, Qianhui Liu, Yanpeng Fang, Sen Yang, Fei Chen, **Jianmin Wang** , Defang Ouyang, Jie Dong\*, Wenbin Zeng\* Briefings in Bioinformatics. 2024 [Brief. Bioinform.](https://doi.org/10.1093/bib/bbae350)
-*   Exploring the conformational ensembles of protein-protein complex with transformer-based generative model (**IF = 5.5, JCR Q1**) **Jianmin Wang**, Xun Wang, Yanyi Chu, Chunyan Li, Xue Li, Xiangyu Meng, Yitian Fang, Kyoung Tai No\*, Jiashun Mao\*, Xiangxiang Zeng\* Journal of Chemical Theory and Computation. 2024 [J. Chem. Theory Comput.](https://doi.org/10.1021/acs.jctc.4c00255) | [bioRxiv](https://doi.org/10.1101/2024.02.24.581708) | [code](https://github.com/AspirinCode/AlphaPPImd)
+*   Introducing enzymatic cleavage features and transfer learning realizes accurate peptide half-life prediction across species and organs (**IF = 6.8, JCR Q1**)  
+    Xiaorong Tan, Qianhui Liu, Yanpeng Fang, Sen Yang, Fei Chen, **Jianmin Wang** , Defang Ouyang, Jie Dong\*, Wenbin Zeng\*
+    [Brief. Bioinform.](https://doi.org/10.1093/bib/bbae350)
+*   Exploring the conformational ensembles of protein-protein complex with transformer-based generative model (**IF = 5.5, JCR Q1**)  
+    **Jianmin Wang**, Xun Wang, Yanyi Chu, Chunyan Li, Xue Li, Xiangyu Meng, Yitian Fang, Kyoung Tai No\*, Jiashun Mao\*, Xiangxiang Zeng\*  
+   [J. Chem. Theory Comput.](https://doi.org/10.1021/acs.jctc.4c00255) | [bioRxiv](https://doi.org/10.1101/2024.02.24.581708) | [code](https://github.com/AspirinCode/AlphaPPImd)
+
 *   An Image-enhanced Molecular Graph Representation Learning Framework Hongxin Xiang, Shuting Jin, Jun Xia, Man Zhou, **Jianmin Wang**, Li Zeng, Xiangxiang Zeng\* the 33rd International Joint Conference on Artificial Intelligence. 2024 [IJCAI2024](https://ijcai24.org/main-track-accepted-papers/) | [code](https://github.com/HongxinXiang/IEM)
 *   FraHMT: A fragment-oriented heterogeneous graph molecular generation model for target proteins (**IF = 5.6, JCR Q1**) Shuang Wang, Dingming Liang, **Jianmin Wang**, Kaiyu Dong, Yunjing Zhang, Huicong Liang, Ximing Xu, Tao Song\* Journal of Chemical Information and Modeling. 2024 [JCIM](https://doi.org/10.1021/acs.jcim.4c00252) | [code](https://github.com/llldddmmm/Code-FraHMT)
 *   DockingGA: Enhancing Targeted Molecule Generation using Transformer Neural Network and Genetic Algorithm with Docking Simulation (**IF = 4.0, JCR Q1**) Changnan Gao, Wenjie Bao, Shuang Wang, Jianyang Zheng, Lulu Wang, Yongqi Ren, Linfang Jiao, **Jianmin Wang\***, Xun Wang\* Briefings in functional genomics. 2024 [Brief. Funct. Genomics.](https://doi.org/10.1093/bfgp/elae011) | [code](https://github.com/Chinafor/DockingGA)
