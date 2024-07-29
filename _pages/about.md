@@ -8,7 +8,7 @@ redirect_from:
 ---
 Hello, welcome to Jianmin personal website. I was born and raised in Minle county of Zhangye city(张掖市民乐县) in Gansu(甘肃) Province, China.
 
-Currently,I'm a Ph.D. candidate（2021.03.01 to present） in department of Integrative Biotechnology at <a href="https://www.yonsei.ac.kr/en_sc/">Yonsei University</a> in Republic of Korea, advised by Prof. Kyoung Tai No and Prof. YoungSoo Kim.
+Currently,I'm a Ph.D. candidate（2021.03.01 to present） in department of Integrative Biotechnology at <a href="https://www.yonsei.ac.kr/en_sc/">Yonsei University</a> in Republic of Korea, advised by <a href="https://www.csblab.or.kr/">Prof. Kyoung Tai No</a> and <a href="https://chembio.yonsei.ac.kr/">Prof. YoungSoo Kim</a>.
 
 My research involves drug discovery, medicinal chemistry,(generative) artificial intelligence, deep learning, chemoinformatics, and bioinformatics. I focus on applying deep learning methods and computational techniques to unlock drug R&D and health computing.
 
@@ -36,7 +36,7 @@ You can also find my articles on <a href="https://jianmin2drugai.github.io/publi
 Resource
 ======
 
-1. List (Papers and Codes) of molecular design using Generative AI and Deep Learning. Fork [[this repository](https://github.com/AspirinCode/papers-for-molecular-design-using-DL).
-2. List of protein(PPIs) conformations and molecular dynamics using generative artificial intelligence and deep learning. Fork [[this repository](https://github.com/AspirinCode/awesome-AI4ProteinConformation-MD).
-3. List of papers about Proteins Design using Deep Learning. Fork [[this repository](https://github.com/Peldom/papers_for_protein_design_using_DL).
+1. List (Papers and Codes) of molecular design using Generative AI and Deep Learning. Fork [[this repository](https://github.com/AspirinCode/papers-for-molecular-design-using-DL)].
+2. List of protein(PPIs) conformations and molecular dynamics using generative artificial intelligence and deep learning. Fork [[this repository](https://github.com/AspirinCode/awesome-AI4ProteinConformation-MD)].
+3. List of papers about Proteins Design using Deep Learning. Fork [[this repository](https://github.com/Peldom/papers_for_protein_design_using_DL)].
 
