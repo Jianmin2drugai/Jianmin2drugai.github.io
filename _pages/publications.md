@@ -51,10 +51,33 @@ author_profile: true
 
 ### 2023
 
+*   Interface-aware molecular generative framework for protein-protein interaction modulators (**Under Review, bioRxiv. 2023**)  
+    **Jianmin Wang**, Jiashun Mao, Chunyan Li, Hongxin Xiang, Xun Wang, Shuang Wang, Zixu Wang, Yangyang Chen, Yuquan Li, Heqi Sun, Kyoung Tai No\*, Tao Song\*, Xiangxiang Zeng\*  
+    [bioRxiv](https://doi.org/10.1101/2023.10.10.557742) | [code](https://github.com/AspirinCode/GENiPPI)  
+    
+*   iupacGPT: IUPAC-based large-scale molecular pre-trained model for property prediction and molecule generation (**Under Review, ChemRxiv 2023**)  
+    Jiashun Mao, **Jianmin Wang**, Kwang-Hwi Cho\* and Kyoung Tai No\*  
+    [ChemRxiv](https://doi.org/10.26434/chemrxiv-2023-5kjvh) | [code](https://github.com/AspirinCode/iupacGPT)  
+    
+*   MOASL: Predicting drug mechanism of action through similarity learning with transcriptomic signature (**IF = 7.7, JCR Q1, Computers in Biology and Medicine (2023)**)  
+   Likun Jiang, Susu Qu, Zhengqiu Yu, **Jianmin Wang**, Xiangrong Liu\*  
+   [COMPUT BIOL MED](https://doi.org/10.1016/j.compbiomed.2023.107853) | [code](https://github.com/jianglikun/MOASL)  
 
-
-
-
+*   A Multimodal Deep Learning Framework for Predicting PPI-Modulator Interactions (**IF = 5.6, JCR Q1, Journal of Chemical Information and Modeling (2023)**)  
+    Heqi Sun, **Jianmin Wang\***, Hongyan Wu, Shenggeng Lin, Junwei Chen, Jinghua Wei, Shuai Lv, Yi Xiong\*, Dong-Qing Wei\*  
+    [JCIM](https://doi.org/10.1021/acs.jcim.3c01527) | [code](https://github.com/sun-heqi/MultiPPIMI)  
+    
+*   Transformer-based molecular generative model for antiviral drug design (**IF = 5.6, JCR Q1, Journal of Chemical Information and Modeling (2023)**)  
+    Jiashun Mao, **Jianmin Wang**, Amir Zeb, Kwang-Hwi Cho, Haiyan Jin, Jongwan Kim, Onju Lee, Yunyun Wang\* and Kyoung Tai No\*  
+    [JCIM](https://doi.org/10.1021/acs.jcim.3c00536) | [code](https://github.com/AspirinCode/TransAntivirus)
+    
+*   Deep generative model for drug design from protein target sequence (**IF = 8.6, JCR Q1, Journal of Cheminformatics (2023)**)  
+    Yangyang Chen, Zixu Wang, Lei Wang, **Jianmin Wang**, Pengyong Li, Dongsheng Cao, Xiangxiang Zeng, Xiucai Ye & Tetsuya Sakurai  
+    [J Cheminform](https://doi.org/10.1186/s13321-023-00702-2) | [code](https://github.com/viko-3/TargetGAN)
+    
+*   Explore drug-like space with deep generative models (**IF = 4.8, JCR Q1, METHODS(2023)**)  
+    **Jianmin Wang**, Jiashun Mao, Meng Wang, Xiangyang Le, Yunyun Wang\*  
+    [Methods](https://doi.org/10.1016/j.ymeth.2023.01.004) | [code](https://github.com/AspirinCode/drug-likeness_space)  
 
 ### 2022    
 
