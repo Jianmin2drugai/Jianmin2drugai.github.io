@@ -14,9 +14,9 @@ My research involves drug discovery, medicinal chemistry,(generative) artificial
 News
 ======
 
-2024.03.18 腾讯云 | 腾讯云开发者社区 《2023年度优质共创作者：DrugAI》
+2024.03.18 腾讯云/腾讯云开发者社区 《2023年度优质共创作者：DrugAI》
 
-2023.02.10 腾讯云 | 腾讯云开发者社区 《2022年度优秀作者奖：DrugAI》
+2023.02.10 腾讯云/腾讯云开发者社区 《2022年度优秀作者奖：DrugAI》
 
 2022.10.21 Co-edited the first book on “artificial intelligence in drug discovery” published in Chinese. 《智能药物研发-新药研发中的人工智能》 ，编著: 宋弢，曾湘祥，王爽，王建民。
 
