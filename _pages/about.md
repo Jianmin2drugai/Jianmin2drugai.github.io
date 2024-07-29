@@ -25,7 +25,7 @@ News
 
 2022.10.07 Participated in the “1st Yonsei AI Workshop”
 
-2021.04.21 “DrugAI”入选 "2020年度学术公众号Top10"
+2021.04.21 “DrugAI”入选 "2020年度学术公众号Top10"<br/><img src='/images/drugai_logo.png'>
 
 
 
