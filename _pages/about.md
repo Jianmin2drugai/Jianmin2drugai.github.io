@@ -12,6 +12,8 @@ Currently,I'm a Ph.D. candidate（2021.03.01 to present） in department of Inte
 
 My research involves drug discovery, medicinal chemistry,(generative) artificial intelligence, deep learning, chemoinformatics, and bioinformatics. I focus on applying deep learning methods and computational techniques to unlock drug R&D and health computing.
 
+Previously, I pursued my undergraduate degree(B.S.) in pharmacy at the XiangYa School of Pharmaceutical Sciences, <a href="https://www.csu.edu.cn/">Central South University</a>, Changsha, China. I worked in pharmaceutical related companies such as Zhejiang Hisun Pharmaceutical Co., Ltd. and Changsha Duxact Biotech Co., Ltd.. After that I worked as a research assistant for in silico drug design and deep learning for drug discovery at the College of Computer Science and Electronic Engineering, Hunan University, Changsha, China.
+
 News
 ======
 
