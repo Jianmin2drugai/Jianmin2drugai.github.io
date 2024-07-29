@@ -25,6 +25,11 @@ News
 
 2021.04.21 “DrugAI”入选“2020年度学术公众号Top10”
 
+Publications
+======
+You can also find my articles on <a href="https://scholar.google.com/citations?user=4ajuBSkAAAAJ&hl=en">my Google Scholar profile</a>.
+
+
 Resource
 ======
 
