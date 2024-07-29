@@ -1,6 +1,6 @@
 ---
 title: "DrugAI"
-excerpt: "微信公众号(WeChat Official Accounts)DrugAI<br/><img src='/images/500x300.png'>"
+excerpt: "微信公众号(WeChat Official Accounts)DrugAI<br/><img src='/images/drugai_logo.png'>"
 collection: portfolio
 ---
 
