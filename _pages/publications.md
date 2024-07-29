@@ -98,8 +98,8 @@ author_profile: true
     [Brief. Bioinform.](https://doi.org/10.1093/bib/bbac296) | [code](https://github.com/AspirinCode/Molormer)
     
 *   De novo molecular design with deep molecular generative models for PPI inhibitors (**IF = 13.994, JCR Q1, Briefings in Bioinformatics (2022)**)  
-    **Jianmin Wang**, Yanyi Chu , Jiashun Mao , Hyeon-Nae Jeon, Haiyan Jin, Amir Zeb, Yuil Jang, Kwang-Hwi Cho, Tao Song and Kyoung Tai No
-    [Brief. Bioinform.](https://doi.org/10.1093/bib/bbac285) | [code](https://github.com/AspirinCode/iPPIGAN)
+    **Jianmin Wang**, Yanyi Chu , Jiashun Mao , Hyeon-Nae Jeon, Haiyan Jin, Amir Zeb, Yuil Jang, Kwang-Hwi Cho, Tao Song and Kyoung Tai No  
+    [Brief. Bioinform.](https://doi.org/10.1093/bib/bbac285) | [code](https://github.com/AspirinCode/iPPIGAN)  
     
 *   A transformer-based model to predict peptide–HLA class I binding and optimize mutated peptides for vaccine design (**IF = 25.898, JCR Q1, Nature Machine Intelligence (2022)**)  
     Yanyi Chu, Yan Zhang, Qiankun Wang, Lingfeng Zhang, Xuhong Wang, Yanjing Wang, Dennis Russell Salahub, Qin Xu, **Jianmin Wang**, Xue Jiang, Yi Xiong & Dong-Qing Wei  
