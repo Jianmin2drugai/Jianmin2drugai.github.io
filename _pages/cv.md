@@ -20,7 +20,7 @@ Work experience
 
 Publications
 ======
-
+You can also find my articles on <a href="https://jianmin2drugai.github.io/publications/">Publications profile</a>.
 
 Service and leadership
 ======
