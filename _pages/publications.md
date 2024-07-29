@@ -22,11 +22,12 @@ author_profile: true
     [ResearchSquare](https://doi.org/10.21203/rs.3.rs-3845824/v1) | [code](https://github.com/HHW-zhou/TSMMG)
     
 *   Introducing enzymatic cleavage features and transfer learning realizes accurate peptide half-life prediction across species and organs (**IF = 6.8, JCR Q1, Briefings in Bioinformatics (2024)**)  
-    Xiaorong Tan, Qianhui Liu, Yanpeng Fang, Sen Yang, Fei Chen, **Jianmin Wang** , Defang Ouyang, Jie Dong\*, Wenbin Zeng\*
+    Xiaorong Tan, Qianhui Liu, Yanpeng Fang, Sen Yang, Fei Chen, **Jianmin Wang** , Defang Ouyang, Jie Dong\*, Wenbin Zeng\*  
     [Brief. Bioinform.](https://doi.org/10.1093/bib/bbae350)
-*   Exploring the conformational ensembles of protein-protein complex with transformer-based generative model (**IF = 5.5, JCR Q1**)  
+    
+*   Exploring the conformational ensembles of protein-protein complex with transformer-based generative model (**IF = 5.5, JCR Q1, Journal of Chemical Theory and Computation (2024)**)  
     **Jianmin Wang**, Xun Wang, Yanyi Chu, Chunyan Li, Xue Li, Xiangyu Meng, Yitian Fang, Kyoung Tai No\*, Jiashun Mao\*, Xiangxiang Zeng\*  
-   [J. Chem. Theory Comput.](https://doi.org/10.1021/acs.jctc.4c00255) | [bioRxiv](https://doi.org/10.1101/2024.02.24.581708) | [code](https://github.com/AspirinCode/AlphaPPImd)
+   [J. Chem. Theory Comput.](https://doi.org/10.1021/acs.jctc.4c00255) | [bioRxiv](https://doi.org/10.1101/2024.02.24.581708) | [code](https://github.com/AspirinCode/AlphaPPImd)  
 
 *   An Image-enhanced Molecular Graph Representation Learning Framework  
     Hongxin Xiang, Shuting Jin, Jun Xia, Man Zhou, **Jianmin Wang**, Li Zeng, Xiangxiang Zeng\*  
