@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello, welcome to Jianmin personal website. I was born and raised in Minle county of Zhangye city(张掖市民乐县) in Gansu Province, China.
+Hello, welcome to Jianmin personal website. I was born and raised in Minle county of Zhangye city(张掖市民乐县) in Gansu(甘肃) Province, China.
 
 Currently,I'm a Ph.D. candidate（2021.03.01 to present） in department of Integrative Biotechnology at Yonsei University in Republic of Korea, advised by Prof. Kyoung Tai No and Prof. YoungSoo Kim.
 
