@@ -81,9 +81,33 @@ author_profile: true
 
 ### 2022    
 
+*   Application of a deep generative model produces novel and diverse functional peptides against microbial resistance (**IF = 6.155, JCR Q1, Computational and Structural Biotechnology Journal (2022)**)  
+    Jiashun Mao, Shenghui Guan, Yongqing Chen, Amir Zeb, Qingxiang Sun, Ranlan Lu, Jie Dong\*, **Jianmin Wang\***, Dongsheng Cao\*  
+    [CSBJ](https://doi.org/10.1016/j.csbj.2022.12.029) | [code](https://github.com/AspirinCode/AMPTrans-lstm)
+    
+*   Accurate prediction of molecular properties and drug targets using a self-supervised image representation learning framework (**IF = 25.898, JCR Q1, Nature Machine Intelligence. (2022)**)  
+    Xiangxiang Zeng, Hongxin Xiang, Linhui Yu, **Jianmin Wang**, Kenli Li, Ruth Nussinov, Feixiong Cheng  
+   [Nat Mach Intell](https://www.nature.com/articles/s42256-022-00557-6) | [code](https://github.com/AspirinCode/ImageMol)  
 
-
-
+*   Development of an innovative data-driven system to generate descriptive prediction equation of dielectric constant on small sample sets (**IF = 3.776, JCR Q2, Heliyon (2022)**)  
+    Jiashun Mao, AmirZeb, Min-Sung Kim, Hyeon-Nae Jeon, **Jianmin Wang**, Shenghui Guan, Kyoung Tai NO  
+    [Heliyon](https://doi.org/10.1016/j.heliyon.2022.e10011)  
+    
+*   Molormer: a lightweight self-attention-based method focused on spatial structure of molecular graph for drug–drug interactions prediction (**IF = 13.994, JCR Q1, Briefings in Bioinformatics (2022)**)  
+    Xudong Zhang , Gan Wang, Xiangyu Meng, Shuang Wang, Ying Zhang , Alfonso Rodriguez-Paton, **Jianmin Wang\*** and Xun Wang\*  
+    [Brief. Bioinform.](https://doi.org/10.1093/bib/bbac296) | [code](https://github.com/AspirinCode/Molormer)
+    
+*   De novo molecular design with deep molecular generative models for PPI inhibitors (**IF = 13.994, JCR Q1, Briefings in Bioinformatics (2022)**)  
+    **Jianmin Wang**, Yanyi Chu , Jiashun Mao , Hyeon-Nae Jeon, Haiyan Jin, Amir Zeb, Yuil Jang, Kwang-Hwi Cho, Tao Song and Kyoung Tai No
+    [Brief. Bioinform.](https://doi.org/10.1093/bib/bbac285) | [code](https://github.com/AspirinCode/iPPIGAN)
+    
+*   A transformer-based model to predict peptide–HLA class I binding and optimize mutated peptides for vaccine design (**IF = 25.898, JCR Q1, Nature Machine Intelligence (2022)**)  
+    Yanyi Chu, Yan Zhang, Qiankun Wang, Lingfeng Zhang, Xuhong Wang, Yanjing Wang, Dennis Russell Salahub, Qin Xu, **Jianmin Wang**, Xue Jiang, Yi Xiong & Dong-Qing Wei  
+    [Nat Mach Intell](https://doi.org/10.1038/s42256-022-00459-7) | [code](https://github.com/a96123155/TransPHLA-AOMP)
+    
+*   Geometry-Based Molecular Generation With Deep Constrained Variational Autoencoder (**IF = 14.255, JCR Q1, IEEE Transactions on Neural Networks and Learning Systems (2022)**)  
+    Chunyan Li, Junfeng Yao, Wei Wei, Zhangming Niu, Xiangxiang Zeng, Jin Li, **Jianmin Wang**  
+    [IEEE TNNLS](https://ieeexplore.ieee.org/abstract/document/9714718) | [code](https://github.com/anny0316/GEOM-CVAE)  
 
 ### 2021
 
