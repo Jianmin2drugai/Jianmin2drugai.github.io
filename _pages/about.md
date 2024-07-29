@@ -27,11 +27,10 @@ News
 Resource
 ======
 
-1. List (Papers and Codes) of molecular design using Generative AI and Deep Learning. Fork [[this repository](https://github.com/AspirinCode/papers-for-molecular-design-using-DL). 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+1. List (Papers and Codes) of molecular design using Generative AI and Deep Learning. Fork [[this repository](https://github.com/AspirinCode/papers-for-molecular-design-using-DL).
+2. List of protein(PPIs) conformations and molecular dynamics using generative artificial intelligence and deep learning. Fork [[this repository](https://github.com/AspirinCode/awesome-AI4ProteinConformation-MD).
+3. List of papers about Proteins Design using Deep Learning. Fork [[this repository](https://github.com/Peldom/papers_for_protein_design_using_DL).
+
 
 Site-wide configuration
 ------
