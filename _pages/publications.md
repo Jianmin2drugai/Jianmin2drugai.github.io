@@ -30,23 +30,24 @@ author_profile: true
 
 *   An Image-enhanced Molecular Graph Representation Learning Framework  
     Hongxin Xiang, Shuting Jin, Jun Xia, Man Zhou, **Jianmin Wang**, Li Zeng, Xiangxiang Zeng\*  
-    [IJCAI2024](https://ijcai24.org/main-track-accepted-papers/) | [code](https://github.com/HongxinXiang/IEM)
+    [IJCAI2024](https://ijcai24.org/main-track-accepted-papers/) | [code](https://github.com/HongxinXiang/IEM)  
     
 *   FraHMT: A fragment-oriented heterogeneous graph molecular generation model for target proteins (**IF = 5.6, JCR Q1**)  
-    Shuang Wang, Dingming Liang, **Jianmin Wang**, Kaiyu Dong, Yunjing Zhang, Huicong Liang, Ximing Xu, Tao Song\*
-    [JCIM](https://doi.org/10.1021/acs.jcim.4c00252) | [code](https://github.com/llldddmmm/Code-FraHMT)
+    Shuang Wang, Dingming Liang, **Jianmin Wang**, Kaiyu Dong, Yunjing Zhang, Huicong Liang, Ximing Xu, Tao Song\*  
+    [JCIM](https://doi.org/10.1021/acs.jcim.4c00252) | [code](https://github.com/llldddmmm/Code-FraHMT)  
     
-*   DockingGA: Enhancing Targeted Molecule Generation using Transformer Neural Network and Genetic Algorithm with Docking Simulation (**IF = 4.0, JCR Q1**)
-    Changnan Gao, Wenjie Bao, Shuang Wang, Jianyang Zheng, Lulu Wang, Yongqi Ren, Linfang Jiao, **Jianmin Wang\***, Xun Wang\*
-    [Brief. Funct. Genomics.](https://doi.org/10.1093/bfgp/elae011) | [code](https://github.com/Chinafor/DockingGA)
+*   DockingGA: Enhancing Targeted Molecule Generation using Transformer Neural Network and Genetic Algorithm with Docking Simulation (**IF = 4.0, JCR Q1**)  
+    Changnan Gao, Wenjie Bao, Shuang Wang, Jianyang Zheng, Lulu Wang, Yongqi Ren, Linfang Jiao, **Jianmin Wang\***, Xun Wang\*  
+    [Brief. Funct. Genomics.](https://doi.org/10.1093/bfgp/elae011) | [code](https://github.com/Chinafor/DockingGA)  
     
-*   A bidirectional interpretable compound-protein interaction prediction framework based on cross attention (**IF = 7.7, JCR Q1**)
-    Meng Wang, **Jianmin Wang**, Zhiwei Rong, Liuying Wang, Zhenyi Xu, Liuchao Zhang, Jia He, Shuang Li, Lei Cao, Yan Hou, Kang Li\*
-    [COMPUT BIOL MED](https://doi.org/10.1016/j.compbiomed.2024.108239) | [code](https://github.com/wangmeng-code/CmhAttCPI)
+*   A bidirectional interpretable compound-protein interaction prediction framework based on cross attention (**IF = 7.7, JCR Q1**)  
+    Meng Wang, **Jianmin Wang**, Zhiwei Rong, Liuying Wang, Zhenyi Xu, Liuchao Zhang, Jia He, Shuang Li, Lei Cao, Yan Hou, Kang Li\*  
+    [COMPUT BIOL MED](https://doi.org/10.1016/j.compbiomed.2024.108239) | [code](https://github.com/wangmeng-code/CmhAttCPI)  
     
 *   Local Scaffold Diversity-Contributed Generator for Discovering Potential NLRP3 Inhibitors (**IF = 5.6, JCR Q1**)  
     Weichen Bo, Yangqin Duan, Yurong Zou, Ziyan Ma, Tao Yang, Peng Wang,Tao Guo, Zhiyuan Fu, **Jianmin Wang**, Linchuan Fan, Jie liu, Taijin Wang\* and Lijuan Chen\*  
     [JCIM](https://doi.org/10.1021/acs.jcim.3c01818) | [code](https://github.com/wichen-2022/LSDC)
+    
 
 
 
