@@ -19,13 +19,13 @@ News
 
 2024.03.18 腾讯云/腾讯云开发者社区 《2023年度优质共创作者：DrugAI》
 
-2023.02.10 腾讯云/腾讯云开发者社区 《2022年度优秀作者奖：DrugAI》
+2023.02.10 腾讯云/腾讯云开发者社区 <a href="https://jianmin2drugai.github.io/portfolio/portfolio-3/">《2022年度优秀作者奖：DrugAI</a>
 
 2022.10.21 Co-edited the first book on “artificial intelligence in drug discovery” published in Chinese. 《智能药物研发-新药研发中的人工智能》 ，编著: 宋弢，曾湘祥，王爽，王建民。
 
 2022.10.07 Participated in the “1st Yonsei AI Workshop”
 
-2021.04.21 “DrugAI”入选 <a href="https://jianmin2drugai.github.io/portfolio/portfolio-2/">2020年度学术公众号Top10</a>
+2021.04.21 “DrugAI”入选 <a href="https://jianmin2drugai.github.io/portfolio/portfolio-4/">2020年度学术公众号Top10</a>
 
 
 Publications
