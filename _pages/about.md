@@ -13,9 +13,16 @@ My research involves drug discovery, medicinal chemistry,(generative) artificial
 
 News
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+2024.03.18 腾讯云 | 腾讯云开发者社区 《2023年度优质共创作者：DrugAI》
+
+2023.02.10 腾讯云 | 腾讯云开发者社区 《2022年度优秀作者奖：DrugAI》
+
+2022.10.21 Co-edited the first book on “artificial intelligence in drug discovery” published in Chinese. 《智能药物研发-新药研发中的人工智能》 ，编著: 宋弢，曾湘祥，王爽，王建民。
+
+2022.10.07 Participated in the “1st Yonsei AI Workshop”
+
+2021.04.21 “DrugAI”入选“2020年度学术公众号Top10”
 
 Resource
 ======
