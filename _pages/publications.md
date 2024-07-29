@@ -111,6 +111,27 @@ author_profile: true
 
 ### 2021
 
+*   A spatial-temporal gated attention module for molecular property prediction based on molecular geometry (**IF = 13.994, JCR Q1, Briefings in Bioinformatics (2021)**)  
+    Chunyan Li, **Jianmin Wang**, Zhangming Niu, Junfeng Yao, Xiangxiang Zeng  
+    [Brief. Bioinform.](https://doi.org/10.1093/bib/bbab078) | [code](https://github.com/anny0316/Drug3D-Net)  
+    
+*   MUFFIN: multi-scale feature fusion for drug–drug interaction prediction (**IF = 6.931, JCR Q1，Bioinformatics (2021)**)  
+    Yujie Chen, Tengfei Ma, Xixi Yang, **Jianmin Wang**, Bosheng Song, Xiangxiang Zeng  
+    [Bioinformatics](https://doi.org/10.1093/bioinformatics/btab169) | [code](https://github.com/xzenglab/MUFFIN)  
+    
+*   Design and linkage optimization of ursane-thalidomide-based PROTACs and identification of their targeted-degradation properties to MDM2 protein (**IF = 5.307, JCR Q1, Bioorganic Chemistry (2021)**)  
+    Zhiwen Qi, Guliang Yang, Tao Deng, **Jianmin Wang**, Hao Zhou, Sergey A Popov, Elvira E Shults, Chengzhang Wang  
+    [Bioorganic Chemistry](https://doi.org/10.1016/j.bioorg.2021.104901)  
+    
+*   Pretraining model for biological sequence data (**IF = 4.840, JCR Q1, Briefings in functional genomics (2021)**)  
+    Bosheng Song, Zimeng Li, Xuan Lin, **Jianmin Wang**, Tian Wang, Xiangzheng Fu  
+    [bifg](https://doi.org/10.1093/bfgp/elab025)  
+
+### 2020
+
+*   VGG16-T: A Novel Deep Convolutional Neural Network with Boosting to Identify Pathological Type of Lung Cancer in Early Stage by CT Images (**IF = 2.259, JCR Q3，International Journal of Computational Intelligence Systems (2020）**)  
+    Shanchen Pang, Meng Fan, Xun Wang, **Jianmin Wang**, Tao Song, Xingguang Wang, Xiaochun Cheng  
+    [ijcis](https://dx.doi.org/10.2991/ijcis.d.200608.001)  
 
 
 
