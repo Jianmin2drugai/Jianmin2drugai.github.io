@@ -8,23 +8,6 @@ tags:
   - category2
 ---
 
-## Menu
-
-
-
-| Menu | Menu | Menu | Menu |
-| ------ | :---------- | ------ | ------ |
-| [Drug](#drug) | [Cheminformatics](#cheminformatics) | [Bioinformatics](#bioinformatics)  | [Artificial Intelligence](#artificial-intelligence) |
-| [Computer-Aided Drug Design](#Computer-aided-drug-design) |  |  | [Machine Learning](#machine-learning) |
-| [AI-Driven Drug Design and Discovery](#ai-driven-drug-design-and-discovery) |  | [AI for Bio](#ai-for-bio) | [Deep Learning](#deep-learning) |
-| [Generative AI Molecular Design](#generative-ai-molecular-design) |  | [Protein Design](#protein-design) | [Graph Neural Networks](#graph-neural-networks) |
-|  |  |  | [Generative AI](#generative-ai) |
-|  |  |  | [Reinforcement Learning](#reinforcement-learning) |
-
-
-
-
-
 
 ## Drug
 
