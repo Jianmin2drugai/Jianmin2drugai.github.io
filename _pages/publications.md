@@ -21,7 +21,7 @@ author_profile: true
     Peng Zhou, **Jianmin Wang**, Chunyan Li, Zixu Wang, Yiping Liu, Siqi Sun, Jianxin Lin, Longyue Wang\*, Xiangxiang Zeng\*  
     [ResearchSquare](https://doi.org/10.21203/rs.3.rs-3845824/v1) | [code](https://github.com/HHW-zhou/TSMMG)
     
-*   Introducing enzymatic cleavage features and transfer learning realizes accurate peptide half-life prediction across species and organs (**IF = 6.8, JCR Q1, Briefings in Bioinformatics 2024**)  
+*   Introducing enzymatic cleavage features and transfer learning realizes accurate peptide half-life prediction across species and organs (**IF = 6.8, JCR Q1, Briefings in Bioinformatics (2024)**)  
     Xiaorong Tan, Qianhui Liu, Yanpeng Fang, Sen Yang, Fei Chen, **Jianmin Wang** , Defang Ouyang, Jie Dong\*, Wenbin Zeng\*
     [Brief. Bioinform.](https://doi.org/10.1093/bib/bbae350)
 *   Exploring the conformational ensembles of protein-protein complex with transformer-based generative model (**IF = 5.5, JCR Q1**)  
