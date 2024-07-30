@@ -15,7 +15,7 @@ My research involves drug discovery, medicinal chemistry,(generative) artificial
 
 Previously, I pursued my undergraduate degree(B.S.) in pharmacy at the <a href="https://yxy.csu.edu.cn/">XiangYa School of Pharmaceutical Sciences</a>, <a href="https://www.csu.edu.cn/">Central South University</a>, Changsha, China. I worked in pharmaceutical related companies such as Zhejiang Hisun Pharmaceutical Co., Ltd. and Changsha Duxact Biotech Co., Ltd.. After that I worked as a research assistant for in silico drug design and deep learning for drug discovery at the College of Computer Science and Electronic Engineering, Hunan University, Changsha, China.
 
-News
+&#x1F4E2;News
 ======
 &#x1F3C6;2024.03.18 腾讯云/腾讯云开发者社区 <a href="https://jianmin2drugai.github.io/portfolio/portfolio-2/">2023年度优质共创作者：DrugAI</a>
 
@@ -35,7 +35,7 @@ News
 You can also find my articles on <a href="https://jianmin2drugai.github.io/publications/">Publications profile</a>.
 
 
-Resource
+&#x1F4C1;Resource
 ======
 
 * List (Papers and Codes) of molecular design using Generative AI and Deep Learning. Fork [[this repository](https://github.com/AspirinCode/papers-for-molecular-design-using-DL)].
@@ -46,5 +46,5 @@ Resource
 
 Contact
 ======
-E-mail: drugai@hotmail.com
+&#x2709;E-mail: drugai@hotmail.com
 
