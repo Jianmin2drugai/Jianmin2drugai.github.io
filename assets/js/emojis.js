@@ -21,7 +21,7 @@ fetch('/assets/emojis.json')
       let originalText = currentNode.nodeValue;
       console.log('Processing text node:', originalText);
 
-      if (emojiPattern.test(originalText) || /(?:\+1|\-1)/.test(originalText)) {
+      if (emojiPattern.test(originalText) || /\+1|\-1/.test(originalText)) {
         let fragment = document.createDocumentFragment();
         let lastIndex = 0;
         let match;
@@ -56,7 +56,8 @@ fetch('/assets/emojis.json')
         // Handle special cases like +1 and -1
         let remainingText = originalText.slice(lastIndex);
         Object.keys(specialCases).forEach(caseKey => {
-          const casePattern = new RegExp(`\\b${caseKey.replace('+', '\\+')}\\b`, 'g');
+          const escapedKey = caseKey.replace('+', '\\+').replace('-', '\\-');
+          const casePattern = new RegExp(`\\b${escapedKey}\\b`, 'g');
           if (casePattern.test(remainingText)) {
             let specialMatch;
             while ((specialMatch = casePattern.exec(remainingText)) !== null) {
