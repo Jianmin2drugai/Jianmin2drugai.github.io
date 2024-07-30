@@ -23,8 +23,10 @@ fetch('/assets/emojis.json')
         console.log('Processing emoji:', emojiName, emojiUrl); // Log each emoji processed
 
         if (emojiUrl) {
+          // Append text before the emoji
           fragment.appendChild(document.createTextNode(originalText.slice(lastIndex, match.index)));
 
+          // Create the emoji image element
           const img = document.createElement('img');
           img.src = emojiUrl;
           img.alt = emojiName;
@@ -34,10 +36,12 @@ fetch('/assets/emojis.json')
           img.classList.add('emoji');
           fragment.appendChild(img);
 
+          // Update lastIndex to the end of the current match
           lastIndex = emojiPattern.lastIndex;
         }
       }
 
+      // Append remaining text after the last emoji
       fragment.appendChild(document.createTextNode(originalText.slice(lastIndex)));
       currentNode.parentNode.replaceChild(fragment, currentNode);
     }
