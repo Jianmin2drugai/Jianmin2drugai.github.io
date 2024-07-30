@@ -26,6 +26,7 @@ fetch('/assets/emojis.json')
         let lastIndex = 0;
         let match;
 
+        // Handle :emoji: cases
         while ((match = emojiPattern.exec(originalText)) !== null) {
           const [fullMatch, emojiName] = match;
           const emojiUrl = emojis[emojiName];
@@ -49,8 +50,10 @@ fetch('/assets/emojis.json')
           }
         }
 
-        // Handle special cases like +1 and -1
+        // Append remaining text after last match
         let remainingText = originalText.slice(lastIndex);
+
+        // Handle special cases like +1 and -1 in remaining text
         Object.keys(specialCases).forEach(caseKey => {
           const casePattern = new RegExp(`\\b${caseKey}\\b`, 'g');
           if (casePattern.test(remainingText)) {
