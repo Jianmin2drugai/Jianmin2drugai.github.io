@@ -17,6 +17,8 @@ fetch('/assets/emojis.json')
       let lastIndex = 0;
       let match;
 
+      console.log('Processing text node:', originalText); // Log each text node processed
+
       while ((match = emojiPattern.exec(originalText)) !== null) {
         const [fullMatch, emojiName] = match;
         const emojiUrl = emojis[emojiName];
@@ -38,6 +40,8 @@ fetch('/assets/emojis.json')
 
           // Update lastIndex to the end of the current match
           lastIndex = emojiPattern.lastIndex;
+        } else {
+          console.warn('Emoji not found for:', emojiName); // Log if the emoji URL is not found
         }
       }
 
