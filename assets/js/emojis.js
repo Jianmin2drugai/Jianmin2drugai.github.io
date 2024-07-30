@@ -10,6 +10,7 @@ fetch('/assets/emojis.json')
 
     const textNodes = document.createTreeWalker(document.body, NodeFilter.SHOW_TEXT);
     const emojiPattern = /:([a-z0-9_+\-]+):/g;
+
     const specialCases = {
       '+1': emojis['+1'],
       '-1': emojis['-1']
@@ -25,6 +26,7 @@ fetch('/assets/emojis.json')
         let lastIndex = 0;
         let match;
 
+        // Handle :emoji: cases
         while ((match = emojiPattern.exec(originalText)) !== null) {
           const [fullMatch, emojiName] = match;
           const emojiUrl = emojis[emojiName];
@@ -49,15 +51,14 @@ fetch('/assets/emojis.json')
         }
 
         let remainingText = originalText.slice(lastIndex);
-        Object.keys(specialCases).forEach(caseKey => {
-          const casePattern = new RegExp(`\\b${caseKey}\\b`, 'g');
-          if (casePattern.test(remainingText)) {
-            let fragment = document.createDocumentFragment();
-            let lastIndex = 0;
-            let match;
 
-            while ((match = casePattern.exec(remainingText)) !== null) {
-              fragment.appendChild(document.createTextNode(remainingText.slice(lastIndex, match.index)));
+        // Handle special cases like +1 and -1
+        Object.keys(specialCases).forEach(caseKey => {
+          const casePattern = new RegExp(`\\b${caseKey.replace('+', '\\+')}`, 'g');
+          if (casePattern.test(remainingText)) {
+            let specialMatch;
+            while ((specialMatch = casePattern.exec(remainingText)) !== null) {
+              fragment.appendChild(document.createTextNode(remainingText.slice(0, specialMatch.index)));
 
               const img = document.createElement('img');
               img.src = specialCases[caseKey];
@@ -68,11 +69,9 @@ fetch('/assets/emojis.json')
               img.classList.add('emoji');
               fragment.appendChild(img);
 
-              lastIndex = casePattern.lastIndex;
+              remainingText = remainingText.slice(specialMatch.index + caseKey.length);
+              casePattern.lastIndex = 0; // Reset pattern index for next match
             }
-
-            fragment.appendChild(document.createTextNode(remainingText.slice(lastIndex)));
-            currentNode.parentNode.replaceChild(fragment, currentNode);
           }
         });
 
