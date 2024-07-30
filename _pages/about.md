@@ -17,7 +17,10 @@ Previously, I pursued my undergraduate degree(B.S.) in pharmacy at the <a href="
 News
 ======
 
-:trophy:2024.03.18 腾讯云/腾讯云开发者社区 <a href="https://jianmin2drugai.github.io/portfolio/portfolio-2/">2023年度优质共创作者：DrugAI</a>
+# My Emojis
+
+![trophy](https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png?v8)
+2024.03.18 腾讯云/腾讯云开发者社区 <a href="https://jianmin2drugai.github.io/portfolio/portfolio-2/">2023年度优质共创作者：DrugAI</a>
 
 :trophy:2023.02.10 腾讯云/腾讯云开发者社区 <a href="https://jianmin2drugai.github.io/portfolio/portfolio-4/">2022年度优秀作者奖：DrugAI</a>
 
