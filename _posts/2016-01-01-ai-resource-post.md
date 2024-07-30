@@ -1,5 +1,5 @@
 ---
-title: 'AI_Resource'
+title: 'AI Resource'
 date: 2016-01-01
 permalink: /posts/2016/01/blog-post-1/
 tags:
