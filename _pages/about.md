@@ -17,8 +17,6 @@ Previously, I pursued my undergraduate degree(B.S.) in pharmacy at the <a href="
 News
 ======
 
-# My Emojis
-
 2024.03.18 腾讯云/腾讯云开发者社区 <a href="https://jianmin2drugai.github.io/portfolio/portfolio-2/">2023年度优质共创作者：DrugAI</a>
 
 2023.02.10 腾讯云/腾讯云开发者社区 <a href="https://jianmin2drugai.github.io/portfolio/portfolio-4/">2022年度优秀作者奖：DrugAI</a>
@@ -29,7 +27,7 @@ News
 
 2022.08.08 <a href="https://jianmin2drugai.github.io/portfolio/portfolio-3/">梦想照进现实-CSDN实体奖牌：DrugAI</a>
 
-2021.04.21 “DrugAI”入选 <a href="https://jianmin2drugai.github.io/portfolio/portfolio-5/">2020年度学术公众号Top10</a>
+:trophy:2021.04.21 “DrugAI”入选 <a href="https://jianmin2drugai.github.io/portfolio/portfolio-5/">2020年度学术公众号Top10</a>
 
 
 Publications
