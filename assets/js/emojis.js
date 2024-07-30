@@ -11,12 +11,9 @@ fetch('/assets/emojis.json')
       let lastIndex = 0;
       let match;
 
-      console.log('Processing node:', originalText);
-
-      while (match = emojiPattern.exec(originalText)) {
+      while ((match = emojiPattern.exec(originalText)) !== null) {
         const [fullMatch, emojiName] = match;
         const emojiUrl = emojis[emojiName];
-        console.log('Found emoji:', emojiName, emojiUrl);
 
         if (emojiUrl) {
           fragment.appendChild(document.createTextNode(originalText.slice(lastIndex, match.index)));
@@ -26,6 +23,7 @@ fetch('/assets/emojis.json')
           img.alt = emojiName;
           img.style.width = '1em';
           img.style.height = '1em';
+          img.style.verticalAlign = 'middle';
           fragment.appendChild(img);
 
           lastIndex = emojiPattern.lastIndex;
