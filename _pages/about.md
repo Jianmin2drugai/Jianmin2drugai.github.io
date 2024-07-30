@@ -6,7 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Here is a trophy emoji: :trophy:
 
 Hello, welcome to Jianmin personal website. I was born and raised in Minle county of Zhangye city(张掖市民乐县) in Gansu(甘肃) Province, China.
 
