@@ -30,7 +30,7 @@ News
 &#x1F3C6;2021.04.21 “DrugAI”入选 <a href="https://jianmin2drugai.github.io/portfolio/portfolio-5/">2020年度学术公众号Top10</a>
 
 
-Publications
+&#x1F4DA;Publications
 ======
 You can also find my articles on <a href="https://jianmin2drugai.github.io/publications/">Publications profile</a>.
 
