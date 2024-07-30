@@ -6,6 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<div id="emoji-container"></div>
+<script src="/assets/js/emojis.js"></script>
 Hello, welcome to Jianmin personal website. I was born and raised in Minle county of Zhangye city(张掖市民乐县) in Gansu(甘肃) Province, China.
 
 Currently,I'm a Ph.D. candidate（2021.03.01 to present） in department of Integrative Biotechnology at <a href="https://www.yonsei.ac.kr/en_sc/">Yonsei University</a> in Republic of Korea, advised by <a href="https://www.csblab.or.kr/">Prof. Kyoung Tai No</a> and <a href="https://chembio.yonsei.ac.kr/">Prof. YoungSoo Kim</a>.
