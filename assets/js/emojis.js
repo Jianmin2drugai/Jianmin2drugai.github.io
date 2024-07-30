@@ -24,6 +24,7 @@ fetch('/assets/emojis.json')
           img.style.width = '1em';
           img.style.height = '1em';
           img.style.verticalAlign = 'middle';
+          img.classList.add('emoji');
           fragment.appendChild(img);
 
           lastIndex = emojiPattern.lastIndex;
