@@ -21,9 +21,9 @@ Previously, I pursued my undergraduate degree(B.S.) in pharmacy at the <a href="
 
 &#x1F3C6;2023.02.10 腾讯云/腾讯云开发者社区 <a href="https://jianmin2drugai.github.io/portfolio/portfolio-4/">2022年度优秀作者奖：DrugAI</a>
 
-2022.10.21 Co-edited the first book on “artificial intelligence in drug discovery” published in Chinese. 《<a href="http://www.tup.tsinghua.edu.cn/booksCenter/book_09590501.html">智能药物研发-新药研发中的人工智能</a>》 ，编著: 宋弢，曾湘祥，王爽，王建民。
+&#x1F4D9;2022.10.21 Co-edited the first book on “artificial intelligence in drug discovery” published in Chinese. 《<a href="http://www.tup.tsinghua.edu.cn/booksCenter/book_09590501.html">智能药物研发-新药研发中的人工智能</a>》 ，编著: 宋弢，曾湘祥，王爽，王建民。
 
-2022.10.07 Participated in the “1st Yonsei AI Workshop”
+&#x1F4E1;2022.10.07 Participated in the “1st Yonsei AI Workshop”
 
 &#x1F3C6;2022.08.08 <a href="https://jianmin2drugai.github.io/portfolio/portfolio-3/">梦想照进现实-CSDN实体奖牌：DrugAI</a>
 
