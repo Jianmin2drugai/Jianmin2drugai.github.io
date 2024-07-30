@@ -8,7 +8,7 @@ fetch('/assets/emojis.json')
   .then(emojis => {
     console.log('Emojis fetched successfully:', emojis); // Log the emojis fetched
     const textNodes = document.createTreeWalker(document.body, NodeFilter.SHOW_TEXT);
-    const emojiPattern = /:([a-z0-9_]+):/g;
+    const emojiPattern = /:([a-z0-9_+\-]+):/g;
 
     let currentNode;
     while (currentNode = textNodes.nextNode()) {
