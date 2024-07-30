@@ -50,11 +50,13 @@ fetch('/assets/emojis.json')
           }
         }
 
-        let remainingText = originalText.slice(lastIndex);
+        // Append remaining text after last match
+        fragment.appendChild(document.createTextNode(originalText.slice(lastIndex)));
 
         // Handle special cases like +1 and -1
+        let remainingText = originalText.slice(lastIndex);
         Object.keys(specialCases).forEach(caseKey => {
-          const casePattern = new RegExp(`\\b${caseKey.replace('+', '\\+')}`, 'g');
+          const casePattern = new RegExp(`\\b${caseKey.replace('+', '\\+')}\\b`, 'g');
           if (casePattern.test(remainingText)) {
             let specialMatch;
             while ((specialMatch = casePattern.exec(remainingText)) !== null) {
