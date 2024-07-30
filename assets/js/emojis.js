@@ -59,4 +59,6 @@ fetch('/assets/emojis.json')
       currentNode.parentNode.replaceChild(fragment, currentNode);
     }
   })
-  .catch(error => console.error('Error fetching emojis:', error));
+  .catch(error => {
+    console.error('Error fetching emojis:', error);
+  });
