@@ -184,16 +184,6 @@ highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
-gems:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jekyll-github-metadata
-  - jekyll-emoji
-
-plugins:
-  - jekyll-emoji
 
 
 # Markdown Processing
@@ -309,6 +299,11 @@ whitelist:
   - jekyll-feed
   - jemoji
 
+
+#moji Cheat Sheet
+nav:
+  - title: "Emoji Cheat Sheet"
+    url: /emoji-cheat-sheet.md
 
 # Archives
 #  Type
