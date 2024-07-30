@@ -12,8 +12,8 @@ fetch('/assets/emojis.json')
     const emojiPattern = /:([a-z0-9_+\-]+):/g;
 
     const specialCases = {
-      '+1': emojis['+1'],
-      '-1': emojis['-1']
+      '\\+1': emojis['+1'],
+      '\\-1': emojis['-1']
     };
 
     let currentNode;
@@ -51,13 +51,11 @@ fetch('/assets/emojis.json')
         }
 
         // Append remaining text after last match
-        fragment.appendChild(document.createTextNode(originalText.slice(lastIndex)));
+        let remainingText = originalText.slice(lastIndex);
 
         // Handle special cases like +1 and -1
-        let remainingText = originalText.slice(lastIndex);
         Object.keys(specialCases).forEach(caseKey => {
-          const escapedKey = caseKey.replace('+', '\\+').replace('-', '\\-');
-          const casePattern = new RegExp(`\\b${escapedKey}\\b`, 'g');
+          const casePattern = new RegExp(`\\b${caseKey}\\b`, 'g');
           if (casePattern.test(remainingText)) {
             let specialMatch;
             while ((specialMatch = casePattern.exec(remainingText)) !== null) {
