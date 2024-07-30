@@ -21,7 +21,7 @@ Work experience
 
 * July 2014 to September 2016: Research Assistant (Drug R&D)
   * HiSun Pharmaceuticals Co., Ltd.	
-  * Duties included: Tagging issues
+  * Duties included: Drug Design and Drug Synthesis
 
 
 Publications
