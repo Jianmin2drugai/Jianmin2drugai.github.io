@@ -44,7 +44,7 @@ You can also find my articles on <a href="https://jianmin2drugai.github.io/publi
   
 * List of papers about Proteins Design using Deep Learning. Fork [[this repository](https://github.com/Peldom/papers_for_protein_design_using_DL)].  
 
-Contact
+&#x1F4CC;Contact
 ======
 &#x2709;E-mail: drugai@hotmail.com
 
