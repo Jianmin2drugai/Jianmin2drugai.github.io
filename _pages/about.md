@@ -38,7 +38,9 @@ You can also find my articles on <a href="https://jianmin2drugai.github.io/publi
 Resource
 ======
 
-1. List (Papers and Codes) of molecular design using Generative AI and Deep Learning. Fork [[this repository](https://github.com/AspirinCode/papers-for-molecular-design-using-DL)].
-2. List of protein(PPIs) conformations and molecular dynamics using generative artificial intelligence and deep learning. Fork [[this repository](https://github.com/AspirinCode/awesome-AI4ProteinConformation-MD)].
-3. List of papers about Proteins Design using Deep Learning. Fork [[this repository](https://github.com/Peldom/papers_for_protein_design_using_DL)].
+* List (Papers and Codes) of molecular design using Generative AI and Deep Learning. Fork [[this repository](https://github.com/AspirinCode/papers-for-molecular-design-using-DL)].
+  
+* List of protein(molecules, enzymes, antibody, and PPIs) conformations and molecular dynamics using generative artificial intelligence and deep learning. Fork [[this repository](https://github.com/AspirinCode/awesome-AI4MolConformation-MD)].
+  
+* List of papers about Proteins Design using Deep Learning. Fork [[this repository](https://github.com/Peldom/papers_for_protein_design_using_DL)].  
 
