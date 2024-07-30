@@ -30,11 +30,12 @@ fetch('/assets/emojis.json')
           lastIndex = emojiPattern.lastIndex;
         }
       }
-      
+
       // Append the remaining text after the last emoji
       fragment.appendChild(document.createTextNode(originalText.slice(lastIndex)));
-      
+
       // Replace the original text node with the fragment
       currentNode.parentNode.replaceChild(fragment, currentNode);
     }
-  });
+  })
+  .catch(error => console.error('Error fetching emojis:', error));
