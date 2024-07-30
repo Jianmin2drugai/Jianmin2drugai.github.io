@@ -48,3 +48,5 @@ Contact
 ======
 
 :e-mail:E-mail: drugai@hotmail.com
+
+Check out the [Emoji Cheat Sheet](emoji-cheat-sheet.md) for more details.
