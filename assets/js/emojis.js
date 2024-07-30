@@ -6,7 +6,7 @@ fetch('/assets/emojis.json')
     return response.json();
   })
   .then(emojis => {
-    console.log('Emojis fetched successfully:', emojis); // Add logging
+    console.log('Emojis fetched successfully:', emojis); // Log the emojis fetched
     const textNodes = document.createTreeWalker(document.body, NodeFilter.SHOW_TEXT);
     const emojiPattern = /:([a-z0-9_]+):/g;
 
@@ -20,7 +20,7 @@ fetch('/assets/emojis.json')
       while ((match = emojiPattern.exec(originalText)) !== null) {
         const [fullMatch, emojiName] = match;
         const emojiUrl = emojis[emojiName];
-        console.log('Processing emoji:', emojiName, emojiUrl); // Add logging
+        console.log('Processing emoji:', emojiName, emojiUrl); // Log each emoji processed
 
         if (emojiUrl) {
           fragment.appendChild(document.createTextNode(originalText.slice(lastIndex, match.index)));
