@@ -6,6 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Here is a trophy emoji: :trophy:
+
 Hello, welcome to Jianmin personal website. I was born and raised in Minle county of Zhangye city(张掖市民乐县) in Gansu(甘肃) Province, China.
 
 Currently,I'm a Ph.D. candidate（2021.03.01 to present） in department of Integrative Biotechnology at <a href="https://www.yonsei.ac.kr/en_sc/">Yonsei University</a> in Republic of Korea, advised by <a href="https://www.csblab.or.kr/">Prof. Kyoung Tai No</a> and <a href="https://chembio.yonsei.ac.kr/">Prof. YoungSoo Kim</a>.
@@ -16,8 +18,7 @@ Previously, I pursued my undergraduate degree(B.S.) in pharmacy at the <a href="
 
 :loudspeaker:News
 ======
-
-:trophy: 2024.03.18 腾讯云/腾讯云开发者社区 <a href="https://jianmin2drugai.github.io/portfolio/portfolio-2/">2023年度优质共创作者：DrugAI</a>
+:trophy:2024.03.18 腾讯云/腾讯云开发者社区 <a href="https://jianmin2drugai.github.io/portfolio/portfolio-2/">2023年度优质共创作者：DrugAI</a>
 
 :trophy: 2023.02.10 腾讯云/腾讯云开发者社区 <a href="https://jianmin2drugai.github.io/portfolio/portfolio-4/">2022年度优秀作者奖：DrugAI</a>
 
@@ -30,7 +31,7 @@ Previously, I pursued my undergraduate degree(B.S.) in pharmacy at the <a href="
 :trophy: 2021.04.21 “DrugAI”入选 <a href="https://jianmin2drugai.github.io/portfolio/portfolio-5/">2020年度学术公众号Top10</a>
 
 
-:books: Publications
+:books:Publications
 ======
 You can also find my articles on <a href="https://jianmin2drugai.github.io/publications/">Publications profile</a>.
 
