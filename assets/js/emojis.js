@@ -8,17 +8,19 @@ fetch('/assets/emojis.json')
     while (currentNode = textNodes.nextNode()) {
       let originalText = currentNode.nodeValue;
       let fragment = document.createDocumentFragment();
-      let match;
       let lastIndex = 0;
+      let match;
+
+      console.log('Processing node:', originalText);
 
       while (match = emojiPattern.exec(originalText)) {
         const [fullMatch, emojiName] = match;
         const emojiUrl = emojis[emojiName];
+        console.log('Found emoji:', emojiName, emojiUrl);
+
         if (emojiUrl) {
-          // Append text before the emoji
           fragment.appendChild(document.createTextNode(originalText.slice(lastIndex, match.index)));
 
-          // Create and append the emoji image
           const img = document.createElement('img');
           img.src = emojiUrl;
           img.alt = emojiName;
@@ -26,15 +28,11 @@ fetch('/assets/emojis.json')
           img.style.height = '1em';
           fragment.appendChild(img);
 
-          // Update the lastIndex to the end of the match
           lastIndex = emojiPattern.lastIndex;
         }
       }
 
-      // Append the remaining text after the last emoji
       fragment.appendChild(document.createTextNode(originalText.slice(lastIndex)));
-
-      // Replace the original text node with the fragment
       currentNode.parentNode.replaceChild(fragment, currentNode);
     }
   })
