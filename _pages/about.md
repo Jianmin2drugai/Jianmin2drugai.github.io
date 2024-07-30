@@ -25,9 +25,9 @@ News
 
 2022.10.07 Participated in the “1st Yonsei AI Workshop”
 
-2022.08.08 <a href="https://jianmin2drugai.github.io/portfolio/portfolio-3/">梦想照进现实-CSDN实体奖牌：DrugAI</a>
+:trophy: 2022.08.08 <a href="https://jianmin2drugai.github.io/portfolio/portfolio-3/">梦想照进现实-CSDN实体奖牌：DrugAI</a>
 
-2021.04.21 “DrugAI”入选 <a href="https://jianmin2drugai.github.io/portfolio/portfolio-5/">2020年度学术公众号Top10</a>
+:trophy: 2021.04.21 “DrugAI”入选 <a href="https://jianmin2drugai.github.io/portfolio/portfolio-5/">2020年度学术公众号Top10</a>
 
 
 Publications
