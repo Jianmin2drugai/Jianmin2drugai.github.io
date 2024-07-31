@@ -15,7 +15,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-### 2024
+### &#x1F4C5;2024
 
 *   Instruction Multi-Constraint Molecular Generation Using a Teacher-Student Large Language Model (**Under Review**)  
     Peng Zhou, **Jianmin Wang**, Chunyan Li, Zixu Wang, Yiping Liu, Siqi Sun, Jianxin Lin, Longyue Wang\*, Xiangxiang Zeng\*  
