@@ -1,9 +1,9 @@
 ---
 title: "Teaching experience 1"
 collection: teaching
-type: "Undergraduate course"
+type: "Graduate course"
 permalink: /teaching/2199-spring-teaching-1
-venue: "University 1, Department"
+venue: "Future University 1, Department of Future"
 date: 2199-01-01
 location: "City, Country"
 ---
