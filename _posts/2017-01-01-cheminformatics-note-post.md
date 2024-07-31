@@ -11,9 +11,9 @@ tags:
 
 Cheminformatics  
 
-[RDKit](https://www.rdkit.org/)  [RDKit conda-forge](https://anaconda.org/conda-forge/rdkit) ,   RDKit is a collection of cheminformatics and machine-learning software written in C++ and Python.
+[RDKit](https://www.rdkit.org/) , [RDKit conda-forge](https://anaconda.org/conda-forge/rdkit) ,   RDKit is a collection of cheminformatics and machine-learning software written in C++ and Python.
 
-[OpenBabel](https://github.com/openbabel/openbabel)  [OpenBabel conda-forge](https://anaconda.org/conda-forge/openbabel) , A chemical toolbox designed to speak the many languages of chemical data.
+[OpenBabel](https://github.com/openbabel/openbabel) , [OpenBabel conda-forge](https://anaconda.org/conda-forge/openbabel) , A chemical toolbox designed to speak the many languages of chemical data.
 
 
 [**awesome-cheminformatics**](https://github.com/hsiaoyi0504/awesome-cheminformatics)  
