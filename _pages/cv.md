@@ -32,3 +32,8 @@ You can also find my articles on <a href="https://jianmin2drugai.github.io/publi
 
 Service and leadership
 ======
+
+
+杏林语鹊
+======
+没有谁的剧本值得羡慕，只能把自己的剧本演好。
