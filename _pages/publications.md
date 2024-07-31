@@ -49,7 +49,7 @@ author_profile: true
     Weichen Bo, Yangqin Duan, Yurong Zou, Ziyan Ma, Tao Yang, Peng Wang,Tao Guo, Zhiyuan Fu, **Jianmin Wang**, Linchuan Fan, Jie liu, Taijin Wang\* and Lijuan Chen\*  
     [JCIM](https://doi.org/10.1021/acs.jcim.3c01818) | [code](https://github.com/wichen-2022/LSDC)  
 
-### 2023
+### &#x1F4C5;2023
 
 *   Interface-aware molecular generative framework for protein-protein interaction modulators (**Under Review, bioRxiv. 2023**)  
     **Jianmin Wang**, Jiashun Mao, Chunyan Li, Hongxin Xiang, Xun Wang, Shuang Wang, Zixu Wang, Yangyang Chen, Yuquan Li, Heqi Sun, Kyoung Tai No\*, Tao Song\*, Xiangxiang Zeng\*  
@@ -79,7 +79,7 @@ author_profile: true
     **Jianmin Wang**, Jiashun Mao, Meng Wang, Xiangyang Le, Yunyun Wang\*  
     [Methods](https://doi.org/10.1016/j.ymeth.2023.01.004) | [code](https://github.com/AspirinCode/drug-likeness_space)  
 
-### 2022    
+### &#x1F4C5;2022    
 
 *   Application of a deep generative model produces novel and diverse functional peptides against microbial resistance (**IF = 6.155, JCR Q1, Computational and Structural Biotechnology Journal (2022)**)  
     Jiashun Mao, Shenghui Guan, Yongqing Chen, Amir Zeb, Qingxiang Sun, Ranlan Lu, Jie Dong\*, **Jianmin Wang\***, Dongsheng Cao\*  
@@ -109,7 +109,7 @@ author_profile: true
     Chunyan Li, Junfeng Yao, Wei Wei, Zhangming Niu, Xiangxiang Zeng, Jin Li, **Jianmin Wang**  
     [IEEE TNNLS](https://ieeexplore.ieee.org/abstract/document/9714718) | [code](https://github.com/anny0316/GEOM-CVAE)  
 
-### 2021
+### &#x1F4C5;2021
 
 *   A spatial-temporal gated attention module for molecular property prediction based on molecular geometry (**IF = 13.994, JCR Q1, Briefings in Bioinformatics (2021)**)  
     Chunyan Li, **Jianmin Wang**, Zhangming Niu, Junfeng Yao, Xiangxiang Zeng  
@@ -127,7 +127,7 @@ author_profile: true
     Bosheng Song, Zimeng Li, Xuan Lin, **Jianmin Wang**, Tian Wang, Xiangzheng Fu  
     [bifg](https://doi.org/10.1093/bfgp/elab025)  
 
-### 2020
+### &#x1F4C5;2020
 
 *   VGG16-T: A Novel Deep Convolutional Neural Network with Boosting to Identify Pathological Type of Lung Cancer in Early Stage by CT Images (**IF = 2.259, JCR Q3，International Journal of Computational Intelligence Systems (2020）**)  
     Shanchen Pang, Meng Fan, Xun Wang, **Jianmin Wang**, Tao Song, Xingguang Wang, Xiaochun Cheng  
