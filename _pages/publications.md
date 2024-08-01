@@ -31,7 +31,7 @@ author_profile: true
 
 *   An Image-enhanced Molecular Graph Representation Learning Framework  
     Hongxin Xiang, Shuting Jin, Jun Xia, Man Zhou, **Jianmin Wang**, Li Zeng, Xiangxiang Zeng\*  
-    [IJCAI2024](https://ijcai24.org/main-track-accepted-papers/) | [code](https://github.com/HongxinXiang/IEM)  
+    [IJCAI2024](https://doi.org/10.24963/ijcai.2024/675) | [code](https://github.com/HongxinXiang/IEM)  
     
 *   FraHMT: A fragment-oriented heterogeneous graph molecular generation model for target proteins (**IF = 5.6, JCR Q1, Journal of Chemical Information and Modeling (2024)**)  
     Shuang Wang, Dingming Liang, **Jianmin Wang**, Kaiyu Dong, Yunjing Zhang, Huicong Liang, Ximing Xu, Tao Song\*  
