@@ -20,6 +20,10 @@ author_profile: true
 *   Instruction Multi-Constraint Molecular Generation Using a Teacher-Student Large Language Model (**Under Review**)  
     Peng Zhou, **Jianmin Wang**, Chunyan Li, Zixu Wang, Yiping Liu, Siqi Sun, Jianxin Lin, Longyue Wang\*, Xiangxiang Zeng\*  
     [ResearchSquare](https://doi.org/10.21203/rs.3.rs-3845824/v1) | [code](https://github.com/HHW-zhou/TSMMG)
+
+*   An Image-enhanced Molecular Graph Representation Learning Framework  
+    Hongxin Xiang, Shuting Jin, Jun Xia, Man Zhou, **Jianmin Wang**, Li Zeng, Xiangxiang Zeng\*  
+    [IJCAI2024](https://doi.org/10.24963/ijcai.2024/675) | [code](https://github.com/HongxinXiang/IEM)  
     
 *   Introducing enzymatic cleavage features and transfer learning realizes accurate peptide half-life prediction across species and organs (**IF = 6.8, JCR Q1, Briefings in Bioinformatics (2024)**)  
     Xiaorong Tan, Qianhui Liu, Yanpeng Fang, Sen Yang, Fei Chen, **Jianmin Wang** , Defang Ouyang, Jie Dong\*, Wenbin Zeng\*  
@@ -28,10 +32,6 @@ author_profile: true
 *   Exploring the conformational ensembles of protein-protein complex with transformer-based generative model (**IF = 5.5, JCR Q1, Journal of Chemical Theory and Computation (2024)**)  
     **Jianmin Wang**, Xun Wang, Yanyi Chu, Chunyan Li, Xue Li, Xiangyu Meng, Yitian Fang, Kyoung Tai No\*, Jiashun Mao\*, Xiangxiang Zeng\*  
    [J. Chem. Theory Comput.](https://doi.org/10.1021/acs.jctc.4c00255) | [bioRxiv](https://doi.org/10.1101/2024.02.24.581708) | [code](https://github.com/AspirinCode/AlphaPPImd)  
-
-*   An Image-enhanced Molecular Graph Representation Learning Framework  
-    Hongxin Xiang, Shuting Jin, Jun Xia, Man Zhou, **Jianmin Wang**, Li Zeng, Xiangxiang Zeng\*  
-    [IJCAI2024](https://doi.org/10.24963/ijcai.2024/675) | [code](https://github.com/HongxinXiang/IEM)  
     
 *   FraHMT: A fragment-oriented heterogeneous graph molecular generation model for target proteins (**IF = 5.6, JCR Q1, Journal of Chemical Information and Modeling (2024)**)  
     Shuang Wang, Dingming Liang, **Jianmin Wang**, Kaiyu Dong, Yunjing Zhang, Huicong Liang, Ximing Xu, Tao Song\*  
