@@ -1,7 +1,7 @@
 ---
 title: 'Molecular and Material design using Generative AI and Deep Learning'
 date: 2024-08-16
-permalink: /posts/2024/08/blog-post-1/
+permalink: /posts/2024/08/blog-post-2/
 tags:
   - cool posts
   - Generative AI
@@ -12,7 +12,7 @@ tags:
 Molecular and Material design using Generative AI and Deep Learning
 
 
-
+https://github.com/AspirinCode/papers-for-molecular-design-using-DL
 
 
 
