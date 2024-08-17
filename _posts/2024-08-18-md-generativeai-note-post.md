@@ -9,5 +9,4 @@ tags:
   - Molecular Conformation
 ---
 
-
-molecules (small molecules, RNA, peptide, protein, enzymes, antibody, and PPIs) conformations and molecular dynamics (force fields) using generative artificial intelligence and deep learning
+molecules conformations and molecular dynamics using generative artificial intelligence and deep learning
