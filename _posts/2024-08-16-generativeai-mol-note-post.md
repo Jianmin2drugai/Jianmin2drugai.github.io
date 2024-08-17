@@ -1,5 +1,5 @@
 ---
-title: 'Molecular and Material design using Generative AI and Deep Learning'
+title: 'Molecular and Material design using GenAI and DL'
 date: 2024-08-16
 permalink: /posts/2024/08/blog-post-2/
 tags:
