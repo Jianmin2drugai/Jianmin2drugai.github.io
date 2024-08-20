@@ -44,7 +44,7 @@ You can also find my articles on <a href="https://jianmin2drugai.github.io/publi
   
 * List of papers about Proteins Design using Deep Learning. Fork [[this repository](https://github.com/Peldom/papers_for_protein_design_using_DL)].
 
-* Collection of RNA, mRNA, DNA, Peptide, Protein, Antibody and Complex for Folding. Fork [[https://github.com/AspirinCode/awesome-BioMolFold)].
+* Collection of RNA, mRNA, DNA, Peptide, Protein, Antibody and Complex for Folding. Fork [[this repository](https://github.com/AspirinCode/awesome-BioMolFold)].
 
 
 &#x1F4CC;Contact
