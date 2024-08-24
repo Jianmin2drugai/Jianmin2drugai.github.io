@@ -46,6 +46,8 @@ You can also find my articles on <a href="https://jianmin2drugai.github.io/publi
 
 * Collection of RNA, mRNA, DNA, Peptide, Protein, Antibody and Complex for Folding. Fork [[this repository](https://github.com/AspirinCode/awesome-BioMolFold)].
 
+* AI for Chemical Spectra. Fork [[this repository](https://github.com/AspirinCode/awesome-ChemicalSpectraAI)].
+
 
 &#x1F4CC;Contact
 ======
