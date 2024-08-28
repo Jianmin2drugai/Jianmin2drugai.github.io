@@ -10,6 +10,10 @@ tags:
   - NMR
 ---
 
+
+AI for Chemical Spectra
+
+
 [![License: GPL](https://img.shields.io/badge/License-GPL-yellow)](https://github.com/AspirinCode/awesome-ChemicalSpectraAI)
 
 
