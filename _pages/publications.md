@@ -21,6 +21,10 @@ author_profile: true
     Xue Li, Ben Cao, **Jianmin Wang**, Xiangyu Meng, Shuang Wang, Yu Huang, Enrico Petretto, Tao Song\*  
     [bioRxiv](https://doi.org/10.1101/2024.08.06.606730) | [code](https://github.com/xueleecs/CGM)  
 
+*   Improving compound-protein interaction prediction by focusing on intra-modality and inter-modality dynamics with a multimodal tensor fusion strategy (**IF = 4.4, JCR Q1, Computational and Structural Biotechnology Journal (2024)**)  
+    Meng Wang, **Jianmin Wang**, Zhiwei Rong, Jianxin Ji, Chenjing Ma, Hesong Wang, Jia He, Yongzhen Song, Xuan Zhang, Yong Cao, Yanyan Dai, Menglei Hua, Ruihao Qin, Kang Li\* and Lei Cao\*  
+    [Comput. Struct. Biotechnol. J.](https://github.com/wangmeng-code/MMTF-CPI) | [code](https://github.com/wangmeng-code/MMTF-CPI)  
+
 *   Instruction Multi-Constraint Molecular Generation Using a Teacher-Student Large Language Model (**Under Review**)  
     Peng Zhou, **Jianmin Wang**, Chunyan Li, Zixu Wang, Yiping Liu, Siqi Sun, Jianxin Lin, Longyue Wang\*, Xiangxiang Zeng\*  
     [ResearchSquare](https://doi.org/10.21203/rs.3.rs-3845824/v1) | [code](https://github.com/HHW-zhou/TSMMG)
