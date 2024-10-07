@@ -23,7 +23,7 @@ author_profile: true
 
 *   Improving compound-protein interaction prediction by focusing on intra-modality and inter-modality dynamics with a multimodal tensor fusion strategy (**IF = 4.4, JCR Q1, Computational and Structural Biotechnology Journal (2024)**)  
     Meng Wang, **Jianmin Wang**, Zhiwei Rong, Jianxin Ji, Chenjing Ma, Hesong Wang, Jia He, Yongzhen Song, Xuan Zhang, Yong Cao, Yanyan Dai, Menglei Hua, Ruihao Qin, Kang Li\* and Lei Cao\*  
-    [Comput. Struct. Biotechnol. J.](https://github.com/wangmeng-code/MMTF-CPI) | [code](https://github.com/wangmeng-code/MMTF-CPI)  
+    [Comput. Struct. Biotechnol. J.](https://doi.org/10.1016/j.csbj.2024.10.004) | [code](https://github.com/wangmeng-code/MMTF-CPI)  
 
 *   Instruction Multi-Constraint Molecular Generation Using a Teacher-Student Large Language Model (**Under Review**)  
     Peng Zhou, **Jianmin Wang**, Chunyan Li, Zixu Wang, Yiping Liu, Siqi Sun, Jianxin Lin, Longyue Wang\*, Xiangxiang Zeng\*  
