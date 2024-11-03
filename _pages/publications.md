@@ -17,6 +17,10 @@ author_profile: true
 
 ### &#x1F4C5;2024
 
+*   Diffusion-based generative drug-like molecular editing with chemical natural language (**IF = 6.1, JCR Q1, Journal of Pharmaceutical Analysis (2024)**)  
+    **Jianmin Wang**, Peng Zhou, Zixu Wang, Wei Long, Yangyang Chen, Kyoung Tai No, Dongsheng Ouyang\*，Jiashun Mao\* and Xiangxiang Zeng\*  
+    [J. Pharm. Anal.](https://doi.org/10.1016/j.jpha.2024.101137) | [code](https://github.com/AspirinCode/DiffIUPAC)  
+
 *   Predicting mutation-disease associations through protein interactions via deep learning (**Under Review, bioRxiv. 2024**)  
     Xue Li, Ben Cao, **Jianmin Wang**, Xiangyu Meng, Shuang Wang, Yu Huang, Enrico Petretto, Tao Song\*  
     [bioRxiv](https://doi.org/10.1101/2024.08.06.606730) | [code](https://github.com/xueleecs/CGM)  
