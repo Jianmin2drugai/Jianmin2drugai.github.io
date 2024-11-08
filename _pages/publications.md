@@ -17,6 +17,10 @@ author_profile: true
 
 ### &#x1F4C5;2024
 
+*   Activity cliff-informed contrastive learning for molecular property prediction (**Under Review, ChemRxiv 2024**)  
+    Wanxiang Shen, Chao Cui, Xiaorui Su, Zaixi Zhang, Alejandro Velez-Arce, **Jianmin Wang**, Xiangcheng Shi, Yanbing Zhang, Jie Wu, Yuzong Chen\* and Marinka Zitnik\*  
+    [ChemRxiv](https://doi.org/10.26434/chemrxiv-2023-5cz7s-v2) | [code](https://github.com/shenwanxiang/ACANet)  
+
 *   Diffusion-based generative drug-like molecular editing with chemical natural language (**IF = 6.1, JCR Q1, Journal of Pharmaceutical Analysis (2024)**)  
     **Jianmin Wang**, Peng Zhou, Zixu Wang, Wei Long, Yangyang Chen, Kyoung Tai No, Dongsheng Ouyang\*，Jiashun Mao\* and Xiangxiang Zeng\*  
     [J. Pharm. Anal.](https://doi.org/10.1016/j.jpha.2024.101137) | [code](https://github.com/AspirinCode/DiffIUPAC)  
