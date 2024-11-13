@@ -70,11 +70,7 @@ author_profile: true
     [JCIM](https://doi.org/10.1021/acs.jcim.3c01818) | [code](https://github.com/wichen-2022/LSDC)  
 
 ### &#x1F4C5;2023
-
-*   Interface-aware molecular generative framework for protein-protein interaction modulators (**Under Review, bioRxiv. 2023**)  
-    **Jianmin Wang**, Jiashun Mao, Chunyan Li, Hongxin Xiang, Xun Wang, Shuang Wang, Zixu Wang, Yangyang Chen, Yuquan Li, Kyoung Tai No\*, Tao Song\*, Xiangxiang Zeng\*  
-    [bioRxiv](https://doi.org/10.1101/2023.10.10.557742) | [code](https://github.com/AspirinCode/GENiPPI)  
-    
+   
 *   iupacGPT: IUPAC-based large-scale molecular pre-trained model for property prediction and molecule generation (**Under Review, ChemRxiv 2023**)  
     Jiashun Mao, **Jianmin Wang**, Kwang-Hwi Cho\* and Kyoung Tai No\*  
     [ChemRxiv](https://doi.org/10.26434/chemrxiv-2023-5kjvh) | [code](https://github.com/AspirinCode/iupacGPT)  
