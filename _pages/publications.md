@@ -17,9 +17,9 @@ author_profile: true
 
 ### &#x1F4C5;2024
 
-*   Interface-aware molecular generative framework for protein-protein interaction modulators (**Accepted, IF = 7.1, JCR Q1, Journal of Cheminformatics (2024)**)  
+*   Interface-aware molecular generative framework for protein-protein interaction modulators (**IF = 7.1, JCR Q1, Journal of Cheminformatics (2024)**)  
     **Jianmin Wang**, Jiashun Mao, Chunyan Li, Hongxin Xiang, Xun Wang, Shuang Wang, Zixu Wang, Yangyang Chen, Yuquan Li, Kyoung Tai No\*, Tao Song\*, Xiangxiang Zeng\*  
-    [J. Cheminform.](https://doi.org/10.1101/2023.10.10.557742) | [bioRxiv 2023](https://doi.org/10.1101/2023.10.10.557742) | [code](https://github.com/AspirinCode/GENiPPI)  
+    [J. Cheminform.](https://doi.org/10.1186/s13321-024-00930-0) | [bioRxiv 2023](https://doi.org/10.1101/2023.10.10.557742) | [code](https://github.com/AspirinCode/GENiPPI)  
 
 *   Activity cliff-informed contrastive learning for molecular property prediction (**Under Review, ChemRxiv 2024**)  
     Wanxiang Shen, Chao Cui, Xiaorui Su, Zaixi Zhang, Alejandro Velez-Arce, **Jianmin Wang**, Xiangcheng Shi, Yanbing Zhang, Jie Wu, Yuzong Chen\* and Marinka Zitnik\*  
