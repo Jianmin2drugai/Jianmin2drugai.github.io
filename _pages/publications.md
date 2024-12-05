@@ -17,7 +17,7 @@ author_profile: true
 
 ### &#x1F4C5;2024
 
-*   Image-Based Generation for Molecule Design with SketchMol (**Accepted, IF = 25.898, JCR Q1, Nature Machine Intelligence. (2024)**)  
+*   Image-Based Generation for Molecule Design with SketchMol (**Accepted, IF = 18.8, JCR Q1, Nature Machine Intelligence. (2024)**)  
     Zixu Wang, Yangyang Chen, Pengsen Ma, Zhou Yu, **Jianmin Wang**, Yuansheng Liu, Xiucai Ye, Tetsuya Sakurai, Xiangxiang Zeng\*  
    [Nat Mach Intell](https://github.com/WangZiXubiubiu/SketchMol-v1) | [code](https://github.com/WangZiXubiubiu/SketchMol-v1)  
 
