@@ -33,6 +33,13 @@ You can also find my articles on <a href="https://jianmin2drugai.github.io/publi
 Service and leadership
 ======
 
+### Service
+
+**Reviewer:** Nature Communications, PLoS computational biology, Bioinformatics, Briefings in Bioinformatics, Journal of Chemical Information and Modeling, GigaScience, Structure, Computational and Structural Biotechnology Journal, BMC Bioinformatics, Briefings in functional genomics
+
+
+
+
 
 杏林语鹊
 ======
