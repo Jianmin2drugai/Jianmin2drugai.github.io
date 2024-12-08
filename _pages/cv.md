@@ -17,6 +17,9 @@ Education
 Work experience
 ======
 
+* June 2019 to February 2021: Research Assistant (AIDD)
+  * College of Computer Science and Electronic Engineering, Hunan University, Changsha, China	
+  * Duties included: Artificial Intelligence-Driven Drug Discovery
 
 
 * July 2014 to September 2016: Research Assistant (Drug R&D)
