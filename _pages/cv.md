@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-*  M.S. & Ph.D in The Interdisciplinary Graduate Program in Integrative Biotechnology, Yonsei University, 2021 (present)
-* B.S. in XiangYa School of Pharmaceutical Sciences, Central South University, 2014
+*  M.S. & Ph.D in Department of Integrative Biotechnology, Yonsei University, 2021.03 (present)
+* B.S. in XiangYa School of Pharmaceutical Sciences, Central South University, 2014.06
 
 Work experience
 ======
