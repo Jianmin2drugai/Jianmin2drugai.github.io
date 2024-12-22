@@ -15,6 +15,11 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+### &#x1F4C5;2025
+
+
+
+
 ### &#x1F4C5;2024
 
 *   Image-Based Generation for Molecule Design with SketchMol (**Accepted, IF = 18.8, JCR Q1, Nature Machine Intelligence. (2024)**)  
