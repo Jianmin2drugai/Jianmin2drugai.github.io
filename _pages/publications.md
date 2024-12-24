@@ -18,13 +18,11 @@ author_profile: true
 ### &#x1F4C5;2025
 
 
-
-
-### &#x1F4C5;2024
-
-*   Image-Based Generation for Molecule Design with SketchMol (**Accepted, IF = 18.8, JCR Q1, Nature Machine Intelligence. (2024)**)  
+*   Image-Based Generation for Molecule Design with SketchMol (**Accepted, IF = 18.8, JCR Q1, Nature Machine Intelligence. (2025)**)  
     Zixu Wang, Yangyang Chen, Pengsen Ma, Zhou Yu, **Jianmin Wang**, Yuansheng Liu, Xiucai Ye, Tetsuya Sakurai, Xiangxiang Zeng\*  
    [Nat Mach Intell](https://github.com/WangZiXubiubiu/SketchMol-v1) | [code](https://github.com/WangZiXubiubiu/SketchMol-v1)  
+
+### &#x1F4C5;2024
 
 *   Interface-aware molecular generative framework for protein-protein interaction modulators (**IF = 7.1, JCR Q1, Journal of Cheminformatics (2024)**)  
     **Jianmin Wang**, Jiashun Mao, Chunyan Li, Hongxin Xiang, Xun Wang, Shuang Wang, Zixu Wang, Yangyang Chen, Yuquan Li, Kyoung Tai No\*, Tao Song\*, Xiangxiang Zeng\*  
