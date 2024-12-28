@@ -98,7 +98,7 @@ author_profile: true
     Yangyang Chen, Zixu Wang, Lei Wang, **Jianmin Wang**, Pengyong Li, Dongsheng Cao, Xiangxiang Zeng, Xiucai Ye & Tetsuya Sakurai  
     [J Cheminform](https://doi.org/10.1186/s13321-023-00702-2) | [code](https://github.com/viko-3/TargetGAN)
     
-*   Explore drug-like space with deep generative models (**IF = 4.8, JCR Q1, METHODS(2023)**)  
+*   Explore drug-like space with deep generative models (**IF = 4.2, JCR Q1, METHODS(2023)**)  
     **Jianmin Wang**, Jiashun Mao, Meng Wang, Xiangyang Le, Yunyun Wang\*  
     [Methods](https://doi.org/10.1016/j.ymeth.2023.01.004) | [code](https://github.com/AspirinCode/drug-likeness_space)  
 
