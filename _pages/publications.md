@@ -24,13 +24,13 @@ author_profile: true
 
 ### &#x1F4C5;2024
 
-*   Interface-aware molecular generative framework for protein-protein interaction modulators (**BIBM (2024)**)  
-    Peifu Han, Tao Song\*, **Jianmin Wang**  
-    [2024 IEEE International Conference on Bioinformatics and Biomedicine](https://doi.ieeecomputersociety.org/10.1109/BIBM62325.2024.10821810)  
-
-*   Logical Rules Enhanced Multimodal Reasoning Based on Biomedical Knowledge Graph (**IF = 7.1, JCR Q1, Journal of Cheminformatics (2024)**)  
+*   Interface-aware molecular generative framework for protein-protein interaction modulators (**IF = 7.1, JCR Q1, Journal of Cheminformatics (2024)**)  
     **Jianmin Wang**, Jiashun Mao, Chunyan Li, Hongxin Xiang, Xun Wang, Shuang Wang, Zixu Wang, Yangyang Chen, Yuquan Li, Kyoung Tai No\*, Tao Song\*, Xiangxiang Zeng\*  
     [J. Cheminform.](https://doi.org/10.1186/s13321-024-00930-0) | [bioRxiv 2023](https://doi.org/10.1101/2023.10.10.557742) | [code](https://github.com/AspirinCode/GENiPPI)  
+
+*   Logical Rules Enhanced Multimodal Reasoning Based on Biomedical Knowledge Graph (**BIBM (2024)**)  
+    Peifu Han, Tao Song\*, **Jianmin Wang**  
+    [2024 IEEE International Conference on Bioinformatics and Biomedicine](https://doi.ieeecomputersociety.org/10.1109/BIBM62325.2024.10821810)  
 
 *   Activity cliff-informed contrastive learning for molecular property prediction (**Under Review, ChemRxiv 2024**)  
     Wanxiang Shen, Chao Cui, Xiaorui Su, Zaixi Zhang, Alejandro Velez-Arce, **Jianmin Wang**, Xiangcheng Shi, Yanbing Zhang, Jie Wu, Yuzong Chen\* and Marinka Zitnik\*  
