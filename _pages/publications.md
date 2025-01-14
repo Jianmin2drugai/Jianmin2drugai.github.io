@@ -30,7 +30,7 @@ author_profile: true
 
 *   Logical Rules Enhanced Multimodal Reasoning Based on Biomedical Knowledge Graph (**BIBM (2024)**)  
     Peifu Han, Tao Song\*, **Jianmin Wang**  
-    [2024 IEEE International Conference on Bioinformatics and Biomedicine](https://doi.ieeecomputersociety.org/10.1109/BIBM62325.2024.10821810)  
+    [2024 IEEE International Conference on Bioinformatics and Biomedicine](https://ieeexplore.ieee.org/document/10821810)  
 
 *   Activity cliff-informed contrastive learning for molecular property prediction (**Under Review, ChemRxiv 2024**)  
     Wanxiang Shen, Chao Cui, Xiaorui Su, Zaixi Zhang, Alejandro Velez-Arce, **Jianmin Wang**, Xiangcheng Shi, Yanbing Zhang, Jie Wu, Yuzong Chen\* and Marinka Zitnik\*  
