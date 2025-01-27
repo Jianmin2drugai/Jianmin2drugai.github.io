@@ -39,6 +39,7 @@ Service and leadership
 #### **Reviewer** 
 * Nature Communications
 * IEEE Journal of Biomedical and Health Informatics
+* IEEE Transactions on Neural Networks and Learning Systems
 * PLoS computational biology
 * Bioinformatics
 * Briefings in Bioinformatics
@@ -48,6 +49,7 @@ Service and leadership
 * Computational and Structural Biotechnology Journal
 * BMC Bioinformatics
 * Briefings in functional genomics
+* Methods
 
 
 
