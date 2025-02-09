@@ -17,6 +17,9 @@ author_profile: true
 
 ### &#x1F4C5;2025
 
+*   Predicting mutation-disease associations through protein interactions via deep learning (**IF = 6.7, JCR Q1, IEEE Journal of Biomedical and Health Informatics. 2025**)  
+    Xue Li, Ben Cao, **Jianmin Wang**, Xiangyu Meng, Shuang Wang, Yu Huang, Enrico Petretto, Tao Song\*  
+    [J-BHI](https://doi.org/10.1101/2024.08.06.606730) | [bioRxiv(2024)](https://doi.org/10.1101/2024.08.06.606730) | [code](https://github.com/xueleecs/CGM)  
 
 *   Image-Based Generation for Molecule Design with SketchMol (**Accepted, IF = 18.8, JCR Q1, Nature Machine Intelligence. (2025)**)  
     Zixu Wang, Yangyang Chen, Pengsen Ma, Zhou Yu, **Jianmin Wang**, Yuansheng Liu, Xiucai Ye, Tetsuya Sakurai, Xiangxiang Zeng\*  
@@ -39,10 +42,6 @@ author_profile: true
 *   Diffusion-based generative drug-like molecular editing with chemical natural language (**IF = 6.1, JCR Q1, Journal of Pharmaceutical Analysis (2024)**)  
     **Jianmin Wang**, Peng Zhou, Zixu Wang, Wei Long, Yangyang Chen, Kyoung Tai No, Dongsheng Ouyang\*，Jiashun Mao\* and Xiangxiang Zeng\*  
     [J. Pharm. Anal.](https://doi.org/10.1016/j.jpha.2024.101137) | [code](https://github.com/AspirinCode/DiffIUPAC)  
-
-*   Predicting mutation-disease associations through protein interactions via deep learning (**Under Review, bioRxiv. 2024**)  
-    Xue Li, Ben Cao, **Jianmin Wang**, Xiangyu Meng, Shuang Wang, Yu Huang, Enrico Petretto, Tao Song\*  
-    [bioRxiv](https://doi.org/10.1101/2024.08.06.606730) | [code](https://github.com/xueleecs/CGM)  
 
 *   Improving compound-protein interaction prediction by focusing on intra-modality and inter-modality dynamics with a multimodal tensor fusion strategy (**IF = 4.4, JCR Q1, Computational and Structural Biotechnology Journal (2024)**)  
     Meng Wang, **Jianmin Wang**, Zhiwei Rong, Jianxin Ji, Chenjing Ma, Hesong Wang, Jia He, Yongzhen Song, Xuan Zhang, Yong Cao, Yanyan Dai, Menglei Hua, Ruihao Qin, Kang Li\* and Lei Cao\*  
