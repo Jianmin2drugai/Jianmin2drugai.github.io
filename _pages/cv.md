@@ -40,16 +40,19 @@ Service and leadership
 * Nature Communications
 * IEEE Journal of Biomedical and Health Informatics
 * IEEE Transactions on Neural Networks and Learning Systems
+* Journal of Cheminformatics
+* Journal of Chemical Information and Modeling
 * PLoS computational biology
 * Bioinformatics
 * Briefings in Bioinformatics
-* Journal of Chemical Information and Modeling
 * GigaScience
 * Structure
 * Computational and Structural Biotechnology Journal
 * BMC Bioinformatics
 * Briefings in functional genomics
 * Methods
+* International Conference on Bioinformatics and Biomedicine (BIBM2024)
+* International World Wide Web Conference 2025  (WWW25)
 
 
 
