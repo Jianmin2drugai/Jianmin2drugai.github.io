@@ -17,7 +17,7 @@ Previously, I earned my undergraduate degree(B.S.) in pharmacy at the <a href="h
 
 &#x1F4E2;News
 ======
-&#x1F3C6;2025.01.21 Received the **Best Paper Award (College Excellence Award) for the Second Semester of 2024 in the Graduate School Education Innovation Program, Yonsei University.**
+&#x1F3C6;2025.01.21 Received the **<a href="[https://www.csblab.or.kr/](https://graduate.yonsei.ac.kr/graduate/board/news.do?mode=view&articleNo=220032&article.offset=0&articleLimit=10)">Best Paper Award (College Excellence Award) for the Second Semester of 2024</a> in the Graduate School Education Innovation Program, Yonsei University.**
 
 &#x1F3C6;2025.01.17 腾讯云/腾讯云开发者社区 <a href="https://jianmin2drugai.github.io/portfolio/portfolio-2/">2024年度创作之星：DrugAI</a>
 
