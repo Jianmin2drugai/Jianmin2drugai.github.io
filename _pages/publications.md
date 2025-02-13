@@ -19,7 +19,7 @@ author_profile: true
 
 *   Predicting mutation-disease associations through protein interactions via deep learning (**IF = 6.7, JCR Q1, IEEE Journal of Biomedical and Health Informatics. 2025**)  
     Xue Li, Ben Cao, **Jianmin Wang**, Xiangyu Meng, Shuang Wang, Yu Huang, Enrico Petretto, Tao Song\*  
-    [J-BHI](https://doi.org/10.1101/2024.08.06.606730) | [bioRxiv(2024)](https://doi.org/10.1101/2024.08.06.606730) | [code](https://github.com/xueleecs/CGM)  
+    [J-BHI](http://dx.doi.org/10.1109/JBHI.2025.3541848) | [bioRxiv(2024)](https://doi.org/10.1101/2024.08.06.606730) | [code](https://github.com/xueleecs/CGM)  
 
 *   Image-Based Generation for Molecule Design with SketchMol (**Accepted, IF = 18.8, JCR Q1, Nature Machine Intelligence. (2025)**)  
     Zixu Wang, Yangyang Chen, Pengsen Ma, Zhou Yu, **Jianmin Wang**, Yuansheng Liu, Xiucai Ye, Tetsuya Sakurai, Xiangxiang Zeng\*  
