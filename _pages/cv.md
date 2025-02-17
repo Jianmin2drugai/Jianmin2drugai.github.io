@@ -51,8 +51,9 @@ Service and leadership
 * BMC Bioinformatics
 * Briefings in functional genomics
 * Methods
-* International Conference on Bioinformatics and Biomedicine (BIBM2024)
+* International Conference on Bioinformatics and Biomedicine (IEEE BIBM 2024 PC member)
 * International World Wide Web Conference 2025  (WWW25)
+* International Conference on Bioinformatics and Biomedicine (IEEE BIBM 2025 PC member)
 
 
 
