@@ -26,7 +26,7 @@ author_profile: true
    [Nat Mach Intell](https://doi.org/10.1038/s42256-025-00982-3) | [code](https://github.com/WangZiXubiubiu/SketchMol-v1)  
 
 *   SurfDesign: Effective Protein Design on Molecular Surfaces (**Under review**)  
-    ang Wu, Shuting Jin, **Jianmin Wang**, Zerui Xu, xiangxiang Zeng, Jinbo Xu, Brian Hie  
+    Fang Wu, Shuting Jin, **Jianmin Wang**, Zerui Xu, xiangxiang Zeng, Jinbo Xu, Brian Hie  
    [Under review](https://openreview.net/forum?id=JCFJFBm5rE)  
 
 ### &#x1F4C5;2024
