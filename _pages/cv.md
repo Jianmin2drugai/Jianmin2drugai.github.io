@@ -45,6 +45,7 @@ Service and leadership
 * PLoS computational biology
 * Bioinformatics
 * Briefings in Bioinformatics
+* Knowledge-Based Systems
 * GigaScience
 * Structure
 * Computational and Structural Biotechnology Journal
