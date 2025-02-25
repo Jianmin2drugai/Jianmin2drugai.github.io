@@ -64,7 +64,7 @@ Service and leadership
 ======
 
 
-&#x1F331;没有谁的剧本值得羡慕，只能把自己的剧本演好。  
+&#x1F331;没有谁的剧本值得羡慕，只能把自己的剧本演好。(Life has no script, Live it.)  
 
 &#x1F331;人是一根会思考的芦苇。(Man is a reed that thinks)___帕斯卡尔.《思想录》。  
 
