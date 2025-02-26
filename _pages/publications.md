@@ -21,7 +21,7 @@ author_profile: true
     Xue Li, Ben Cao, **Jianmin Wang**, Xiangyu Meng, Shuang Wang, Yu Huang, Enrico Petretto, Tao Song\*  
     [J-BHI](http://dx.doi.org/10.1109/JBHI.2025.3541848) | [bioRxiv(2024)](https://doi.org/10.1101/2024.08.06.606730) | [code](https://github.com/xueleecs/CGM)  
 
-*   Image-Based Generation for Molecule Design with SketchMol (**Accepted, IF = 18.8, JCR Q1, Nature Machine Intelligence. (2025)**)  
+*   Image-Based Generation for Molecule Design with SketchMol (**IF = 18.8, JCR Q1, Nature Machine Intelligence. (2025)**)  
     Zixu Wang, Yangyang Chen, Pengsen Ma, Zhou Yu, **Jianmin Wang**, Yuansheng Liu, Xiucai Ye, Tetsuya Sakurai, Xiangxiang Zeng\*  
    [Nat Mach Intell](https://doi.org/10.1038/s42256-025-00982-3) | [code](https://github.com/WangZiXubiubiu/SketchMol-v1)  
 
