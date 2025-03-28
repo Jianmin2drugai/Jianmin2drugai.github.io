@@ -17,6 +17,10 @@ author_profile: true
 
 ### &#x1F4C5;2025
 
+*   Instruction Multi-Constraint Molecular Generation Using a Teacher-Student Large Language Model (**IF = 4.4, JCR Q1, BMC Biology. 2025**)  
+    Peng Zhou, **Jianmin Wang**, Chunyan Li, Zixu Wang, Yiping Liu, Siqi Sun, Jianxin Lin, Longyue Wang\*, Xiangxiang Zeng\*  
+    [BMC Biol. (2025)](https://arxiv.org/abs/2403.13244) | [arXiv (2024)](https://arxiv.org/abs/2403.13244) | [code](https://github.com/HHW-zhou/TSMMG)  
+
 *   Predicting mutation-disease associations through protein interactions via deep learning (**IF = 6.7, JCR Q1, IEEE Journal of Biomedical and Health Informatics. 2025**)  
     Xue Li, Ben Cao, **Jianmin Wang**, Xiangyu Meng, Shuang Wang, Yu Huang, Enrico Petretto, Tao Song\*  
     [J-BHI](http://dx.doi.org/10.1109/JBHI.2025.3541848) | [bioRxiv(2024)](https://doi.org/10.1101/2024.08.06.606730) | [code](https://github.com/xueleecs/CGM)  
@@ -50,10 +54,6 @@ author_profile: true
 *   Improving compound-protein interaction prediction by focusing on intra-modality and inter-modality dynamics with a multimodal tensor fusion strategy (**IF = 4.4, JCR Q1, Computational and Structural Biotechnology Journal (2024)**)  
     Meng Wang, **Jianmin Wang**, Zhiwei Rong, Jianxin Ji, Chenjing Ma, Hesong Wang, Jia He, Yongzhen Song, Xuan Zhang, Yong Cao, Yanyan Dai, Menglei Hua, Ruihao Qin, Kang Li\* and Lei Cao\*  
     [Comput. Struct. Biotechnol. J.](https://doi.org/10.1016/j.csbj.2024.10.004) | [code](https://github.com/wangmeng-code/MMTF-CPI)  
-
-*   Instruction Multi-Constraint Molecular Generation Using a Teacher-Student Large Language Model (**Under Review**)  
-    Peng Zhou, **Jianmin Wang**, Chunyan Li, Zixu Wang, Yiping Liu, Siqi Sun, Jianxin Lin, Longyue Wang\*, Xiangxiang Zeng\*  
-    [ResearchSquare](https://doi.org/10.21203/rs.3.rs-3845824/v1) | [code](https://github.com/HHW-zhou/TSMMG)
 
 *   An Image-enhanced Molecular Graph Representation Learning Framework  
     Hongxin Xiang, Shuting Jin, Jun Xia, Man Zhou, **Jianmin Wang**, Li Zeng, Xiangxiang Zeng\*  
