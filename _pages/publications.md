@@ -17,6 +17,10 @@ author_profile: true
 
 ### &#x1F4C5;2025
 
+*   Self-supervised learning in drug discovery (**IF = 7.3, JCR Q1, SCIENCE CHINA Information Sciences. 2025**)  
+    Yangyang Chen, Zixu Wang, **Jianmin Wang**, Yanyi Chu, Qingpeng Zhang, Zhong Alan Li, Xiangxiang Zeng\*  
+    [Sci. China Inf. Sci. (2025)](https://link.springer.com/journal/11432)  
+
 *   Instruction Multi-Constraint Molecular Generation Using a Teacher-Student Large Language Model (**IF = 4.4, JCR Q1, BMC Biology. 2025**)  
     Peng Zhou, **Jianmin Wang**, Chunyan Li, Zixu Wang, Yiping Liu, Siqi Sun, Jianxin Lin, Longyue Wang\*, Xiangxiang Zeng\*  
     [BMC Biol. (2025)](https://arxiv.org/abs/2403.13244) | [arXiv (2024)](https://arxiv.org/abs/2403.13244) | [code](https://github.com/HHW-zhou/TSMMG)  
