@@ -18,7 +18,7 @@ author_profile: true
 ### &#x1F4C5;2025
 
 *   A Quantitative Ring Complexity Index for Profiling Ring Topology and Chemical Diversity (**Under Review**)  
-    **Jianmin Wang**, Kai Xu, Tengfei Ma, Xudong Zhang, Pengsen Ma, Chunyan Li, Weiran Huang, Meng Wang,  Xiaojun Yao\*, Tao Song\*, Xiangxiang Zeng\* 
+    **Jianmin Wang**, Kai Xu, Tengfei Ma, Xudong Zhang, Pengsen Ma, Chunyan Li, Weiran Huang, Meng Wang,  Xiaojun Yao\*, Tao Song\*, Xiangxiang Zeng\*  
     [ChemRxiv. (2025)](https://doi.org/10.26434/chemrxiv-2025-mlqwl) | [code](https://github.com/AspirinCode/QRCI)  
 
 *   Self-supervised learning in drug discovery (**IF = 7.3, JCR Q1, SCIENCE CHINA Information Sciences. 2025**)  
