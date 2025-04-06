@@ -17,6 +17,10 @@ author_profile: true
 
 ### &#x1F4C5;2025
 
+*   Molecular dynamics-powered hierarchical geometric deep learning framework for protein-ligand interaction (**IF = 3.6, JCR Q1, IEEE Transactions on Computational Biology and Bioinformatics. (2025)**)  
+    Mingquan Liu, Shuting Jin, Houtim Lai, Longyue Wang, **Jianmin Wang**, Xiangxiang Zeng\*  
+   [IEEE Trans. Comput. Biol. Bioinform.](https://github.com/lmqfly/Dynamics-PLI) | [code](https://github.com/lmqfly/Dynamics-PLI)  
+
 *   A Quantitative Ring Complexity Index for Profiling Ring Topology and Chemical Diversity (**Under Review**)  
     **Jianmin Wang**, Kai Xu, Tengfei Ma, Xudong Zhang, Pengsen Ma, Chunyan Li, Weiran Huang, Meng Wang,  Xiaojun Yao\*, Tao Song\*, Xiangxiang Zeng\*  
     [ChemRxiv. (2025)](https://doi.org/10.26434/chemrxiv-2025-mlqwl-v2) | [code](https://github.com/AspirinCode/QRCI)  
