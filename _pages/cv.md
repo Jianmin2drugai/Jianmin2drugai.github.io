@@ -38,6 +38,7 @@ Service and leadership
 
 #### **Reviewer** 
 * Nature Communications
+* Chemical Science
 * IEEE Journal of Biomedical and Health Informatics
 * IEEE Transactions on Neural Networks and Learning Systems
 * Journal of Cheminformatics
@@ -52,6 +53,7 @@ Service and leadership
 * BMC Bioinformatics
 * Briefings in functional genomics
 * Methods
+* Molecular Diversity
 * International Conference on Bioinformatics and Biomedicine (IEEE BIBM 2024 PC member)
 * International World Wide Web Conference 2025  (WWW25)
 * International Conference on Bioinformatics and Biomedicine (IEEE BIBM 2025 PC member)
