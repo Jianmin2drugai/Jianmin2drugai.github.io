@@ -59,7 +59,7 @@ author:
   lastfm           : # Username
   linkedin         : # Username
   mastodon         : # URL
-  500px            : https://500px.com.cn/drugai
+  500px            : "https://500px.com.cn/drugai"
   pinterest        : # Username
   soundcloud       : # Username
   steam            : # Username
@@ -69,7 +69,7 @@ author:
   csdn             : "https://blog.csdn.net/u012325865"
   weibo            : # Username
   wikipedia        : # Username
-  500px             : "https://500px.com.cn/drugai"
+  xing             : # Username
   youtube          : # Username
   zhihu            : "https://www.zhihu.com/people/wang-jian-min-113"
 
