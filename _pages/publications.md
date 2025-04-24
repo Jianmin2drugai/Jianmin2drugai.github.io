@@ -30,8 +30,8 @@ author_profile: true
     [Sci. China Inf. Sci. (2025)](https://link.springer.com/journal/11432)  
 
 *   Instruction Multi-Constraint Molecular Generation Using a Teacher-Student Large Language Model (**IF = 4.4, JCR Q1, BMC Biology. 2025**)  
-    Peng Zhou, **Jianmin Wang**, Chunyan Li, Zixu Wang, Yiping Liu, Siqi Sun, Jianxin Lin, Longyue Wang\*, Xiangxiang Zeng\*  
-    [BMC Biol. (2025)](https://arxiv.org/abs/2403.13244) | [arXiv (2024)](https://arxiv.org/abs/2403.13244) | [code](https://github.com/HHW-zhou/TSMMG)  
+    Peng Zhou, **Jianmin Wang**, Chunyan Li, Zixu Wang, Yiping Liu, Siqi Sun, Jianxin Lin, Leyi Wei, Xibao Cai, Houtim Lai, Wei Liu, Longyue Wang\*, Yuansheng Liu\*, Xiangxiang Zeng\*  
+    [BMC Biol. (2025)](https://doi.org/10.1186/s12915-025-02200-3) | [arXiv (2024)](https://arxiv.org/abs/2403.13244) | [code](https://github.com/HHW-zhou/TSMMG)  
 
 *   Predicting mutation-disease associations through protein interactions via deep learning (**IF = 6.7, JCR Q1, IEEE Journal of Biomedical and Health Informatics. 2025**)  
     Xue Li, Ben Cao, **Jianmin Wang**, Xiangyu Meng, Shuang Wang, Yu Huang, Enrico Petretto, Tao Song\*  
