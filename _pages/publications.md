@@ -17,6 +17,14 @@ author_profile: true
 
 ### &#x1F4C5;2025
 
+*   MTGIB-UNet: A Multi-Task Graph Information Bottleneck and Uncertainty Weighted Network for ADMET Prediction  
+    Xuqiang Li, Wenjie Du, Jun Xia, **Jianmin Wang**, Xiaoqi Wang, Yang Yang, Yang Wang\*  
+    [IJCAI2025](https://2025.ijcai.org/) | [code](https://2025.ijcai.org/)  
+
+*   DO-CoLM: Dynamic 3D Conformation Relationships Capture with Self-Adaptive Ordering Molecular Relational Modeling in Language Models  
+    Zhuo Chen, Jiahui Zhang, Sihan Wang, Hongxin Xiang, **Jianmin Wang**, WenJie DU, Yang Wang\*  
+    [IJCAI2025](https://2025.ijcai.org/) | [code](https://2025.ijcai.org/)  
+
 *   Molecular dynamics-powered hierarchical geometric deep learning framework for protein-ligand interaction (**IF = 3.6, JCR Q1, IEEE Transactions on Computational Biology and Bioinformatics. (2025)**)  
     Mingquan Liu, Shuting Jin, Houtim Lai, Longyue Wang, **Jianmin Wang**, Zhixiang Cheng, Xiangxiang Zeng\*  
    [IEEE Trans. Comput. Biol. Bioinform.](https://doi.org/10.1109/TCBBIO.2025.3558959) | [code](https://github.com/lmqfly/Dynamics-PLI)  
