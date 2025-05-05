@@ -39,14 +39,14 @@ Service and leadership
 #### **Reviewer** 
 * [Nature Communications](https://www.nature.com/ncomms)
 * [Chemical Science](https://www.rsc.org/journals-books-databases/about-journals/chemical-science)
-* IEEE Journal of Biomedical and Health Informatics
-* IEEE Transactions on Neural Networks and Learning Systems
+* [IEEE Journal of Biomedical and Health Informatics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221020)
+* [IEEE Transactions on Neural Networks and Learning Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385)
 * [Journal of Cheminformatics](https://jcheminf.biomedcentral.com)
 * [Journal of Chemical Information and Modeling](https://pubs.acs.org/journal/jcisd8)
-* PLoS computational biology
-* Bioinformatics
-* Briefings in Bioinformatics
-* Knowledge-Based Systems
+* [PLoS computational biology](https://journals.plos.org/ploscompbiol/)
+* [Bioinformatics](https://academic.oup.com/bioinformatics)
+* [Briefings in Bioinformatics](https://academic.oup.com/bib)
+* [Knowledge-Based Systems](https://www.sciencedirect.com/journal/knowledge-based-systems)
 * GigaScience
 * Structure
 * Computational and Structural Biotechnology Journal
