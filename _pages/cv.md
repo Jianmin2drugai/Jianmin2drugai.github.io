@@ -47,13 +47,13 @@ Service and leadership
 * [Bioinformatics](https://academic.oup.com/bioinformatics)
 * [Briefings in Bioinformatics](https://academic.oup.com/bib)
 * [Knowledge-Based Systems](https://www.sciencedirect.com/journal/knowledge-based-systems)
-* GigaScience
-* Structure
-* Computational and Structural Biotechnology Journal
-* BMC Bioinformatics
-* Briefings in functional genomics
-* Methods
-* Molecular Diversity
+* [GigaScience](https://academic.oup.com/gigascience)
+* [Structure](https://www.cell.com/structure/home)
+* [Computational and Structural Biotechnology Journal](https://www.sciencedirect.com/journal/computational-and-structural-biotechnology-journal)
+* [BMC Bioinformatics](https://bmcbioinformatics.biomedcentral.com/)
+* [Briefings in functional genomics](https://academic.oup.com/bfg)
+* [Methods](https://www.sciencedirect.com/journal/methods)
+* [Molecular Diversity](https://link.springer.com/journal/11030)
 * International Conference on Bioinformatics and Biomedicine (IEEE BIBM 2024 PC member)
 * International World Wide Web Conference 2025  (WWW25)
 * International Conference on Bioinformatics and Biomedicine (IEEE BIBM 2025 PC member)
