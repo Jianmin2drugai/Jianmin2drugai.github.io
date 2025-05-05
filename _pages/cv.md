@@ -38,11 +38,11 @@ Service and leadership
 
 #### **Reviewer** 
 * [Nature Communications](https://www.nature.com/ncomms)
-* Chemical Science
+* [Chemical Science](https://www.rsc.org/journals-books-databases/about-journals/chemical-science)
 * IEEE Journal of Biomedical and Health Informatics
 * IEEE Transactions on Neural Networks and Learning Systems
-* Journal of Cheminformatics
-* Journal of Chemical Information and Modeling
+* [Journal of Cheminformatics](https://jcheminf.biomedcentral.com)
+* [Journal of Chemical Information and Modeling](https://pubs.acs.org/journal/jcisd8)
 * PLoS computational biology
 * Bioinformatics
 * Briefings in Bioinformatics
