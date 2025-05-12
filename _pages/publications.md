@@ -17,6 +17,10 @@ author_profile: true
 
 ### &#x1F4C5;2025
 
+*   Robust temporal knowledge inference via pathway snapshots with liquid neural network (**IF = 4.2, JCR Q1, METHODS(2025)**)  
+    Peifu Han, **Jianmin Wang**, Dayan Liu, Lin Liu\*, Tao Song\*  
+    [Methods](https://doi.org/10.1016/j.ymeth.2025.05.003)  
+
 *   MTGIB-UNet: A Multi-Task Graph Information Bottleneck and Uncertainty Weighted Network for ADMET Prediction  
     Xuqiang Li, Wenjie Du, Jun Xia, **Jianmin Wang**, Xiaoqi Wang, Yang Yang, Yang Wang\*  
     [IJCAI2025](https://2025.ijcai.org/) | [code](https://2025.ijcai.org/)  
