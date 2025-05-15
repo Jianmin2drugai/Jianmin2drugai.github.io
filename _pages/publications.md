@@ -17,6 +17,10 @@ author_profile: true
 
 ### &#x1F4C5;2025
 
+*   Large Language and Protein Assistant for Protein-Protein Interactions Prediction (**The 63rd Annual Meeting of the Association for Computational Linguistics**)  
+    Peng Zhou, Pengsen Ma, **Jianmin Wang**, Xibao Cai, Haitao Huang, Wei Liu, Longyue Wang, Lai Hou Tim, xiangxiang Zeng\*  
+    [ACL 2025](https://openreview.net/forum?id=EoZFEVF2Dj)  
+
 *   Robust temporal knowledge inference via pathway snapshots with liquid neural network (**IF = 4.2, JCR Q1, METHODS(2025)**)  
     Peifu Han, **Jianmin Wang**, Dayan Liu, Lin Liu\*, Tao Song\*  
     [Methods](https://doi.org/10.1016/j.ymeth.2025.05.003)  
