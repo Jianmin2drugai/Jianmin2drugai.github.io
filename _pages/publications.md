@@ -17,6 +17,10 @@ author_profile: true
 
 ### &#x1F4C5;2025
 
+*   Self-supervised learning in drug discovery (**IF = 7.3, JCR Q1, SCIENCE CHINA Information Sciences. 2025**)  
+    Yangyang Chen, Zixu Wang, **Jianmin Wang**, Yanyi Chu, Qingpeng Zhang, Zhong Alan Li, Xiangxiang Zeng\*  
+    [Sci. China Inf. Sci. (2025)](https://doi.org/10.1007/s11432-024-4453-4)  
+
 *   Large Language and Protein Assistant for Protein-Protein Interactions Prediction (**The 63rd Annual Meeting of the Association for Computational Linguistics**)  
     Peng Zhou, Pengsen Ma, **Jianmin Wang**, Xibao Cai, Haitao Huang, Wei Liu, Longyue Wang, Lai Hou Tim, xiangxiang Zeng\*  
     [ACL 2025](https://openreview.net/forum?id=EoZFEVF2Dj)  
@@ -40,10 +44,6 @@ author_profile: true
 *   A Quantitative Ring Complexity Index for Profiling Ring Topology and Chemical Diversity (**Under Review**)  
     **Jianmin Wang**, Kai Xu, Tengfei Ma, Xudong Zhang, Pengsen Ma, Chunyan Li, Weiran Huang, Meng Wang,  Xiaojun Yao\*, Tao Song\*, Xiangxiang Zeng\*  
     [ChemRxiv. (2025)](https://doi.org/10.26434/chemrxiv-2025-mlqwl-v2) | [code](https://github.com/AspirinCode/QRCI)  
-
-*   Self-supervised learning in drug discovery (**IF = 7.3, JCR Q1, SCIENCE CHINA Information Sciences. 2025**)  
-    Yangyang Chen, Zixu Wang, **Jianmin Wang**, Yanyi Chu, Qingpeng Zhang, Zhong Alan Li, Xiangxiang Zeng\*  
-    [Sci. China Inf. Sci. (2025)](https://link.springer.com/journal/11432)  
 
 *   Instruction Multi-Constraint Molecular Generation Using a Teacher-Student Large Language Model (**IF = 4.4, JCR Q1, BMC Biology. 2025**)  
     Peng Zhou, **Jianmin Wang**, Chunyan Li, Zixu Wang, Yiping Liu, Siqi Sun, Jianxin Lin, Leyi Wei, Xibao Cai, Houtim Lai, Wei Liu, Longyue Wang\*, Yuansheng Liu\*, Xiangxiang Zeng\*  
