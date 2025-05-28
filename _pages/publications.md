@@ -23,7 +23,7 @@ author_profile: true
 
 *   Self-supervised learning in drug discovery (**IF = 7.3, JCR Q1, SCIENCE CHINA Information Sciences. 2025**)  
     Yangyang Chen, Zixu Wang, **Jianmin Wang**, Yanyi Chu, Qingpeng Zhang, Zhong Alan Li, Xiangxiang Zeng\*  
-    [Sci. China Inf. Sci. (2025)](https://doi.org/10.1007/s11432-024-4453-4)  
+    [Sci. China Inf. Sci. (2025)](https://www.sciengine.com/SCIS/doi/10.1007/s11432-024-4453-4)  
 
 *   Large Language and Protein Assistant for Protein-Protein Interactions Prediction (**The 63rd Annual Meeting of the Association for Computational Linguistics**)  
     Peng Zhou, Pengsen Ma, **Jianmin Wang**, Xibao Cai, Haitao Huang, Wei Liu, Longyue Wang, Lai Hou Tim, xiangxiang Zeng\*  
