@@ -18,7 +18,7 @@ author_profile: true
 ### &#x1F4C5;2025
 
 *   Molecular Merged Hypergraph Neural Network for Explainable Solvation Free Energy Prediction (**IF = 8.5, JCR Q1, Research. 2025**)  
-    Wenjie Du, Shuai Zhang, Zhaohui Cai, Zhiyuan Liu, Junfeng Fang, **Jianmin Wang**, Yang Wang\*  
+    Wenjie Du, Shuai Zhang, Zhaohui Cai, Zhiyuan Liu, Junfeng Fang\*, **Jianmin Wang**\*, Yang Wang\*  
     [Research. (2025)](https://doi.org/10.34133/research.0740) | [code](https://github.com/invokerqwer/MMHNN)  
 
 *   Self-supervised learning in drug discovery (**IF = 7.3, JCR Q1, SCIENCE CHINA Information Sciences. 2025**)  
