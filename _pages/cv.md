@@ -1,4 +1,4 @@
----
+![图片](https://github.com/user-attachments/assets/23cdc1f6-9a16-40f8-a48d-588269250ce3)---
 layout: archive
 title: "CV"
 permalink: /cv/
@@ -39,6 +39,7 @@ Service and leadership
 #### **Reviewer** 
 * [Nature Communications](https://www.nature.com/ncomms)
 * [Chemical Science](https://www.rsc.org/journals-books-databases/about-journals/chemical-science)
+* [Research](https://spj.science.org/journal/research)   
 * [IEEE Journal of Biomedical and Health Informatics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221020)
 * [IEEE Transactions on Neural Networks and Learning Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385)
 * [Journal of Cheminformatics](https://jcheminf.biomedcentral.com)
