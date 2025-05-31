@@ -17,6 +17,10 @@ author_profile: true
 
 ### &#x1F4C5;2025
 
+*   Programmable DNA-based Molecular Neural Network Biocomputing Circuits for Solving Partial Differential Equations (**IF = 14.3, JCR Q1, Advanced Science. 2025**)  
+    Yijun Xiao, Tongmao Ma, Alfonso Rodr ́ıguez-Pat ́on, **Jianmin Wang**, Pan Zheng, Tao Song\*  
+    [Adv. Sci. (2025)](https://doi.org/10.1002/advs.202507060)  
+
 *   Molecular Merged Hypergraph Neural Network for Explainable Solvation Free Energy Prediction (**IF = 8.5, JCR Q1, Research. 2025**)  
     Wenjie Du, Shuai Zhang, Zhaohui Cai, Zhiyuan Liu, Junfeng Fang\*, **Jianmin Wang**\*, Yang Wang\*  
     [Research. (2025)](https://doi.org/10.34133/research.0740) | [code](https://github.com/invokerqwer/MMHNN)  
