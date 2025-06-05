@@ -51,7 +51,7 @@ author_profile: true
 
 *   A Quantitative Ring Complexity Index for Profiling Ring Topology and Chemical Diversity (**Under Review**)  
     **Jianmin Wang**, Kai Xu, Tengfei Ma, Xudong Zhang, Pengsen Ma, Chunyan Li, Weiran Huang, Meng Wang,  Xiaojun Yao\*, Tao Song\*, Xiangxiang Zeng\*  
-    [ChemRxiv. (2025)](https://doi.org/10.26434/chemrxiv-2025-mlqwl-v2) | [code](https://github.com/AspirinCode/QRCI)  
+    [ChemRxiv. (2025)](https://doi.org/10.26434/chemrxiv-2025-mlqwl-v2) | [code](https://github.com/AspirinCode/QRCI) | [PyPI](https://pypi.org/project/qrci)  
 
 *   Instruction Multi-Constraint Molecular Generation Using a Teacher-Student Large Language Model (**IF = 4.4, JCR Q1, BMC Biology. 2025**)  
     Peng Zhou, **Jianmin Wang**, Chunyan Li, Zixu Wang, Yiping Liu, Siqi Sun, Jianxin Lin, Leyi Wei, Xibao Cai, Houtim Lai, Wei Liu, Longyue Wang\*, Yuansheng Liu\*, Xiangxiang Zeng\*  
