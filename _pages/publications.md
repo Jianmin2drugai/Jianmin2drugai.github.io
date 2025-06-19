@@ -18,7 +18,7 @@ author_profile: true
 ### &#x1F4C5;2025
 
 *   Accurate prediction of synergistic drug combination using a multi-source information fusion framework (**IF = 4.5, JCR Q1, BMC Biology. 2025**)  
-    Shuting Jin, Huaze Long, Anqi Huang, **Jianmin Wang**, Xuan Yu, Zhiwei Xu, Junlin Xu\*
+    Shuting Jin, Huaze Long, Anqi Huang, **Jianmin Wang**, Xuan Yu, Zhiwei Xu, Junlin Xu\*  
     [BMC Biol. (2025)](https://bmcbiol.biomedcentral.com/) | [code](https://bmcbiol.biomedcentral.com/) 
 
 *   Programmable DNA-based Molecular Neural Network Biocomputing Circuits for Solving Partial Differential Equations (**IF = 14.3, JCR Q1, Advanced Science. 2025**)  
