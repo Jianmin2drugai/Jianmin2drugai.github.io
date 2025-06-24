@@ -39,7 +39,8 @@ Service and leadership
 #### **Reviewer** 
 * [Nature Communications](https://www.nature.com/ncomms)
 * [Chemical Science](https://www.rsc.org/journals-books-databases/about-journals/chemical-science)
-* [Research](https://spj.science.org/journal/research)   
+* [Research](https://spj.science.org/journal/research)
+* [IEEE Computational Intelligence Magazine](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10207)
 * [IEEE Journal of Biomedical and Health Informatics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221020)
 * [IEEE Transactions on Neural Networks and Learning Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385)
 * [Journal of Cheminformatics](https://jcheminf.biomedcentral.com)
