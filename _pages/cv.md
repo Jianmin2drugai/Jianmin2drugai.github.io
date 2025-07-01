@@ -49,6 +49,7 @@ Service and leadership
 * [Bioinformatics](https://academic.oup.com/bioinformatics)
 * [Briefings in Bioinformatics](https://academic.oup.com/bib)
 * [Knowledge-Based Systems](https://www.sciencedirect.com/journal/knowledge-based-systems)
+* [Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing)
 * [GigaScience](https://academic.oup.com/gigascience)
 * [Structure](https://www.cell.com/structure/home)
 * [Computational and Structural Biotechnology Journal](https://www.sciencedirect.com/journal/computational-and-structural-biotechnology-journal)
