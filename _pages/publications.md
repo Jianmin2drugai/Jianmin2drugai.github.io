@@ -17,6 +17,10 @@ author_profile: true
 
 ### &#x1F4C5;2025
 
+*   iupacGPT: IUPAC-based large-scale molecular pre-trained model for property prediction and molecule generation (**IF = 3.8, JCR Q2, Molecular Diversity 2025**)  
+    Jiashun Mao, **Jianmin Wang**, Kwang-Hwi Cho\* and Kyoung Tai No\*  
+    [Mol. Divers. (2025)](https://link.springer.com/article/10.1007/s11030-025-11280-w) | [ChemRxiv](https://doi.org/10.26434/chemrxiv-2023-5kjvh) | [code](https://github.com/AspirinCode/iupacGPT)  
+
 *   Accurate prediction of synergistic drug combination using a multi-source information fusion framework (**IF = 4.5, JCR Q1, BMC Biology. 2025**)  
     Shuting Jin, Huaze Long, Anqi Huang, **Jianmin Wang**, Xuan Yu, Zhiwei Xu, Junlin Xu\*  
     [BMC Biol. (2025)](https://bmcbiol.biomedcentral.com/) | [code](https://bmcbiol.biomedcentral.com/) 
@@ -124,11 +128,7 @@ author_profile: true
     [JCIM](https://doi.org/10.1021/acs.jcim.3c01818) | [code](https://github.com/wichen-2022/LSDC)  
 
 ### &#x1F4C5;2023
-   
-*   iupacGPT: IUPAC-based large-scale molecular pre-trained model for property prediction and molecule generation (**Under Review, ChemRxiv 2023**)  
-    Jiashun Mao, **Jianmin Wang**, Kwang-Hwi Cho\* and Kyoung Tai No\*  
-    [ChemRxiv](https://doi.org/10.26434/chemrxiv-2023-5kjvh) | [code](https://github.com/AspirinCode/iupacGPT)  
-    
+  
 *   MOASL: Predicting drug mechanism of action through similarity learning with transcriptomic signature (**IF = 7.7, JCR Q1, Computers in Biology and Medicine (2023)**)  
    Likun Jiang, Susu Qu, Zhengqiu Yu, **Jianmin Wang**, Xiangrong Liu\*  
    [COMPUT BIOL MED](https://doi.org/10.1016/j.compbiomed.2023.107853) | [code](https://github.com/jianglikun/MOASL)  
