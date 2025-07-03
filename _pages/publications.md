@@ -18,8 +18,8 @@ author_profile: true
 ### &#x1F4C5;2025
 
 *   iupacGPT: IUPAC-based large-scale molecular pre-trained model for property prediction and molecule generation (**IF = 3.8, JCR Q2, Molecular Diversity 2025**)  
-    Jiashun Mao, Tang Sui, Kwang-Hwi Cho, Kyoung Tai No\*, **Jianmin Wang**\* and Dongjing Shan\*  
-    [Mol. Divers. (2025)](https://link.springer.com/article/10.1007/s11030-025-11280-w) | [ChemRxiv](https://doi.org/10.26434/chemrxiv-2023-5kjvh) | [code](https://github.com/AspirinCode/iupacGPT)  
+    Jiashun Mao, Tang Sui, Kwang-Hwi Cho, Kyoung Tai No, **Jianmin Wang**\* and Dongjing Shan\*  
+    [Mol. Divers. (2025)](https://link.springer.com/article/10.1007/s11030-025-11280-w) | [ChemRxiv(2023)](https://doi.org/10.26434/chemrxiv-2023-5kjvh) | [code](https://github.com/AspirinCode/iupacGPT)  
 
 *   Accurate prediction of synergistic drug combination using a multi-source information fusion framework (**IF = 4.5, JCR Q1, BMC Biology. 2025**)  
     Shuting Jin, Huaze Long, Anqi Huang, **Jianmin Wang**, Xuan Yu, Zhiwei Xu, Junlin Xu\*  
