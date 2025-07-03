@@ -17,13 +17,13 @@ author_profile: true
 
 ### &#x1F4C5;2025
 
-*   iupacGPT: IUPAC-based large-scale molecular pre-trained model for property prediction and molecule generation (**IF = 3.8, JCR Q2, Molecular Diversity 2025**)  
-    Jiashun Mao, Tang Sui, Kwang-Hwi Cho, Kyoung Tai No, **Jianmin Wang**\* and Dongjing Shan\*  
-    [Mol. Divers. (2025)](https://link.springer.com/article/10.1007/s11030-025-11280-w) | [ChemRxiv(2023)](https://doi.org/10.26434/chemrxiv-2023-5kjvh) | [code](https://github.com/AspirinCode/iupacGPT)  
-
 *   Accurate prediction of synergistic drug combination using a multi-source information fusion framework (**IF = 4.5, JCR Q1, BMC Biology. 2025**)  
     Shuting Jin, Huaze Long, Anqi Huang, **Jianmin Wang**, Xuan Yu, Zhiwei Xu, Junlin Xu\*  
-    [BMC Biol. (2025)](https://bmcbiol.biomedcentral.com/) | [code](https://bmcbiol.biomedcentral.com/) 
+    [BMC Biol. (2025)](https://doi.org/10.1186/s12915-025-02302-y) | [code](https://github.com/HuazeLoong/MultiSyn) 
+
+*   iupacGPT: IUPAC-based large-scale molecular pre-trained model for property prediction and molecule generation (**IF = 3.8, JCR Q2, Molecular Diversity 2025**) 
+    Jiashun Mao, Tang Sui, Kwang-Hwi Cho, Kyoung Tai No, **Jianmin Wang**\* and Dongjing Shan\*  
+    [Mol. Divers. (2025)](https://link.springer.com/article/10.1007/s11030-025-11280-w) | [ChemRxiv(2023)](https://doi.org/10.26434/chemrxiv-2023-5kjvh) | [code](https://github.com/AspirinCode/iupacGPT)  
 
 *   Programmable DNA-based Molecular Neural Network Biocomputing Circuits for Solving Partial Differential Equations (**IF = 14.3, JCR Q1, Advanced Science. 2025**)  
     Yijun Xiao, Tongmao Ma, Alfonso Rodrıguez-Paton, **Jianmin Wang**, Pan Zheng, Tao Song\*  
