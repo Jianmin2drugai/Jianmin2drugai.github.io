@@ -21,7 +21,7 @@ author_profile: true
     Shuting Jin, Huaze Long, Anqi Huang, **Jianmin Wang**, Xuan Yu, Zhiwei Xu, Junlin Xu\*  
     [BMC Biol. (2025)](https://doi.org/10.1186/s12915-025-02302-y) | [code](https://github.com/HuazeLoong/MultiSyn) 
 
-*   iupacGPT: IUPAC-based large-scale molecular pre-trained model for property prediction and molecule generation (**IF = 3.8, JCR Q2, Molecular Diversity 2025**)   
+*   IUPAC-GPT: an IUPAC-based large-scale molecular pre-trained model for property prediction and molecule generation (**IF = 3.8, JCR Q2, Molecular Diversity 2025**)   
     Jiashun Mao, Tang Sui, Kwang-Hwi Cho, Kyoung Tai No, **Jianmin Wang**\* and Dongjing Shan\*  
     [Mol. Divers. (2025)](https://doi.org/10.1007/s11030-025-11280-w) | [ChemRxiv(2023)](https://doi.org/10.26434/chemrxiv-2023-5kjvh) | [code](https://github.com/AspirinCode/iupacGPT)  
 
