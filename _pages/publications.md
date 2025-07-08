@@ -17,6 +17,10 @@ author_profile: true
 
 ### &#x1F4C5;2025
 
+*   TRGH-PPI: Effective and Generalized Prediction of Protein-protein Interactions through Transformer and Graph (**IF = 3.4, JCR Q1, IEEE Transactions on Computational Biology and Bioinformatics. (2025)**)  
+    Sihan Wang, Shuai Zhang, Zhuo Chen, Xuqiang Li, **Jianmin Wang**, Wenjie Du, Yang Wang\*  
+   [IEEE Trans. Comput. Biol. Bioinform.](https://github.com/SihanWang123/TRGH-PPI) | [code](https://github.com/SihanWang123/TRGH-PPI)  
+
 *   Accurate prediction of synergistic drug combination using a multi-source information fusion framework (**IF = 4.5, JCR Q1, BMC Biology. 2025**)  
     Shuting Jin, Huaze Long, Anqi Huang, **Jianmin Wang**, Xuan Yu, Zhiwei Xu, Junlin Xu\*  
     [BMC Biol. (2025)](https://doi.org/10.1186/s12915-025-02302-y) | [code](https://github.com/HuazeLoong/MultiSyn) 
@@ -53,7 +57,7 @@ author_profile: true
     Zhuo Chen, Jiahui Zhang, Sihan Wang, Hongxin Xiang, **Jianmin Wang**, WenJie DU, Yang Wang\*  
     [IJCAI2025](https://2025.ijcai.org/) | [code](https://2025.ijcai.org/)  
 
-*   Molecular dynamics-powered hierarchical geometric deep learning framework for protein-ligand interaction (**IF = 3.6, JCR Q1, IEEE Transactions on Computational Biology and Bioinformatics. (2025)**)  
+*   Molecular dynamics-powered hierarchical geometric deep learning framework for protein-ligand interaction (**IF = 3.4, JCR Q1, IEEE Transactions on Computational Biology and Bioinformatics. (2025)**)  
     Mingquan Liu, Shuting Jin, Houtim Lai, Longyue Wang, **Jianmin Wang**, Zhixiang Cheng, Xiangxiang Zeng\*  
    [IEEE Trans. Comput. Biol. Bioinform.](https://doi.org/10.1109/TCBBIO.2025.3558959) | [code](https://github.com/lmqfly/Dynamics-PLI)  
 
