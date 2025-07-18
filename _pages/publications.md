@@ -19,7 +19,7 @@ author_profile: true
 
 *   TRGH-PPI: Effective and Generalized Prediction of Protein-protein Interactions through Transformer and Graph (**IF = 3.4, JCR Q1, IEEE Transactions on Computational Biology and Bioinformatics. (2025)**)  
     Sihan Wang, Shuai Zhang, Zhuo Chen, Xuqiang Li, **Jianmin Wang**, Wenjie Du, Yang Wang\*  
-   [IEEE Trans. Comput. Biol. Bioinform.](https://github.com/SihanWang123/TRGH-PPI) | [code](https://github.com/SihanWang123/TRGH-PPI)  
+   [IEEE Trans. Comput. Biol. Bioinform.](https://doi.org/10.1109/TCBBIO.2025.3589598) | [code](https://github.com/SihanWang123/TRGH-PPI)  
 
 *   Accurate prediction of synergistic drug combination using a multi-source information fusion framework (**IF = 4.5, JCR Q1, BMC Biology. 2025**)  
     Shuting Jin, Huaze Long, Anqi Huang, **Jianmin Wang**, Xuan Yu, Zhiwei Xu, Junlin Xu\*  
