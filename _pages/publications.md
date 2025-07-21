@@ -17,6 +17,10 @@ author_profile: true
 
 ### &#x1F4C5;2025
 
+*   ImageDDI: Image-enhanced Molecular Motif Sequence Representation for Drug-Drug Interaction Prediction (**IF = 15.5, JCR Q1, Information Fusion (2025)**)  
+    Yuqin He, Tengfei Ma, Chaoyi Li, Pengsen Ma, Hongxin Xiang, **Jianmin Wang**, Yiping Liu, Bosheng Song\*, xiangxiang Zeng\*  
+    [Inf. Fusion. (2025)](https://www.sciencedirect.com/journal/information-fusion) | [code](https://www.sciencedirect.com/journal/information-fusion)  
+
 *   TRGH-PPI: Effective and Generalized Prediction of Protein-protein Interactions through Transformer and Graph (**IF = 3.4, JCR Q1, IEEE Transactions on Computational Biology and Bioinformatics. (2025)**)  
     Sihan Wang, Shuai Zhang, Zhuo Chen, Xuqiang Li, **Jianmin Wang**, Wenjie Du, Yang Wang\*  
    [IEEE Trans. Comput. Biol. Bioinform.](https://doi.org/10.1109/TCBBIO.2025.3589598) | [code](https://github.com/SihanWang123/TRGH-PPI)  
