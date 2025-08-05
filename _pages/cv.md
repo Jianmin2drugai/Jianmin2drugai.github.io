@@ -48,6 +48,7 @@ Service and leadership
 * [PLoS computational biology](https://journals.plos.org/ploscompbiol/)
 * [Bioinformatics](https://academic.oup.com/bioinformatics)
 * [Briefings in Bioinformatics](https://academic.oup.com/bib)
+* [International Journal of Biological Macromolecules](https://www.sciencedirect.com/journal/international-journal-of-biological-macromolecules)
 * [Knowledge-Based Systems](https://www.sciencedirect.com/journal/knowledge-based-systems)
 * [Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing)
 * [GigaScience](https://academic.oup.com/gigascience)
