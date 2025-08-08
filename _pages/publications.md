@@ -17,6 +17,10 @@ author_profile: true
 
 ### &#x1F4C5;2025
 
+*   Interface-aware molecular generative framework for protein-protein interaction modulators (**IF = 5.7, JCR Q1, Journal of Cheminformatics (2025)**)  
+    Dayan Liu, Tao Song, Shuang Wang, Xue Li, Peifu Han,**Jianmin Wang**\*, Shudong Wang\*  
+    [J. Cheminform.](https://github.com/Bigrock-dd/AlphaPPIMI) | [code](https://github.com/Bigrock-dd/AlphaPPIMI)  
+
 *   ImageDDI: Image-enhanced Molecular Motif Sequence Representation for Drug-Drug Interaction Prediction (**IF = 15.5, JCR Q1, Information Fusion (2025)**)  
     Yuqin He, Tengfei Ma, Chaoyi Li, Pengsen Ma, Hongxin Xiang, **Jianmin Wang**, Yiping Liu, Bosheng Song\*, xiangxiang Zeng\*  
     [Inf. Fusion. (2025)](https://www.sciencedirect.com/journal/information-fusion) | [code](https://www.sciencedirect.com/journal/information-fusion)  
