@@ -19,7 +19,7 @@ author_profile: true
 
 *   AlphaPPIMI: A Comprehensive Deep Learning Framework for Predicting PPI-Modulator Interactions (**IF = 5.7, JCR Q1, Journal of Cheminformatics (2025)**)  
     Dayan Liu, Tao Song, Shuang Wang, Xue Li, Peifu Han, **Jianmin Wang**\*, Shudong Wang\*  
-    [J. Cheminform.](https://github.com/Bigrock-dd/AlphaPPIMI) | [code](https://github.com/Bigrock-dd/AlphaPPIMI)  
+    [J. Cheminform.(2025)](https://github.com/Bigrock-dd/AlphaPPIMI) | [code](https://github.com/Bigrock-dd/AlphaPPIMI)  
 
 *   ImageDDI: Image-enhanced Molecular Motif Sequence Representation for Drug-Drug Interaction Prediction (**IF = 15.5, JCR Q1, Information Fusion (2025)**)  
     Yuqin He, Tengfei Ma, Chaoyi Li, Pengsen Ma, Hongxin Xiang, **Jianmin Wang**, Yiping Liu, Bosheng Song\*, xiangxiang Zeng\*  
@@ -93,7 +93,7 @@ author_profile: true
 
 *   Interface-aware molecular generative framework for protein-protein interaction modulators (**IF = 7.1, JCR Q1, Journal of Cheminformatics (2024)**)  
     **Jianmin Wang**, Jiashun Mao, Chunyan Li, Hongxin Xiang, Xun Wang, Shuang Wang, Zixu Wang, Yangyang Chen, Yuquan Li, Kyoung Tai No\*, Tao Song\*, Xiangxiang Zeng\*  
-    [J. Cheminform.](https://doi.org/10.1186/s13321-024-00930-0) | [bioRxiv 2023](https://doi.org/10.1101/2023.10.10.557742) | [code](https://github.com/AspirinCode/GENiPPI)  
+    [J. Cheminform. (2024)](https://doi.org/10.1186/s13321-024-00930-0) | [bioRxiv 2023](https://doi.org/10.1101/2023.10.10.557742) | [code](https://github.com/AspirinCode/GENiPPI)  
 
 *   Logical Rules Enhanced Multimodal Reasoning Based on Biomedical Knowledge Graph (**BIBM (2024)**)  
     Peifu Han, Tao Song\*, **Jianmin Wang**  
