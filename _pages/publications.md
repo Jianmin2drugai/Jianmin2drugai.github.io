@@ -17,7 +17,7 @@ author_profile: true
 
 ### &#x1F4C5;2025
 
-*   Interface-aware molecular generative framework for protein-protein interaction modulators (**IF = 5.7, JCR Q1, Journal of Cheminformatics (2025)**)  
+*   AlphaPPIMI: A Comprehensive Deep Learning Framework for Predicting PPI-Modulator Interactions (**IF = 5.7, JCR Q1, Journal of Cheminformatics (2025)**)  
     Dayan Liu, Tao Song, Shuang Wang, Xue Li, Peifu Han,**Jianmin Wang**\*, Shudong Wang\*  
     [J. Cheminform.](https://github.com/Bigrock-dd/AlphaPPIMI) | [code](https://github.com/Bigrock-dd/AlphaPPIMI)  
 
