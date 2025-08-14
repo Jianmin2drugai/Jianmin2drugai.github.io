@@ -19,7 +19,7 @@ author_profile: true
 
 *   AlphaPPIMI: A Comprehensive Deep Learning Framework for Predicting PPI-Modulator Interactions (**IF = 5.7, JCR Q1, Journal of Cheminformatics (2025)**)  
     Dayan Liu, Tao Song, Shuang Wang, Xue Li, Peifu Han, **Jianmin Wang**\*, Shudong Wang\*  
-    [J. Cheminform.(2025)](https://github.com/Bigrock-dd/AlphaPPIMI) | [code](https://github.com/Bigrock-dd/AlphaPPIMI)  
+    [J. Cheminform.(2025)](https://doi.org/10.1186/s13321-025-01077-2) | [code](https://github.com/Bigrock-dd/AlphaPPIMI)  
 
 *   ImageDDI: Image-enhanced Molecular Motif Sequence Representation for Drug-Drug Interaction Prediction (**IF = 15.5, JCR Q1, Information Fusion (2025)**)  
     Yuqin He, Tengfei Ma, Chaoyi Li, Pengsen Ma, Hongxin Xiang, **Jianmin Wang**, Yiping Liu, Bosheng Song\*, xiangxiang Zeng\*  
