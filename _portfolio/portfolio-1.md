@@ -1,6 +1,6 @@
 ---
 title: "DrugOne"
-excerpt: "微信公众号(WeChat Official Accounts)DrugOne<br/><img src='/images/drugone_logo.png'>"
+excerpt: "微信公众号(WeChat Official Accounts) DrugOne & DrugAI <br/><img src='/images/drugone_merge.png'>"
 collection: portfolio
 ---
 
