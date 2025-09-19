@@ -57,6 +57,7 @@ Service and leadership
 * [BMC Bioinformatics](https://bmcbioinformatics.biomedcentral.com/)
 * [Briefings in functional genomics](https://academic.oup.com/bfg)
 * [Methods](https://www.sciencedirect.com/journal/methods)
+* [Journal of Biomolecular Structure and Dynamics](https://www.tandfonline.com/journals/tbsd20)
 * [Molecular Diversity](https://link.springer.com/journal/11030)
 * International Conference on Bioinformatics and Biomedicine (IEEE BIBM 2024 PC member)
 * International World Wide Web Conference 2025  (WWW25)
