@@ -17,6 +17,10 @@ author_profile: true
 
 ### &#x1F4C5;2025
 
+*   An Image-based Protein-Ligand Binding Representation Learning Framework via Multi-Level Flexible Dynamics Trajectory Pre-Training (**IF = 5.4, JCR Q1, Bioinformatics (2025)**)  
+    Hongxin Xiang, Mingquan Liu, Linlin Hou, Shuting Jin, **Jianmin Wang**\, Jun Xia, Wenjie Du, Sisi Yuan, Xiangzheng Fu, Xinyu Yang, Li Zeng, Lei Xu\*  
+    [Bioinformatics (2025)](https://doi.org/10.1093/bioinformatics/btaf535) | [code](https://github.com/HongxinXiang/ImagePLB)  
+
 *   AlphaPPIMI: A Comprehensive Deep Learning Framework for Predicting PPI-Modulator Interactions (**IF = 5.7, JCR Q1, Journal of Cheminformatics (2025)**)  
     Dayan Liu, Tao Song, Shuang Wang, Xue Li, Peifu Han, **Jianmin Wang**\*, Shudong Wang\*  
     [J. Cheminform.(2025)](https://doi.org/10.1186/s13321-025-01077-2) | [code](https://github.com/Bigrock-dd/AlphaPPIMI)  
@@ -59,11 +63,11 @@ author_profile: true
 
 *   MTGIB-UNet: A Multi-Task Graph Information Bottleneck and Uncertainty Weighted Network for ADMET Prediction  
     Xuqiang Li, Wenjie Du, Jun Xia, **Jianmin Wang**, Xiaoqi Wang, Yang Yang, Yang Wang\*  
-    [IJCAI2025](https://2025.ijcai.org/guangzhou-main-track-accepted-papers/) | [code](https://2025.ijcai.org/)  
+    [IJCAI2025](https://doi.org/10.24963/ijcai.2025/836) | [code](https://doi.org/10.24963/ijcai.2025/836)  
 
 *   DO-CoLM: Dynamic 3D Conformation Relationships Capture with Self-Adaptive Ordering Molecular Relational Modeling in Language Models  
     Zhuo Chen, Jiahui Zhang, Sihan Wang, Hongxin Xiang, **Jianmin Wang**, WenJie DU, Yang Wang\*  
-    [IJCAI2025](https://2025.ijcai.org/guangzhou-main-track-accepted-papers/) | [code](https://2025.ijcai.org/)  
+    [IJCAI2025](https://doi.org/10.24963/ijcai.2025/546) | [code](https://doi.org/10.24963/ijcai.2025/546)  
 
 *   Molecular dynamics-powered hierarchical geometric deep learning framework for protein-ligand interaction (**IF = 3.4, JCR Q1, IEEE Transactions on Computational Biology and Bioinformatics. (2025)**)  
     Mingquan Liu, Shuting Jin, Houtim Lai, Longyue Wang, **Jianmin Wang**, Zhixiang Cheng, Xiangxiang Zeng\*  
