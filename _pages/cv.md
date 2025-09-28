@@ -36,6 +36,8 @@ You can also find my articles on <a href="https://jianmin2drugai.github.io/publi
 Service and leadership
 ======
 
+* [知乎(DrugOne)](https://www.zhihu.com/people/wang-jian-min-113)
+
 #### **Reviewer** 
 * [Nature Communications](https://www.nature.com/ncomms)
 * [Chemical Science](https://www.rsc.org/journals-books-databases/about-journals/chemical-science)
