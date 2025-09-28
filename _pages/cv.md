@@ -37,6 +37,8 @@ Service and leadership
 ======
 
 * [知乎(DrugOne)](https://www.zhihu.com/people/wang-jian-min-113)
+* [CSDN(DrugOne)](https://blog.csdn.net/u012325865)
+* [腾讯云社区(DrugOne)](https://cloud.tencent.com/developer/user/8199873)
 
 #### **Reviewer** 
 * [Nature Communications](https://www.nature.com/ncomms)
