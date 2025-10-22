@@ -17,7 +17,7 @@ author_profile: true
 
 ### &#x1F4C5;2025
 
-*   FDiffMeta-RL: Reinforcement Learning-Guided Graph Diffusion for Metabolically Stable Molecular Generation (**IF = 5.3, JCR Q1, Journal of Chemical Information and Modeling (2025)**)  
+*   DiffMeta-RL: Reinforcement Learning-Guided Graph Diffusion for Metabolically Stable Molecular Generation (**IF = 5.3, JCR Q1, Journal of Chemical Information and Modeling (2025)**)  
     Dayan Liu, Tao Song, Shuang Wang, Xue Li, Peifu Han, Gehang Ju, **Jianmin Wang**\*, Shudong Wang\*  
     [J. Chem. Inf. Model](https://github.com/Bigrock-dd/DiffMeta) | [code](https://github.com/Bigrock-dd/DiffMeta)  
 
