@@ -19,7 +19,7 @@ author_profile: true
 
 *   DiffMeta-RL: Reinforcement Learning-Guided Graph Diffusion for Metabolically Stable Molecular Generation (**IF = 5.3, JCR Q1, Journal of Chemical Information and Modeling (2025)**)  
     Dayan Liu, Tao Song, Shuang Wang, Xue Li, Peifu Han, Gehang Ju, **Jianmin Wang**\*, Shudong Wang\*  
-    [J. Chem. Inf. Model](https://github.com/Bigrock-dd/DiffMeta) | [code](https://github.com/Bigrock-dd/DiffMeta)  
+    [J. Chem. Inf. Model](https://doi.org/10.1021/acs.jcim.5c02060) | [code](https://github.com/Bigrock-dd/DiffMeta)  
 
 *   An Image-based Protein-Ligand Binding Representation Learning Framework via Multi-Level Flexible Dynamics Trajectory Pre-Training (**IF = 5.4, JCR Q1, Bioinformatics (2025)**)  
     Hongxin Xiang, Mingquan Liu, Linlin Hou, Shuting Jin, **Jianmin Wang**\, Jun Xia, Wenjie Du, Sisi Yuan, Xiangzheng Fu, Xinyu Yang, Li Zeng, Lei Xu\*  
