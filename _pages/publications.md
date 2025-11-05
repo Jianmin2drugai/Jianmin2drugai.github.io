@@ -19,7 +19,7 @@ author_profile: true
 
 *   Efficient Generation of Protein and Protein-Protein Complex Dynamics via SE(3)-Parameterized Diffusion Models (**IF = 5.3, JCR Q1, Journal of Chemical Information and Modeling (2025)**)  
     Kai Xu†, **Jianmin Wang**†, Mingquan Liu, Kewei Zhou, Shaolong Lin, Weihong Li, Lin Shi, Peng Zhou, Huanxiang Liu\*, Xiaojun Yao\*  
-    [J. Chem. Inf. Model](https://github.com/lfs119/PTraj-Diff) | [code](https://github.com/lfs119/PTraj-Diff)  
+    [J. Chem. Inf. Model](https://doi.org/10.1021/acs.jcim.5c01971) | [code](https://github.com/lfs119/PTraj-Diff)  
 
 *   DiffMeta-RL: Reinforcement Learning-Guided Graph Diffusion for Metabolically Stable Molecular Generation (**IF = 5.3, JCR Q1, Journal of Chemical Information and Modeling (2025)**)  
     Dayan Liu, Tao Song, Shuang Wang, Xue Li, Peifu Han, Gehang Ju, **Jianmin Wang**\*, Shudong Wang\*  
