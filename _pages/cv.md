@@ -67,6 +67,7 @@ Service and leadership
 * [Journal of Computational Science](https://www.sciencedirect.com/journal/journal-of-computational-science)
 * [Artificial Intelligence Chemistry](https://www.sciencedirect.com/journal/artificial-intelligence-chemistry)
 * [Next Research](https://www.sciencedirect.com/journal/next-research)
+* [Journal of Biomolecular Structure and Dynamics](https://www.tandfonline.com/journals/tbsd20)
 * [IEEE Computational Intelligence Magazine](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10207)
 * [IEEE Journal of Biomedical and Health Informatics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221020)
 * [IEEE Transactions on Knowledge and Data Engineering](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69)
