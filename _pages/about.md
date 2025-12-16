@@ -17,7 +17,7 @@ Previously, I earned my undergraduate degree(B.S.) in pharmacy at the <a href="h
 
 &#x1F4E2;News
 ======
-&#x1F4E1;
+&#x1F4E1;2025/12/16: Today I successfully defended my PhD thesis and officially earned my Dr. title. I suppose I should feel proud at this moment, but what I truly feel is a deep sense of calm — and an overwhelming gratitude. I feel fortunate and genuinely appreciative of myself, and of all the support and help I’ve received throughout this journey.
 
 &#x1F3C6;2025.01.21 Received the **<a href="https://graduate.yonsei.ac.kr/graduate/board/news.do?mode=view&articleNo=220032&article.offset=0&articleLimit=10">Best Paper Award (College Excellence Award) for the Second Semester of 2024</a> in the Graduate School Education Innovation Program, Yonsei University.**
 
