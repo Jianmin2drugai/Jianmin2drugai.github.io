@@ -56,6 +56,7 @@ Service and leadership
 * [Results in Engineering](https://www.sciencedirect.com/journal/results-in-engineering)
 * [Neural Networks](https://www.sciencedirect.com/journal/neural-networks)
 * [Journal of Biological Engineering](https://link.springer.com/journal/13036)
+* [Information Sciences](https://www.sciencedirect.com/journal/information-sciences)
 * [iScience](https://www.cell.com/iscience)
 * [Structure](https://www.cell.com/structure/home)
 * [Computational and Structural Biotechnology Journal](https://www.sciencedirect.com/journal/computational-and-structural-biotechnology-journal)
