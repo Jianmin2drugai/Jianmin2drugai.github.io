@@ -15,6 +15,12 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+### &#x1F4C5;2026
+
+*   Molecular graph-based invariant representation learning with environmental inference and subgraph generation for out-of-distribution generalization (**IF = 5.7, JCR Q1, Journal of Cheminformatics (2026)**)  
+    Hang Zhu, Sisi Yuan, Mingjing Tang, Guifei Zhou, Zhanxuan Hu, Zhaoyang Liu, Jin Li, **Jianmin Wang** & Chunyan Li\*  
+    [J. Cheminform.](https://doi.org/10.1186/s13321-025-01142-w) | [code](https://github.com/anny0316/EISG)  
+
 ### &#x1F4C5;2025
 
 *   Efficient Generation of Protein and Protein-Protein Complex Dynamics via SE(3)-Parameterized Diffusion Models (**IF = 5.3, JCR Q1, Journal of Chemical Information and Modeling (2025)**)  
