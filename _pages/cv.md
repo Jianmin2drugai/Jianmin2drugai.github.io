@@ -44,6 +44,7 @@ Service and leadership
 * [Nature Communications](https://www.nature.com/ncomms)
 * [Chemical Science](https://www.rsc.org/journals-books-databases/about-journals/chemical-science)
 * [Research](https://spj.science.org/journal/research)
+* [European Journal of Medicinal Chemistry](https://www.sciencedirect.com/journal/european-journal-of-medicinal-chemistry)
 * [Journal of Cheminformatics](https://jcheminf.biomedcentral.com)
 * [Journal of Chemical Information and Modeling](https://pubs.acs.org/journal/jcisd8)
 * [PLoS computational biology](https://journals.plos.org/ploscompbiol/)
