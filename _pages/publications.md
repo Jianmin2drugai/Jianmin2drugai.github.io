@@ -17,6 +17,10 @@ author_profile: true
 
 ### &#x1F4C5;2026
 
+*   Prototype learning with structural-semantic alignment for interpretable molecular relational learning (**IF = 7.6, JCR Q1, Knowledge-based Systems (2026)**)  
+    Peiliang Zhang, Jingling Yuan, **Jianmin Wang**, Yongjun Zhu, Lin Li  
+    [Knowledge-based Systems](https://doi.org/10.1016/j.knosys.2026.115460) | [code](https://github.com/papercode-for-cheung/PPSA)  
+
 *   Molecular graph-based invariant representation learning with environmental inference and subgraph generation for out-of-distribution generalization (**IF = 5.7, JCR Q1, Journal of Cheminformatics (2026)**)  
     Hang Zhu, Sisi Yuan, Mingjing Tang, Guifei Zhou, Zhanxuan Hu, Zhaoyang Liu, Jin Li, **Jianmin Wang** & Chunyan Li\*  
     [J. Cheminform.](https://doi.org/10.1186/s13321-025-01142-w) | [code](https://github.com/anny0316/EISG)  
