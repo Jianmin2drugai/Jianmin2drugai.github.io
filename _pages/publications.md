@@ -19,25 +19,25 @@ author_profile: true
 
 *   Programmable DNA-based molecular reservoir biocomputing network circuits with emerging biomemristors for solving complex nonlinear problems (**IF = 3.9, JCR Q1, ACS Synthetic Biology (2026)**)  
     Yijun Xiao, Alfonso Rodríguez-Patón, **Jianmin Wang**, Pan Zheng, Tongmao Ma\*, Tao Song\*  
-    [ACS Synth. Biol.](https://pubs.acs.org/journal/asbcd6)  
+    [ACS Synth. Biol.(2026)](https://pubs.acs.org/journal/asbcd6)  
 
 *   Prototype learning with structural-semantic alignment for interpretable molecular relational learning (**IF = 7.6, JCR Q1, Knowledge-based Systems (2026)**)  
     Peiliang Zhang, Jingling Yuan, **Jianmin Wang**, Yongjun Zhu, Lin Li  
-    [Knowledge-based Systems](https://doi.org/10.1016/j.knosys.2026.115460) | [code](https://github.com/papercode-for-cheung/PPSA)  
+    [Knowledge-based Systems(2026)](https://doi.org/10.1016/j.knosys.2026.115460) | [code](https://github.com/papercode-for-cheung/PPSA)  
 
 *   Molecular graph-based invariant representation learning with environmental inference and subgraph generation for out-of-distribution generalization (**IF = 5.7, JCR Q1, Journal of Cheminformatics (2026)**)  
     Hang Zhu, Sisi Yuan, Mingjing Tang, Guifei Zhou, Zhanxuan Hu, Zhaoyang Liu, Jin Li, **Jianmin Wang** & Chunyan Li\*  
-    [J. Cheminform.](https://doi.org/10.1186/s13321-025-01142-w) | [code](https://github.com/anny0316/EISG)  
+    [J. Cheminform.(2026)](https://doi.org/10.1186/s13321-025-01142-w) | [code](https://github.com/anny0316/EISG)  
 
 ### &#x1F4C5;2025
 
 *   Efficient Generation of Protein and Protein-Protein Complex Dynamics via SE(3)-Parameterized Diffusion Models (**IF = 5.3, JCR Q1, Journal of Chemical Information and Modeling (2025)**)  
     Kai Xu†, **Jianmin Wang**†, Mingquan Liu, Kewei Zhou, Shaolong Lin, Weihong Li, Lin Shi, Peng Zhou, Huanxiang Liu\*, Xiaojun Yao\*  
-    [J. Chem. Inf. Model](https://doi.org/10.1021/acs.jcim.5c01971) | [code](https://github.com/lfs119/PTraj-Diff)  
+    [J. Chem. Inf. Model(2025)](https://doi.org/10.1021/acs.jcim.5c01971) | [code](https://github.com/lfs119/PTraj-Diff)  
 
 *   DiffMeta-RL: Reinforcement Learning-Guided Graph Diffusion for Metabolically Stable Molecular Generation (**IF = 5.3, JCR Q1, Journal of Chemical Information and Modeling (2025)**)  
     Dayan Liu, Tao Song, Shuang Wang, Xue Li, Peifu Han, Gehang Ju, **Jianmin Wang**\*, Shudong Wang\*  
-    [J. Chem. Inf. Model](https://doi.org/10.1021/acs.jcim.5c02060) | [code](https://github.com/Bigrock-dd/DiffMeta)  
+    [J. Chem. Inf. Model(2025)](https://doi.org/10.1021/acs.jcim.5c02060) | [code](https://github.com/Bigrock-dd/DiffMeta)  
 
 *   An Image-based Protein-Ligand Binding Representation Learning Framework via Multi-Level Flexible Dynamics Trajectory Pre-Training (**IF = 5.4, JCR Q1, Bioinformatics (2025)**)  
     Hongxin Xiang, Mingquan Liu, Linlin Hou, Shuting Jin, **Jianmin Wang**\, Jun Xia, Wenjie Du, Sisi Yuan, Xiangzheng Fu, Xinyu Yang, Li Zeng, Lei Xu\*  
