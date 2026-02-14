@@ -17,6 +17,10 @@ author_profile: true
 
 ### &#x1F4C5;2026
 
+*   Programmable DNA-based molecular reservoir biocomputing network circuits with emerging biomemristors for solving complex nonlinear problems (**IF = 3.9, JCR Q1, ACS Synthetic Biology (2026)**)  
+    Yijun Xiao, Alfonso Rodríguez-Patón, **Jianmin Wang**, Pan Zheng, Tongmao Ma\*, Tao Song\*  
+    [ACS Synth. Biol.](https://pubs.acs.org/journal/asbcd6)  
+
 *   Prototype learning with structural-semantic alignment for interpretable molecular relational learning (**IF = 7.6, JCR Q1, Knowledge-based Systems (2026)**)  
     Peiliang Zhang, Jingling Yuan, **Jianmin Wang**, Yongjun Zhu, Lin Li  
     [Knowledge-based Systems](https://doi.org/10.1016/j.knosys.2026.115460) | [code](https://github.com/papercode-for-cheung/PPSA)  
