@@ -17,6 +17,10 @@ author_profile: true
 
 ### &#x1F4C5;2026
 
+*   Disentangled molecular representation learning with context-aware codebook for OOD generalization (**IF = 7.6, JCR Q1, Knowledge-based Systems (2026)**)  
+    Chunyan Li, Shaojie Qiao, Guifei Zhou, **Jianmin Wang**  
+    [Knowledge-based Systems(2026)](https://doi.org/10.1016/j.knosys.2026.115634)  
+
 *   Programmable DNA-based molecular reservoir biocomputing network circuits with emerging biomemristors for solving complex nonlinear problems (**IF = 3.9, JCR Q1, ACS Synthetic Biology (2026)**)  
     Yijun Xiao, Alfonso Rodríguez-Patón, **Jianmin Wang**, Pan Zheng, Tongmao Ma\*, Tao Song\*  
     [ACS Synth. Biol.(2026)](https://doi.org/10.1021/acssynbio.5c00925)  
