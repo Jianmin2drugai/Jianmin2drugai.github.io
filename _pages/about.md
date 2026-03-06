@@ -21,7 +21,7 @@ Previously, I earned my undergraduate degree(B.S.) in pharmacy at the <a href="h
 
 **Yonsei University**  
 Department of Integrative Biotechnology  
-Ph.D. (M.S.–Ph.D. Program)  
+Ph.D. (Combined M.S.–Ph.D. Program)  
 Mar. 2021 – Feb. 2026
 
 Ph.D. Thesis:  
