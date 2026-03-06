@@ -15,6 +15,8 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+[![Google Scholar Citations](https://img.shields.io/endpoint?url=https://google-scholar-badge.vercel.app/citations?user=4ajuBSkAAAAJ&hl)](https://scholar.google.com/citations?user=4ajuBSkAAAAJ&hl=en)
+
 ### &#x1F4C5;2026
 
 *   Disentangled molecular representation learning with context-aware codebook for OOD generalization (**IF = 7.6, JCR Q1, Knowledge-based Systems (2026)**)  
