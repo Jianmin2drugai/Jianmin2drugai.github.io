@@ -15,6 +15,23 @@ My research focuses on drug discovery, medicinal chemistry,(generative) artifici
 
 Previously, I earned my undergraduate degree(B.S.) in pharmacy at the <a href="https://yxy.csu.edu.cn/">XiangYa School of Pharmaceutical Sciences(中南大学湘雅药学院)</a>, <a href="https://www.csu.edu.cn/">Central South University(中南大学)</a>, Changsha, China. I have worked with pharmaceutical related companies such as Zhejiang Hisun Pharmaceutical Co., Ltd. and Changsha Duxact Biotech Co., Ltd.. Additionally, I served as a research assistant in in silico drug design and deep learning for drug discovery at the College of Computer Science and Electronic Engineering, Hunan University, Changsha, China.
 
+
+&#x1F393;Education
+======
+
+**Yonsei University**  
+Department of Integrative Biotechnology  
+Ph.D. (M.S.–Ph.D. Program) 
+Mar. 2021 – Feb. 2026
+
+Ph.D. Thesis:  
+*Generative deep learning for designing protein-protein interaction modulators and exploring conformational ensembles of protein-protein complex*  
+[Thesis PDF](http://www.dcollection.net/handler/yonsei/000000562663)
+
+**Central South University**  
+B.S. in XiangYa School of Pharmaceutical Sciences  
+Sep. 2010 - Jul. 2014
+
 &#x1F4E2;News
 ======
 &#x1F4E1;**2025/12/16** : **Today I successfully defended my PhD thesis and officially earned my Dr. title.** I suppose I should feel proud at this moment, but what I truly feel is a deep sense of calm — and an overwhelming gratitude. I feel fortunate and genuinely appreciative of myself, and of all the support and help I’ve received throughout this journey.
