@@ -17,6 +17,10 @@ author_profile: true
 
 ### &#x1F4C5;2026
 
+*   Higher-order grammar representations for molecular topology generation and understanding (**Learning Meaningful Representations of Life (LMRL) Workshop at ICLR 2026**)  
+    Yiming Huang, Yujie Zeng, Vijay Prakash Dwivedi, Simone Foti, **Jianmin Wang**\*, Jure Leskovec, Tolga Birdal\*  
+    [ICLR 2026 Workshop(2026)](https://openreview.net/forum?id=AHHCuMItmh)  
+
 *   Disentangled molecular representation learning with context-aware codebook for OOD generalization (**IF = 7.6, JCR Q1, Knowledge-based Systems (2026)**)  
     Chunyan Li, Shaojie Qiao, Guifei Zhou, **Jianmin Wang**  
     [Knowledge-based Systems(2026)](https://doi.org/10.1016/j.knosys.2026.115634)  
