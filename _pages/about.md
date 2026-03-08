@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 
+<div class="card-section">
 Hello, welcome to Jianmin's personal website. I was born and raised in Minle county，Zhangye city(张掖市民乐县)，Gansu(甘肃) Province, China.
 
 I completed my Ph.D.（2021.03.01 to 2026.02.23） in the Interdisciplinary Graduate Program in Integrative Biotechnology  under the **Institute of Convergence Science and Technology** at <a href="https://www.yonsei.ac.kr/en_sc/">Yonsei University</a> in Republic of Korea, under the supervision of <a href="https://www.csblab.or.kr/">Prof. Kyoung Tai No</a> and <a href="https://chembio.yonsei.ac.kr/">Prof. YoungSoo Kim</a>.
@@ -14,8 +15,9 @@ I completed my Ph.D.（2021.03.01 to 2026.02.23） in the Interdisciplinary Grad
 My research focuses on drug discovery, medicinal chemistry,(generative) artificial intelligence, deep learning, chemoinformatics, and bioinformatics. Specifically, I apply deep learning methods and computational techniques to unlock drug R&D and health computing.
 
 Previously, I earned my undergraduate degree(B.S.) in pharmacy at the <a href="https://yxy.csu.edu.cn/">XiangYa School of Pharmaceutical Sciences(中南大学湘雅药学院)</a>, <a href="https://www.csu.edu.cn/">Central South University(中南大学)</a>, Changsha, China. I have worked with pharmaceutical related companies such as Zhejiang Hisun Pharmaceutical Co., Ltd. and Changsha Duxact Biotech Co., Ltd.. Additionally, I served as a research assistant in in silico drug design and deep learning for drug discovery at the College of Computer Science and Electronic Engineering, Hunan University, Changsha, China.
+</div>
 
-
+<div class="card-section">
 &#x1F393;Education
 ======
 
@@ -31,7 +33,9 @@ Ph.D. Thesis:
 **Central South University**  
 B.S. in XiangYa School of Pharmaceutical Sciences  
 Sep. 2010 - Jul. 2014
+</div>
 
+<div class="card-section">
 &#x1F4E2;News
 ======
 &#x1F4E1;**2025/12/16** : **Today I successfully defended my PhD thesis and officially earned my Dr. title.** I suppose I should feel proud at this moment, but what I truly feel is a deep sense of calm — and an overwhelming gratitude. I feel fortunate and genuinely appreciative of myself, and of all the support and help I’ve received throughout this journey.
@@ -51,13 +55,15 @@ Sep. 2010 - Jul. 2014
 &#x1F3C6;2022.08.08 <a href="https://jianmin2drugai.github.io/portfolio/portfolio-4/">梦想照进现实-CSDN实体奖牌：DrugAI</a>
 
 &#x1F3C6;2021.04.21 “DrugAI”入选 <a href="https://jianmin2drugai.github.io/portfolio/portfolio-6/">2020年度学术公众号Top10</a>
+</div>
 
-
+<div class="card-section">
 &#x1F4DA;Publications
 ======
 You can also find my articles on <a href="https://jianmin2drugai.github.io/publications/">Publications profile</a>.
+</div>
 
-
+<div class="card-section">
 &#x1F4C1;Resource
 ======
 
@@ -70,9 +76,10 @@ You can also find my articles on <a href="https://jianmin2drugai.github.io/publi
 * Collection of RNA, mRNA, DNA, Peptide, Protein, Antibody and Complex for Folding. Fork [[this repository](https://github.com/AspirinCode/awesome-BioMolFold)].
 
 * AI for Chemical Spectra. Fork [[this repository](https://github.com/AspirinCode/awesome-ChemicalSpectraAI)].
+</div>
 
-
+<div class="card-section">
 &#x1F4CC;Contact
 ======
 &#x2709;E-mail: drugai@hotmail.com
-
+</div>
