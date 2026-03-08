@@ -232,14 +232,14 @@ hr {
   }
 
   .card-section h1 {
-    font-size: 1.9rem;
-  }
-
-  .card-section h2 {
     font-size: 1.65rem;
   }
 
+  .card-section h2 {
+    font-size: 1.35rem;
+  }
+
   .card-section h3 {
-    font-size: 1.18rem;
+    font-size: 1.05rem;
   }
 }
