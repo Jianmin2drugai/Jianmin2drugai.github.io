@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+<div class="card-section" markdown="1">
 Education
 ======
 * Combined M.S. & Ph.D in Department of Integrative Biotechnology, Yonsei University, 2021.03~2026.02
@@ -25,7 +26,7 @@ Work experience
 * July 2014 to September 2016: Research Assistant (Drug R&D)
   * HiSun Pharmaceuticals Co., Ltd.	
   * Duties included: Drug Design and Drug Synthesis
-
+</div>
 
 Publications
 ======
