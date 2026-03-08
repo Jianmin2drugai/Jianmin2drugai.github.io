@@ -18,7 +18,7 @@ Previously, I earned my undergraduate degree(B.S.) in pharmacy at the <a href="h
 </div>
 
 <div class="card-section" markdown="1">
-## &#x1F393;Education
+&#x1F393;Education
 ======
 
 **Yonsei University**  
