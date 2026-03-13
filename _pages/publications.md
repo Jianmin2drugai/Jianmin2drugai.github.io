@@ -17,7 +17,7 @@ author_profile: true
 
 ### &#x1F4C5;2026
 
-*   Higher-order grammar representations for molecular topology generation and understanding (**Learning Meaningful Representations of Life (LMRL) Workshop at ICLR 2026**)  
+*   Higher-order grammar representations for molecular generation and learning (**Learning Meaningful Representations of Life (LMRL) Workshop at ICLR 2026**)  
     Yiming Huang, Yujie Zeng, Vijay Prakash Dwivedi, Simone Foti, **Jianmin Wang**\*, Jure Leskovec, Tolga Birdal\*  
     [ICLR 2026 Workshop(2026)](https://openreview.net/forum?id=AHHCuMItmh)  
 
