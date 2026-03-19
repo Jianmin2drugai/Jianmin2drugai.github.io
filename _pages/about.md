@@ -10,7 +10,7 @@ redirect_from:
 <div class="card-section" markdown="1">
 Hello, welcome to Jianmin's personal website. I was born and raised in Minle county，Zhangye city(张掖市民乐县)，Gansu(甘肃) Province, China.
 
-I completed my Ph.D.（2021.03.01 to 2026.02.23） in the Interdisciplinary Graduate Program in Integrative Biotechnology  under the **Institute of Convergence Science and Technology** at <a href="https://www.yonsei.ac.kr/en_sc/">Yonsei University</a> in Republic of Korea, under the supervision of <a href="https://www.csblab.or.kr/">Prof. Kyoung Tai No</a> and <a href="https://chembio.yonsei.ac.kr/">Prof. YoungSoo Kim</a>.
+I completed my Ph.D.（2021.03.01 to 2026.02.23） in the Interdisciplinary Graduate Program in Integrative Biotechnology  under the **Institute of Convergence Science and Technology** at <a href="https://www.yonsei.ac.kr">Yonsei University</a> in Republic of Korea, under the supervision of <a href="https://www.csblab.or.kr/">Prof. Kyoung Tai No</a> and <a href="https://chembio.yonsei.ac.kr/">Prof. YoungSoo Kim</a>.
 
 My research focuses on drug discovery, medicinal chemistry,(generative) artificial intelligence, deep learning, chemoinformatics, and bioinformatics. Specifically, I apply deep learning methods and computational techniques to unlock drug R&D and health computing.
 
