@@ -17,6 +17,10 @@ author_profile: true
 
 ### &#x1F4C5;2026
 
+*   Steering semi-flexible molecular diffusion model forstructure-based drug design withreinforcement learning (**IF = 12.5, JCR Q1, Science Advances(2026)**)  
+    Xudong Zhang, Sanging Qu, Fan Lu, **Jianmin Wang**, Zhixin Tian, Shangding Gu, Yanping Zhang\*, Alois Knoll, Shaorong Gao, Guang Chen\*, Changjun Jiang  
+    [Sci. Adv.(2026)](https://github.com/ispc-lab/SeFMol) | [code](https://github.com/ispc-lab/SeFMol)  
+
 *   Higher-order grammar representations for molecular generation and learning (**Learning Meaningful Representations of Life (LMRL) Workshop at ICLR 2026**)  
     Yiming Huang, Yujie Zeng, Vijay Prakash Dwivedi, Simone Foti, **Jianmin Wang**\*, Jure Leskovec, Tolga Birdal\*  
     [ICLR 2026 Workshop(2026)](https://openreview.net/forum?id=AHHCuMItmh)  
