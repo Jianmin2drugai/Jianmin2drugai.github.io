@@ -17,7 +17,7 @@ author_profile: true
 
 ### &#x1F4C5;2026
 
-*   Steering semi-flexible molecular diffusion model forstructure-based drug design withreinforcement learning (**IF = 12.5, JCR Q1, Science Advances(2026)**)  
+*   Steering semi-flexible molecular diffusion model for structure-based drug design with reinforcement learning (**IF = 12.5, JCR Q1, Science Advances(2026)**)  
     Xudong Zhang, Sanging Qu, Fan Lu, **Jianmin Wang**, Zhixin Tian, Shangding Gu, Yanping Zhang\*, Alois Knoll, Shaorong Gao, Guang Chen\*, Changjun Jiang  
     [Sci. Adv.(2026)](https://doi.org/10.1126/sciadv.ady9955) | [code](https://github.com/ispc-lab/SeFMol)  
 
