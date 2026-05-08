@@ -48,6 +48,7 @@ Service and leadership
 * [Chemical Science](https://www.rsc.org/journals-books-databases/about-journals/chemical-science)
 * [Research](https://spj.science.org/journal/research)
 * [Journal of Chemical Theory and Computation](https://pubs.acs.org/journal/jctcce)
+* [Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition)
 * [European Journal of Medicinal Chemistry](https://www.sciencedirect.com/journal/european-journal-of-medicinal-chemistry)
 * [Journal of Cheminformatics](https://jcheminf.biomedcentral.com)
 * [Journal of Chemical Information and Modeling](https://pubs.acs.org/journal/jcisd8)
