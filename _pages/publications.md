@@ -17,6 +17,10 @@ author_profile: true
 
 ### &#x1F4C5;2026
 
+*   Predicting protein–protein interaction sites based on dynamic perception mechanism within a hierarchical E(n)-equivariant graph (**IF = 7.7, JCR Q1, Briefings in Bioinformatics(2026)**)  
+    Xue Li, Suheng Qiao, Ziqi Li, Shihua Zhou, **Jianmin Wang**, Bin Wang, Tao Song\*, Ben Cao\*  
+    [Brief. Bioinform. (2026)](https://doi.org/10.1093/bib/bbag304) | [code](https://github.com/bencaocs/DHEG)  
+
 *   Steering semi-flexible molecular diffusion model for structure-based drug design with reinforcement learning (**IF = 12.5, JCR Q1, Science Advances(2026)**)  
     Xudong Zhang, Sanging Qu, Fan Lu, **Jianmin Wang**, Zhixin Tian, Shangding Gu, Yanping Zhang\*, Alois Knoll, Shaorong Gao, Guang Chen\*, Changjun Jiang  
     [Sci. Adv.(2026)](https://doi.org/10.1126/sciadv.ady9955) | [code](https://github.com/ispc-lab/SeFMol)  
