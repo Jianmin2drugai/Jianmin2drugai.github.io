@@ -17,6 +17,10 @@ author_profile: true
 
 ### &#x1F4C5;2026
 
+*   SparkleDock: Scalable High-Fidelity Macromolecular Docking for GPU-accelerated Supercomputers (**The International Conference for High Performance Computing, Networking, Storage, and Analysis (SC26)**)  
+    Xiangyu Meng, Peng Chen, Mingzhen Li, **Jianmin Wang**, Seng Wang, Guangming Tan, Weile Jia, Mohamed Wahib, Tao Luo, Xun Wang\*  
+    [SC26 (2026)](https://sc26.supercomputing.org/) | [code](https://sc26.supercomputing.org/)  
+
 *   Predicting protein–protein interaction sites based on dynamic perception mechanism within a hierarchical E(n)-equivariant graph (**IF = 7.7, JCR Q1, Briefings in Bioinformatics(2026)**)  
     Xue Li, Suheng Qiao, Ziqi Li, Shihua Zhou, **Jianmin Wang**, Bin Wang, Tao Song\*, Ben Cao\*  
     [Brief. Bioinform. (2026)](https://doi.org/10.1093/bib/bbag304) | [code](https://github.com/bencaocs/DHEG)  
