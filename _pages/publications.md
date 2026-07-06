@@ -17,6 +17,10 @@ author_profile: true
 
 ### &#x1F4C5;2026
 
+*   TPS-Flow: physics-guided flow-based generative modeling of protein transition paths (**IF = 5.3, JCR Q1, Journal of Chemical Information and Modeling (2026)**)  
+    Kai Xu†, Likun Zhao, Yanan Tian, Kewei Zhou, Jieying Zang, **Jianmin Wang**, Yuquan Li, Shihang Wang, Shaolong Lin, Huanxiang Liu\*, Xiaojun Yao\*  
+    [J. Chem. Inf. Model(2026)](https://github.com/lfs119/TPS-Flow) | [code](https://github.com/lfs119/TPS-Flow) | [Zenodo](https://doi.org/10.5281/zenodo.17731628)
+    
 *   SparkleDock: Scalable High-Fidelity Macromolecular Docking for GPU-accelerated Supercomputers (**The International Conference for High Performance Computing, Networking, Storage, and Analysis (SC26)**)  
     Xiangyu Meng, Peng Chen, Mingzhen Li, **Jianmin Wang**, Seng Wang, Guangming Tan, Weile Jia, Mohamed Wahib, Tao Luo, Xun Wang\*  
     [SC26 (2026)](https://sc26.supercomputing.org/) | [code](https://sc26.supercomputing.org/) | [Zenodo](https://zenodo.org/records/19657213)  
