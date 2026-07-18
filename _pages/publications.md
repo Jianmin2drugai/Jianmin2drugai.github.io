@@ -17,6 +17,10 @@ author_profile: true
 
 ### &#x1F4C5;2026
 
+*   Activity-cliff awareness enables robust graph learning for molecular property prediction (**IF = 18.1, JCR Q1, Nature Communications 2026**)  
+    Chao Cui, Xiaorui Su, Zaixi Zhang, Alejandro Velez-Arce, **Jianmin Wang**, Xiangcheng Shi, Yanbing Zhang, Jie Wu, Marinka Zitnik, Yuzong Chen\* Wanxiang Shen\*  
+    [Nat. Commun. (2026)](https://chemrxiv.org/doi/full/10.26434/chemrxiv-2023-5cz7s/v5) | [ChemRxiv(2026)](https://chemrxiv.org/doi/full/10.26434/chemrxiv-2023-5cz7s/v5) | [code](https://github.com/shenwanxiang/ACANet)  
+
 *   TPS-Flow: physics-guided flow-based generative modeling of protein transition paths (**IF = 5.3, JCR Q1, Journal of Chemical Information and Modeling (2026)**)  
     Kai Xu†, Likun Zhao, Yanan Tian, Kewei Zhou, Jieying Zang, **Jianmin Wang**, Yuquan Li, Shihang Wang, Shaolong Lin, Huanxiang Liu\*, Xiaojun Yao\*  
     [J. Chem. Inf. Model(2026)](https://doi.org/10.1021/acs.jcim.6c00807) | [code](https://github.com/lfs119/TPS-Flow) | [Zenodo](https://doi.org/10.5281/zenodo.17731628)
@@ -148,10 +152,6 @@ author_profile: true
 *   Logical Rules Enhanced Multimodal Reasoning Based on Biomedical Knowledge Graph (**BIBM (2024)**)  
     Peifu Han, Tao Song\*, **Jianmin Wang**  
     [2024 IEEE International Conference on Bioinformatics and Biomedicine](https://ieeexplore.ieee.org/document/10821810)  
-
-*   Activity cliff-informed contrastive learning for molecular property prediction (**Under Review, ChemRxiv 2024**)  
-    Wanxiang Shen, Chao Cui, Xiaorui Su, Zaixi Zhang, Alejandro Velez-Arce, **Jianmin Wang**, Xiangcheng Shi, Yanbing Zhang, Jie Wu, Yuzong Chen\* and Marinka Zitnik\*  
-    [ChemRxiv](https://doi.org/10.26434/chemrxiv-2023-5cz7s-v2) | [code](https://github.com/shenwanxiang/ACANet)  
 
 *   Diffusion-based generative drug-like molecular editing with chemical natural language (**IF = 6.1, JCR Q1, Journal of Pharmaceutical Analysis (2024)**)  
     **Jianmin Wang**, Peng Zhou, Zixu Wang, Wei Long, Yangyang Chen, Kyoung Tai No, Dongsheng Ouyang\*，Jiashun Mao\* and Xiangxiang Zeng\*  
