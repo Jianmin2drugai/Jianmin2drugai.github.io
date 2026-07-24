@@ -19,7 +19,7 @@ author_profile: true
 
 *   Activity-cliff awareness enables robust graph learning for molecular property prediction (**IF = 18.1, JCR Q1, Nature Communications 2026**)  
     Chao Cui, Xiaorui Su, Zaixi Zhang, Alejandro Velez-Arce, **Jianmin Wang**, Xiangcheng Shi, Yanbing Zhang, Jie Wu, Marinka Zitnik, Yuzong Chen\* Wanxiang Shen\*  
-    [Nat. Commun. (2026)](https://chemrxiv.org/doi/full/10.26434/chemrxiv-2023-5cz7s/v5) | [ChemRxiv(2026)](https://chemrxiv.org/doi/full/10.26434/chemrxiv-2023-5cz7s/v5) | [code](https://github.com/shenwanxiang/ACANet)  
+    [Nat. Commun. (2026)](https://doi.org/10.1038/S41467-026-75713-2) | [ChemRxiv(2026)](https://chemrxiv.org/doi/full/10.26434/chemrxiv-2023-5cz7s/v5) | [code](https://github.com/shenwanxiang/ACANet)  
 
 *   TPS-Flow: physics-guided flow-based generative modeling of protein transition paths (**IF = 5.3, JCR Q1, Journal of Chemical Information and Modeling (2026)**)  
     Kai Xu†, Likun Zhao, Yanan Tian, Kewei Zhou, Jieying Zang, **Jianmin Wang**, Yuquan Li, Shihang Wang, Shaolong Lin, Huanxiang Liu\*, Xiaojun Yao\*  
