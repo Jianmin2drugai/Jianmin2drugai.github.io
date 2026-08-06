@@ -17,6 +17,10 @@ author_profile: true
 
 ### &#x1F4C5;2026
 
+*   An OpenMM-Based ML/MM–MMGBSA Workflow for Endpoint Protein–Ligand Binding Energy Ranking (**IF = 5.3, JCR Q1, Journal of Chemical Information and Modeling (2026)**)  
+    Chenchen Wang, Shihang Wang, Silong Zhai, Li Qin, Kai Xu, **Jianmin Wang**, Huanxiang Liu\*, Xiaojun Yao\*  
+    [J. Chem. Inf. Model(2026)](https://github.com/ChenchenWang-AIDD/mlmm-gbsa) | [code](https://github.com/ChenchenWang-AIDD/mlmm-gbsa)
+
 *   Activity-cliff awareness enables robust graph learning for molecular property prediction (**IF = 18.1, JCR Q1, Nature Communications 2026**)  
     Chao Cui, Xiaorui Su, Zaixi Zhang, Alejandro Velez-Arce, **Jianmin Wang**, Xiangcheng Shi, Yanbing Zhang, Jie Wu, Marinka Zitnik, Yuzong Chen\* Wanxiang Shen\*  
     [Nat. Commun. (2026)](https://doi.org/10.1038/S41467-026-75713-2) | [ChemRxiv(2026)](https://chemrxiv.org/doi/full/10.26434/chemrxiv-2023-5cz7s/v5) | [code](https://github.com/shenwanxiang/ACANet)  
