@@ -17,6 +17,10 @@ author_profile: true
 
 ### &#x1F4C5;2026
 
+*   Similarity-enhanced representation learning of non-canonical amino acids for therapeutic peptide modeling (**IF = 14.1, JCR Q1, Advanced Science (2026)**)  
+    Chencheng Xu, Lesong Wei, **Jianmin Wang**, Yuanpeng Xiong, Ruochi Zhang, Yu Wang, Chao Zha, Qiangcheng Zeng\*, Xin Gao\*  
+    [Adv. Sci.(2026)](https://github.com/Zoesgithub/SinCAA) | [code](https://github.com/Zoesgithub/SinCAA)
+
 *   An OpenMM-Based ML/MM–MMGBSA Workflow for Endpoint Protein–Ligand Binding Energy Ranking (**IF = 5.3, JCR Q1, Journal of Chemical Information and Modeling (2026)**)  
     Chenchen Wang, Shihang Wang, Silong Zhai, Li Qin, Kai Xu, **Jianmin Wang**, Huanxiang Liu\*, Xiaojun Yao\*  
     [J. Chem. Inf. Model(2026)](https://doi.org/10.1021/acs.jcim.6c01539) | [code](https://github.com/ChenchenWang-AIDD/mlmm-gbsa)
