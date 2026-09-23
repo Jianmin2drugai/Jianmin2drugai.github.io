@@ -54,6 +54,7 @@ Service and leadership
 * [European Journal of Medicinal Chemistry](https://www.sciencedirect.com/journal/european-journal-of-medicinal-chemistry)
 * [Journal of Cheminformatics](https://jcheminf.biomedcentral.com)
 * [Journal of Chemical Information and Modeling](https://pubs.acs.org/journal/jcisd8)
+* [Physical Chemistry Chemical Physics](https://pubs.rsc.org/cp)
 * [PLoS computational biology](https://journals.plos.org/ploscompbiol/)
 * [Bioinformatics](https://academic.oup.com/bioinformatics)
 * [Briefings in Bioinformatics](https://academic.oup.com/bib)
