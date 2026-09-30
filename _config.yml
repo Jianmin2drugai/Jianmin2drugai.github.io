@@ -15,7 +15,7 @@ name                     : &name "Jianmin Wang"
 description              : &description "personal description"
 url                      : https://jianmin2drugai.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://jianmin2drugai.github.io"
+repository               : "Jianmin2drugai/Jianmin2drugai.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -170,6 +170,8 @@ exclude:
   - log
   - node_modules
   - package.json
+  - tests
+  - THEMES.md
   - tmp
   - vendor
 keep_files:
@@ -292,7 +294,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
-  - jekyll-emoji
+  - jemoji
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate

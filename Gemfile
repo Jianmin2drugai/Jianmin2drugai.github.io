@@ -27,8 +27,7 @@ group :jekyll_plugins do
   gem 'jekyll-redirect-from'
   gem 'hawkins'
   gem "webrick", "~> 1.8"
-  gem 'jekyll-emoji'
+  gem 'jemoji'
 end
 
-gem 'github-pages'
 gem 'connection_pool', '2.5.0'

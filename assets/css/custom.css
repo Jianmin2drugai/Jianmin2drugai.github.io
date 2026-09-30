@@ -1,6 +1,6 @@
 /* ===== Global page background ===== */
 body {
-  background: #f5f6f8;
+  background: var(--global-bg-color);
 }
 
 /* ===== Main content width & breathing room ===== */
@@ -12,12 +12,12 @@ body {
 .page__content {
   font-size: 1.08rem;
   line-height: 1.5;
-  color: #374151;
+  color: var(--global-text-color);
 }
 
 /* ===== Card section ===== */
 .card-section {
-  background: #ffffff;
+  background: var(--global-bg-color);
   border-radius: 26px;
   padding: 20px 26px;
   margin: 0 0 10px 0;
@@ -41,7 +41,7 @@ body {
 .card-section h3 {
   margin-top: 0;
   line-height: 1.3;
-  color: #2f343f;
+  color: var(--global-text-color);
 }
 
 .card-section h1 {
@@ -92,7 +92,7 @@ body {
 
 /* ===== Mini cards inside sections ===== */
 .sub-card {
-  background: #fbfcfe;
+  background: var(--global-code-background-color);
   border: 1px solid rgba(17, 24, 39, 0.05);
   border-radius: 16px;
   padding: 18px 20px;
@@ -117,12 +117,12 @@ body {
 .edu-school {
   font-size: 1.05rem;
   font-weight: 800;
-  color: #2f343f;
+  color: var(--global-text-color);
   margin-bottom: 6px;
 }
 
 .edu-meta {
-  color: #4b5563;
+  color: var(--global-text-color-light);
   margin-bottom: 8px;
 }
 
@@ -131,8 +131,8 @@ body {
   margin-top: 4px;
   padding: 4px 10px;
   border-radius: 999px;
-  background: #eef2ff;
-  color: #374151;
+  background: var(--global-thead-color);
+  color: var(--global-text-color);
   font-size: 0.95rem;
   font-weight: 600;
 }
@@ -141,8 +141,8 @@ body {
 .thesis-box {
   margin-top: 14px;
   padding: 16px 18px;
-  border-left: 4px solid #60a5fa;
-  background: #f8fbff;
+  border-left: 4px solid var(--global-link-color);
+  background: var(--global-bg-color);
   border-radius: 10px;
 }
 
@@ -157,7 +157,7 @@ body {
   position: relative;
   padding: 0 0 22px 28px;
   margin: 0 0 20px 0;
-  border-left: 2px solid #e5e7eb;
+  border-left: 2px solid var(--global-border-color);
 }
 
 .news-item:last-child {
@@ -173,30 +173,30 @@ body {
   width: 12px;
   height: 12px;
   border-radius: 999px;
-  background: #3b82f6;
-  box-shadow: 0 0 0 4px #eff6ff;
+  background: var(--global-link-color);
+  box-shadow: 0 0 0 4px var(--global-bg-color);
 }
 
 .news-date {
   display: inline-block;
   font-weight: 700;
-  color: #2563eb;
+  color: var(--global-link-color);
   margin-bottom: 6px;
 }
 
 .news-title {
   font-weight: 700;
-  color: #111827;
+  color: var(--global-text-color);
 }
 
 .news-text {
-  color: #374151;
+  color: var(--global-text-color);
   margin-top: 6px;
 }
 
 /* ===== Optional hero intro ===== */
 .hero-intro {
-  background: linear-gradient(135deg, #ffffff 0%, #f8fbff 100%);
+  background: linear-gradient(135deg, var(--global-bg-color) 0%, var(--global-bg-color) 100%);
 }
 
 .hero-intro h1 {
@@ -205,7 +205,7 @@ body {
 
 .hero-intro .lead {
   font-size: 1.15rem;
-  color: #374151;
+  color: var(--global-text-color);
 }
 
 /* ===== Icon spacing ===== */
@@ -243,3 +243,24 @@ hr {
     font-size: 1.05rem;
   }
 }
+
+/* Shared surfaces and controls follow the selected Academic Pages palette. */
+.card-section, .sub-card, .edu-item, hr { border-color: var(--global-border-color); }
+.sub-card, .edu-date { background: var(--global-bg-color); color: var(--global-text-color); }
+.page__content a { border-bottom-color: var(--global-border-color); }
+.page__content a:hover { border-bottom-color: var(--global-link-color-hover); }
+html { color-scheme: light; }
+html[data-theme="dark"] { color-scheme: dark; }
+.greedy-nav .theme-switch {
+  position: static;
+  padding: 0.5rem;
+  margin-left: 0.5rem;
+  font: inherit;
+  line-height: 1;
+}
+.greedy-nav .theme-switch:focus-visible { outline: 2px solid var(--global-link-color); }
+
+.page__footer footer { color: inherit; }
+/* Measure navigation at its natural width so overflow links cannot cover the toggle. */
+.greedy-nav .visible-links { width: max-content; }
+.greedy-nav .visible-links li:first-child { white-space: nowrap; }
