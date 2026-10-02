@@ -17,6 +17,14 @@ author_profile: true
 
 ### &#x1F4C5;2026
 
+*   Higher-order grammar representations for molecular generation and learning (**Manuscript under consideration 2026**)  
+    Yiming Huang, Yujie Zeng, Vijay Prakash Dwivedi, Simone Foti, **Jianmin Wang**\*, Jure Leskovec, Tolga Birdal\*  
+    [Manuscript under consideration(2026)](https://doi.org/10.48550/arXiv.2610.02186) | [code](https://github.com/circle-group/HGR)  
+
+*   Stretching Features and Labels for Out-of-Distribution Generalization in Molecular Representation Learning (**IF = 18.1, JCR Q1, Nature Communications 2026**)  
+    Sanqing Qu, Xudong Zhang, Wei He, Fan Lu, Ruohui Tang, Jianfeng Sun, **Jianmin Wang**, Jieneng Chen, Alois Knoll, Shaorong Gao, Changjun Jiang, Yanping Zhang\*, Guang Chen\*  
+    [Nat. Commun. (2026)](https://github.com/ispc-lab/SFL) | [code](https://github.com/ispc-lab/SFL)
+
 *   Similarity-enhanced representation learning of non-canonical amino acids for therapeutic peptide modeling (**IF = 14.1, JCR Q1, Advanced Science (2026)**)  
     Chencheng Xu, Lesong Wei, **Jianmin Wang**, Yuanpeng Xiong, Ruochi Zhang, Yu Wang, Chao Zha, Qiangcheng Zeng\*, Xin Gao\*  
     [Adv. Sci.(2026)](https://doi.org/10.1002/advs.77511) | [code](https://github.com/Zoesgithub/SinCAA)
