@@ -10,9 +10,11 @@ redirect_from:
 <div class="card-section" markdown="1">
 Hello, welcome to Jianmin's personal website. I was born and raised in Minle county，Zhangye city(张掖市民乐县)，Gansu(甘肃) Province, China.
 
-I completed my Ph.D.（2021.03.01 to 2026.02.23） in the Interdisciplinary Graduate Program in Integrative Biotechnology  under the **Institute of Convergence Science and Technology** at <a href="https://www.yonsei.ac.kr">Yonsei University</a> in Republic of Korea, under the supervision of <a href="https://www.csblab.or.kr/">Prof. Kyoung Tai No</a> and <a href="https://chembio.yonsei.ac.kr/">Prof. YoungSoo Kim</a>.
+I am currently a <strong>Postdoctoral Fellow</strong> in the Department of Computer Science and Engineering at <strong>The Chinese University of Hong Kong (CUHK)</strong>, working with <a href="https://appsrv.cse.cuhk.edu.hk/~pheng/Home.html">Prof. Pheng Ann Heng</a>.
 
-My research focuses on drug discovery, medicinal chemistry,(generative) artificial intelligence, deep learning, chemoinformatics, and bioinformatics. Specifically, I apply deep learning methods and computational techniques to unlock drug R&D and health computing.
+I received my Ph.D.（March 2021 – February 2026） in the Interdisciplinary Graduate Program in Integrative Biotechnology  under the **Institute of Convergence Science and Technology** at <a href="https://www.yonsei.ac.kr">Yonsei University</a> in Republic of Korea, under the supervision of <a href="https://www.csblab.or.kr/">Prof. Kyoung Tai No</a> and <a href="https://chembio.yonsei.ac.kr/">Prof. YoungSoo Kim</a>.
+
+My research interests lie at the intersection of artificial intelligence, computational biochemistry, and pharmaceutical sciences, with a particular focus on deep learning, generative AI, molecular modeling, cheminformatics, and bioinformatics. I aim to develop AI-driven computational methods to accelerate molecular discovery, therapeutic design, and biomedical research.
 
 Previously, I earned my undergraduate degree(B.S.) in pharmacy at the <a href="https://yxy.csu.edu.cn/">XiangYa School of Pharmaceutical Sciences</a>, <a href="https://www.csu.edu.cn/">Central South University</a>, Changsha, China. I have worked with pharmaceutical related companies such as Zhejiang Hisun Pharmaceutical Co., Ltd. and Changsha Duxact Biotech Co., Ltd.. Additionally, I served as a research assistant in in silico drug design and deep learning for drug discovery at the College of Computer Science and Electronic Engineering, Hunan University, Changsha, China.
 </div>
