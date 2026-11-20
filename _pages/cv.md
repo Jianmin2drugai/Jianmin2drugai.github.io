@@ -60,6 +60,7 @@ Service and leadership
 * [Briefings in Bioinformatics](https://academic.oup.com/bib)
 * [Digital Discovery](https://pubs.rsc.org/en/journals/journalissues/dd)
 * [International Journal of Biological Macromolecules](https://www.sciencedirect.com/journal/international-journal-of-biological-macromolecules)
+* [Expert Systems With Applications](https://www.sciencedirect.com/journal/expert-systems-with-applications)
 * [Knowledge-Based Systems](https://www.sciencedirect.com/journal/knowledge-based-systems)
 * [Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing)
 * [GigaScience](https://academic.oup.com/gigascience)
