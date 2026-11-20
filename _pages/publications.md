@@ -25,6 +25,10 @@ author_profile: true
     Sanqing Qu, Xudong Zhang, Wei He, Fan Lu, Ruohui Tang, Jianfeng Sun, **Jianmin Wang**, Jieneng Chen, Alois Knoll, Shaorong Gao, Changjun Jiang, Yanping Zhang\*, Guang Chen\*  
     [Nat. Commun. (2026)](https://github.com/ispc-lab/SFL) | [code](https://github.com/ispc-lab/SFL)
 
+*   SparkleDock: Scalable High-Fidelity Macromolecular Docking for GPU-accelerated Supercomputers (**The International Conference for High Performance Computing, Networking, Storage, and Analysis (SC26)**)  
+    Xiangyu Meng, Peng Chen, Mingzhen Li, **Jianmin Wang**, Seng Wang, Guangming Tan, Weile Jia, Mohamed Wahib, Tao Luo, Xun Wang\*  
+    [SC26 (2026)](https://doi.ieeecomputersociety.org/10.1109/SC51908.2026.00114) | [code](https://github.com/menggerSherry/SparkleDock) | [Zenodo](https://zenodo.org/records/19657213)  
+
 *   Similarity-enhanced representation learning of non-canonical amino acids for therapeutic peptide modeling (**IF = 14.1, JCR Q1, Advanced Science (2026)**)  
     Chencheng Xu, Lesong Wei, **Jianmin Wang**, Yuanpeng Xiong, Ruochi Zhang, Yu Wang, Chao Zha, Qiangcheng Zeng\*, Xin Gao\*  
     [Adv. Sci.(2026)](https://doi.org/10.1002/advs.77511) | [code](https://github.com/Zoesgithub/SinCAA)
@@ -39,11 +43,7 @@ author_profile: true
 
 *   TPS-Flow: physics-guided flow-based generative modeling of protein transition paths (**IF = 5.3, JCR Q1, Journal of Chemical Information and Modeling (2026)**)  
     Kai Xu†, Likun Zhao, Yanan Tian, Kewei Zhou, Jieying Zang, **Jianmin Wang**, Yuquan Li, Shihang Wang, Shaolong Lin, Huanxiang Liu\*, Xiaojun Yao\*  
-    [J. Chem. Inf. Model(2026)](https://doi.org/10.1021/acs.jcim.6c00807) | [code](https://github.com/lfs119/TPS-Flow) | [Zenodo](https://doi.org/10.5281/zenodo.17731628)
-    
-*   SparkleDock: Scalable High-Fidelity Macromolecular Docking for GPU-accelerated Supercomputers (**The International Conference for High Performance Computing, Networking, Storage, and Analysis (SC26)**)  
-    Xiangyu Meng, Peng Chen, Mingzhen Li, **Jianmin Wang**, Seng Wang, Guangming Tan, Weile Jia, Mohamed Wahib, Tao Luo, Xun Wang\*  
-    [SC26 (2026)](https://sc26.supercomputing.org/) | [code](https://sc26.supercomputing.org/) | [Zenodo](https://zenodo.org/records/19657213)  
+    [J. Chem. Inf. Model(2026)](https://doi.org/10.1021/acs.jcim.6c00807) | [code](https://github.com/lfs119/TPS-Flow) | [Zenodo](https://doi.org/10.5281/zenodo.17731628)  
 
 *   Predicting protein–protein interaction sites based on dynamic perception mechanism within a hierarchical E(n)-equivariant graph (**IF = 7.7, JCR Q1, Briefings in Bioinformatics(2026)**)  
     Xue Li, Suheng Qiao, Ziqi Li, Shihua Zhou, **Jianmin Wang**, Bin Wang, Tao Song\*, Ben Cao\*  
