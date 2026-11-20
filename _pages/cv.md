@@ -88,6 +88,7 @@ Service and leadership
 * [IEEE Transactions on Neural Networks and Learning Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385)
 * [IEEE Transactions on Knowledge and Data Engineering](https://dl.acm.org/journal/ieeecs_tkde)
 * [IEEE Transactions on Big Data](https://www.computer.org/csdl/journal/bd)
+* [IEEE Transactions on Computational Biology and Bioinformatics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8857)
 * International Conference on Bioinformatics and Biomedicine (IEEE BIBM 2024 PC member)
 * International World Wide Web Conference 2025  (WWW25)
 * International Conference on Bioinformatics and Biomedicine (IEEE BIBM 2025 PC member)
